@@ -1,0 +1,5296 @@
+Country or Area,Year,Male Household Labor force participation,Female Household Labor force participation
+Afghanistan,2020,86.0,18.7
+Afghanistan,2019,93.481,25.42
+Afghanistan,2018,93.689,25.055
+Afghanistan,2017,93.9,24.7
+Afghanistan,2016,95.035,23.459
+Afghanistan,2015,96.126,22.243
+Afghanistan,2014,97.18,21.092
+Afghanistan,2013,98.19,20.008
+Afghanistan,2012,99.113,18.944
+Afghanistan,2011,99.503,18.629
+Afghanistan,2010,99.766,18.363
+Afghanistan,2009,99.65,18.311
+Afghanistan,2008,99.451,18.373
+Afghanistan,2007,99.097,18.384
+Afghanistan,2006,98.785,18.402
+Afghanistan,2005,98.678,18.566
+Afghanistan,2004,98.877,18.429
+Angola,2022,96.962,88.813
+Angola,2021,96.563,88.167
+Angola,2020,96.679,87.688
+Angola,2019,97.2,88.2
+Angola,2018,97.172,88.107
+Angola,2017,97.186,88.073
+Angola,2016,97.225,88.09
+Angola,2015,97.317,88.17
+Angola,2014,97.413,88.234
+Angola,2013,97.509,88.328
+Angola,2012,97.614,88.454
+Angola,2011,97.7,88.6
+Angola,2010,98.044,88.754
+Angola,2009,98.151,88.69
+Angola,2008,98.259,88.643
+Angola,2007,98.282,88.544
+Angola,2006,98.258,88.426
+Angola,2005,98.216,88.318
+Angola,2004,98.11,87.97
+Albania,2022,92.491,68.883
+Albania,2021,91.727,68.167
+Albania,2020,89.728,65.727
+Albania,2019,94.2,70.0
+Albania,2018,94.3,67.7
+Albania,2017,95.817,66.483
+Albania,2016,93.583,67.139
+Albania,2015,91.905,63.901
+Albania,2014,90.999,58.899
+Albania,2013,88.928,57.861
+Albania,2012,90.479,62.545
+Albania,2011,92.483,66.12
+Albania,2010,93.12,62.599
+Albania,2009,93.276,59.945
+Albania,2008,89.303,60.309
+Albania,2007,90.379,59.953
+Albania,2006,91.29,59.55
+Albania,2005,92.045,59.091
+Albania,2004,92.664,58.595
+United Arab Emirates,2022,97.492,34.99
+United Arab Emirates,2021,98.171,33.514
+United Arab Emirates,2020,98.14,43.408
+United Arab Emirates,2019,98.5,37.8
+United Arab Emirates,2018,98.876,31.655
+United Arab Emirates,2017,98.926,32.177
+United Arab Emirates,2016,99.026,30.48
+United Arab Emirates,2015,99.063,29.125
+United Arab Emirates,2014,99.095,27.767
+United Arab Emirates,2013,99.129,26.394
+United Arab Emirates,2012,99.172,24.992
+United Arab Emirates,2011,99.23,23.548
+United Arab Emirates,2010,99.306,22.054
+United Arab Emirates,2009,99.322,20.698
+United Arab Emirates,2008,99.229,19.591
+United Arab Emirates,2007,99.068,18.639
+United Arab Emirates,2006,98.868,17.774
+United Arab Emirates,2005,98.721,16.791
+United Arab Emirates,2004,98.556,16.353
+Argentina,2022,96.796,63.367
+Argentina,2021,98.3,63.5
+Argentina,2020,93.7,54.2
+Argentina,2019,98.4,61.4
+Argentina,2018,98.2,59.4
+Argentina,2017,98.4,57.2
+Argentina,2016,98.489,56.725
+Argentina,2015,98.566,56.227
+Argentina,2014,98.6,55.7
+Argentina,2013,98.8,55.9
+Argentina,2012,98.8,54.8
+Argentina,2011,98.9,55.4
+Argentina,2010,98.9,55.0
+Argentina,2009,98.219,56.206
+Argentina,2008,98.452,54.84
+Argentina,2007,98.453,55.205
+Argentina,2006,98.455,55.543
+Argentina,2005,98.587,55.23
+Argentina,2004,98.202,56.331
+Armenia,2022,91.851,61.095
+Armenia,2021,92.215,62.322
+Armenia,2020,94.6,59.2
+Armenia,2019,93.7,60.2
+Armenia,2018,91.8,56.7
+Armenia,2017,91.905,56.79
+Armenia,2016,92.073,56.965
+Armenia,2015,92.101,56.902
+Armenia,2014,92.192,56.948
+Armenia,2013,92.288,57.026
+Armenia,2012,92.368,57.128
+Armenia,2011,92.54,57.458
+Armenia,2010,92.652,57.742
+Armenia,2009,92.695,57.949
+Armenia,2008,92.244,57.319
+Armenia,2007,92.333,57.824
+Armenia,2006,92.212,58.051
+Armenia,2005,92.084,58.291
+Armenia,2004,91.964,58.519
+Australia,2022,93.365,72.464
+Australia,2021,93.498,72.423
+Australia,2020,93.275,71.322
+Australia,2019,94.013,71.792
+Australia,2018,93.519,70.721
+Australia,2017,93.52,69.806
+Australia,2016,93.536,69.57
+Australia,2015,93.805,68.776
+Australia,2014,93.292,68.229
+Australia,2013,93.639,67.879
+Australia,2012,93.406,67.934
+Australia,2011,94.008,67.146
+Australia,2010,94.015,65.621
+Australia,2009,93.962,65.771
+Australia,2008,94.363,64.424
+Australia,2007,94.536,63.871
+Australia,2006,93.947,62.529
+Australia,2005,94.102,61.442
+Australia,2004,93.704,59.524
+Austria,2022,96.64,76.844
+Austria,2021,96.8,76.5
+Austria,2020,96.7,80.5
+Austria,2019,97.1,79.1
+Austria,2018,96.4,75.7
+Austria,2017,96.3,76.2
+Austria,2016,95.9,77.1
+Austria,2015,96.0,76.6
+Austria,2014,96.1,76.3
+Austria,2013,96.5,75.5
+Austria,2012,95.6,76.0
+Austria,2011,96.9,72.9
+Austria,2010,96.0,70.6
+Austria,2009,96.2,71.9
+Austria,2008,95.9,67.1
+Austria,2007,96.7,66.3
+Austria,2006,95.4,65.6
+Austria,2005,96.1,66.8
+Austria,2004,97.2,68.6
+Azerbaijan,2022,92.821,79.855
+Azerbaijan,2021,94.433,83.167
+Azerbaijan,2020,95.258,83.884
+Azerbaijan,2019,91.841,79.067
+Azerbaijan,2018,91.67,79.232
+Azerbaijan,2017,91.536,78.516
+Azerbaijan,2016,91.707,77.258
+Azerbaijan,2015,90.144,76.172
+Azerbaijan,2014,89.426,75.033
+Azerbaijan,2013,89.792,74.665
+Azerbaijan,2012,89.276,74.333
+Azerbaijan,2011,90.518,73.897
+Azerbaijan,2010,91.319,72.953
+Azerbaijan,2009,92.471,72.102
+Azerbaijan,2008,92.995,71.28
+Azerbaijan,2007,93.799,70.539
+Azerbaijan,2006,93.608,75.836
+Azerbaijan,2005,94.946,77.183
+Azerbaijan,2004,96.52,80.624
+Burundi,2022,98.253,96.339
+Burundi,2021,97.557,95.189
+Burundi,2020,96.7,93.8
+Burundi,2019,97.611,94.71
+Burundi,2018,97.521,94.61
+Burundi,2017,97.462,94.515
+Burundi,2016,97.458,94.424
+Burundi,2015,97.513,94.338
+Burundi,2014,97.52,94.251
+Burundi,2013,97.662,94.217
+Burundi,2012,97.802,94.184
+Burundi,2011,97.939,94.155
+Burundi,2010,98.068,94.127
+Burundi,2009,98.154,94.1
+Burundi,2008,98.191,94.072
+Burundi,2007,98.227,94.045
+Burundi,2006,98.276,94.019
+Burundi,2005,98.308,93.993
+Burundi,2004,98.304,93.964
+Belgium,2022,95.931,80.107
+Belgium,2021,95.3,79.6
+Belgium,2020,93.8,77.1
+Belgium,2019,94.7,76.7
+Belgium,2018,94.6,78.4
+Belgium,2017,95.4,77.6
+Belgium,2016,95.0,77.9
+Belgium,2015,94.5,78.0
+Belgium,2014,95.9,79.0
+Belgium,2013,95.4,77.5
+Belgium,2012,94.8,78.7
+Belgium,2011,95.1,75.7
+Belgium,2010,95.9,79.3
+Belgium,2009,95.7,77.5
+Belgium,2008,96.7,77.8
+Belgium,2007,96.9,78.0
+Belgium,2006,96.4,77.3
+Belgium,2005,96.4,76.8
+Belgium,2004,95.7,74.9
+Benin,2022,97.652,69.248
+Benin,2021,97.361,68.323
+Benin,2020,97.274,68.311
+Benin,2019,98.296,69.08
+Benin,2018,98.5,68.9
+Benin,2017,99.232,71.205
+Benin,2016,99.9,73.431
+Benin,2015,99.9,75.572
+Benin,2014,99.9,77.627
+Benin,2013,99.9,79.587
+Benin,2012,99.9,81.435
+Benin,2011,99.9,83.169
+Benin,2010,99.9,81.714
+Benin,2009,99.9,80.227
+Benin,2008,99.9,78.735
+Benin,2007,99.9,77.251
+Benin,2006,99.9,75.752
+Benin,2005,99.9,74.241
+Benin,2004,99.399,72.727
+Burkina Faso,2022,90.688,61.016
+Burkina Faso,2021,90.454,60.565
+Burkina Faso,2020,89.957,59.305
+Burkina Faso,2019,90.774,59.915
+Burkina Faso,2018,90.79,59.336
+Burkina Faso,2017,90.445,58.675
+Burkina Faso,2016,90.425,58.078
+Burkina Faso,2015,90.538,57.893
+Burkina Faso,2014,90.704,58.304
+Burkina Faso,2013,91.934,58.282
+Burkina Faso,2012,92.978,58.002
+Burkina Faso,2011,93.822,57.43
+Burkina Faso,2010,94.82,56.999
+Burkina Faso,2009,95.774,56.709
+Burkina Faso,2008,96.703,56.477
+Burkina Faso,2007,97.612,56.339
+Burkina Faso,2006,98.438,55.782
+Burkina Faso,2005,98.752,57.697
+Burkina Faso,2004,99.009,59.613
+Bangladesh,2022,97.947,43.996
+Bangladesh,2021,97.772,44.201
+Bangladesh,2020,97.984,43.096
+Bangladesh,2019,98.782,43.387
+Bangladesh,2018,98.58,43.064
+Bangladesh,2017,98.4,42.7
+Bangladesh,2016,96.692,38.155
+Bangladesh,2015,97.057,37.812
+Bangladesh,2014,97.416,37.474
+Bangladesh,2013,97.76,37.133
+Bangladesh,2012,98.055,36.778
+Bangladesh,2011,98.303,36.412
+Bangladesh,2010,98.502,36.03
+Bangladesh,2009,98.627,35.619
+Bangladesh,2008,98.646,35.156
+Bangladesh,2007,98.633,34.679
+Bangladesh,2006,98.6,34.2
+Bangladesh,2005,98.333,33.936
+Bangladesh,2004,98.121,33.596
+Bulgaria,2022,98.039,73.61
+Bulgaria,2021,96.6,72.0
+Bulgaria,2020,94.5,60.2
+Bulgaria,2019,96.4,66.4
+Bulgaria,2018,94.8,62.2
+Bulgaria,2017,94.6,66.6
+Bulgaria,2016,94.2,62.3
+Bulgaria,2015,90.5,60.6
+Bulgaria,2014,93.2,66.3
+Bulgaria,2013,93.5,64.3
+Bulgaria,2012,93.6,68.1
+Bulgaria,2011,95.2,65.0
+Bulgaria,2010,94.5,58.0
+Bulgaria,2009,96.0,60.4
+Bulgaria,2008,92.2,61.0
+Bulgaria,2007,93.9,61.3
+Bulgaria,2006,91.5,57.7
+Bulgaria,2005,89.482,57.011
+Bulgaria,2004,89.2,59.3
+Bahrain,2022,98.376,42.014
+Bahrain,2021,98.233,41.873
+Bahrain,2020,97.916,41.191
+Bahrain,2019,99.9,42.434
+Bahrain,2018,99.9,42.169
+Bahrain,2017,99.9,40.547
+Bahrain,2016,99.9,40.508
+Bahrain,2015,99.9,40.513
+Bahrain,2014,99.9,40.359
+Bahrain,2013,99.9,40.482
+Bahrain,2012,99.9,40.529
+Bahrain,2011,99.9,40.396
+Bahrain,2010,99.9,40.103
+Bahrain,2009,99.9,39.279
+Bahrain,2008,99.9,38.395
+Bahrain,2007,99.9,37.517
+Bahrain,2006,99.9,36.667
+Bahrain,2005,99.9,35.477
+Bahrain,2004,99.9,34.613
+Bahamas,2022,98.088,70.44
+Bahamas,2021,97.514,69.644
+Bahamas,2020,96.088,68.417
+Bahamas,2019,99.9,72.081
+Bahamas,2018,99.9,72.016
+Bahamas,2017,99.9,72.498
+Bahamas,2016,99.9,72.751
+Bahamas,2015,99.9,71.921
+Bahamas,2014,99.9,72.464
+Bahamas,2013,99.9,71.703
+Bahamas,2012,99.9,72.016
+Bahamas,2011,99.9,71.37
+Bahamas,2010,99.9,70.704
+Bahamas,2009,99.9,70.223
+Bahamas,2008,99.9,71.306
+Bahamas,2007,99.9,71.372
+Bahamas,2006,99.757,72.512
+Bahamas,2005,99.593,72.389
+Bahamas,2004,99.822,72.35
+Bosnia and Herzegovina,2022,95.631,61.953
+Bosnia and Herzegovina,2021,95.974,62.09
+Bosnia and Herzegovina,2020,94.888,57.644
+Bosnia and Herzegovina,2019,91.537,57.158
+Bosnia and Herzegovina,2018,92.667,55.815
+Bosnia and Herzegovina,2017,91.713,55.88
+Bosnia and Herzegovina,2016,92.522,56.489
+Bosnia and Herzegovina,2015,92.554,56.249
+Bosnia and Herzegovina,2014,92.5,56.7
+Bosnia and Herzegovina,2013,92.6,52.2
+Bosnia and Herzegovina,2012,92.702,51.899
+Bosnia and Herzegovina,2011,91.601,50.776
+Bosnia and Herzegovina,2010,91.96,50.228
+Bosnia and Herzegovina,2009,91.375,48.223
+Bosnia and Herzegovina,2008,91.067,47.505
+Bosnia and Herzegovina,2007,90.466,44.693
+Bosnia and Herzegovina,2006,89.03,44.645
+Bosnia and Herzegovina,2005,89.077,44.171
+Bosnia and Herzegovina,2004,89.121,43.7
+Belarus,2022,98.794,75.142
+Belarus,2021,99.014,74.986
+Belarus,2020,98.911,75.023
+Belarus,2019,99.171,75.486
+Belarus,2018,99.299,74.939
+Belarus,2017,98.699,76.069
+Belarus,2016,98.057,76.532
+Belarus,2015,97.776,74.8
+Belarus,2014,97.452,74.216
+Belarus,2013,97.543,73.397
+Belarus,2012,97.636,73.733
+Belarus,2011,97.739,74.367
+Belarus,2010,97.347,73.196
+Belarus,2009,97.293,73.064
+Belarus,2008,96.895,72.342
+Belarus,2007,96.703,71.276
+Belarus,2006,96.25,71.132
+Belarus,2005,95.93,70.638
+Belarus,2004,95.487,71.244
+Belize,2022,98.768,43.164
+Belize,2021,98.67,42.794
+Belize,2020,97.055,41.567
+Belize,2019,98.733,42.692
+Belize,2018,98.657,42.5
+Belize,2017,98.6,42.1
+Belize,2016,98.1,48.8
+Belize,2015,97.6,42.1
+Belize,2014,97.3,40.7
+Belize,2013,97.2,41.3
+Belize,2012,97.162,40.507
+Belize,2011,97.121,39.712
+Belize,2010,97.074,38.922
+Belize,2009,97.039,38.112
+Belize,2008,97.025,37.27
+Belize,2007,97.016,36.417
+Belize,2006,97.011,35.555
+Belize,2005,97.01,34.686
+Belize,2004,97.013,33.808
+Bolivia,2022,99.039,55.132
+Bolivia,2021,98.9,54.3
+Bolivia,2020,98.8,58.1
+Bolivia,2019,99.6,59.1
+Bolivia,2018,99.0,55.5
+Bolivia,2017,99.4,56.9
+Bolivia,2016,98.7,61.9
+Bolivia,2015,99.0,52.5
+Bolivia,2014,99.3,60.1
+Bolivia,2013,99.1,59.6
+Bolivia,2012,99.7,59.6
+Bolivia,2011,99.1,63.5
+Bolivia,2010,99.299,64.854
+Bolivia,2009,99.5,66.2
+Bolivia,2008,98.98,67.153
+Bolivia,2007,98.241,65.237
+Bolivia,2006,99.159,70.01
+Bolivia,2005,99.461,66.258
+Bolivia,2004,99.6,67.4
+Brazil,2022,95.073,61.604
+Brazil,2021,95.6,60.9
+Brazil,2020,93.4,59.1
+Brazil,2019,95.9,63.8
+Brazil,2018,95.8,63.2
+Brazil,2017,95.9,62.1
+Brazil,2016,96.3,59.5
+Brazil,2015,95.9,58.8
+Brazil,2014,95.7,57.0
+Brazil,2013,95.6,56.6
+Brazil,2012,95.6,56.5
+Brazil,2011,96.5,59.3
+Brazil,2010,96.949,60.78
+Brazil,2009,97.352,62.227
+Brazil,2008,97.038,60.788
+Brazil,2007,96.834,61.446
+Brazil,2006,96.959,61.642
+Brazil,2005,96.924,61.598
+Brazil,2004,97.161,60.625
+Barbados,2022,82.911,73.2
+Barbados,2021,84.177,74.297
+Barbados,2020,84.099,73.437
+Barbados,2019,85.492,75.112
+Barbados,2018,86.272,74.892
+Barbados,2017,88.413,75.746
+Barbados,2016,88.4,77.3
+Barbados,2015,85.841,76.531
+Barbados,2014,86.604,75.451
+Barbados,2013,89.755,76.514
+Barbados,2012,90.191,76.412
+Barbados,2011,89.878,77.809
+Barbados,2010,89.895,77.294
+Barbados,2009,89.898,76.774
+Barbados,2008,89.895,76.271
+Barbados,2007,90.972,75.391
+Barbados,2006,89.818,76.393
+Barbados,2005,92.073,78.933
+Barbados,2004,92.196,78.828
+Brunei Darussalam,2022,91.896,63.331
+Brunei Darussalam,2021,93.7,63.7
+Brunei Darussalam,2020,99.4,58.3
+Brunei Darussalam,2019,96.3,52.2
+Brunei Darussalam,2018,91.5,56.0
+Brunei Darussalam,2017,87.292,54.242
+Brunei Darussalam,2016,88.335,54.033
+Brunei Darussalam,2015,89.411,53.863
+Brunei Darussalam,2014,90.561,53.742
+Brunei Darussalam,2013,91.819,53.685
+Brunei Darussalam,2012,93.18,53.695
+Brunei Darussalam,2011,94.613,53.752
+Brunei Darussalam,2010,95.15,53.765
+Brunei Darussalam,2009,95.819,53.902
+Brunei Darussalam,2008,96.436,54.014
+Brunei Darussalam,2007,96.97,54.09
+Brunei Darussalam,2006,97.399,54.119
+Brunei Darussalam,2005,97.696,54.091
+Brunei Darussalam,2004,97.843,53.996
+Bhutan,2022,98.14,74.417
+Bhutan,2021,97.2,72.9
+Bhutan,2020,97.3,69.0
+Bhutan,2019,97.6,64.8
+Bhutan,2018,97.7,56.9
+Bhutan,2017,98.173,57.306
+Bhutan,2016,98.622,57.628
+Bhutan,2015,99.001,57.836
+Bhutan,2014,99.61,56.779
+Bhutan,2013,99.9,62.856
+Bhutan,2012,94.575,68.628
+Bhutan,2011,99.745,65.243
+Bhutan,2010,98.896,68.479
+Bhutan,2009,98.487,65.085
+Bhutan,2008,98.614,64.735
+Bhutan,2007,98.765,64.355
+Bhutan,2006,98.958,63.945
+Bhutan,2005,99.192,63.5
+Bhutan,2004,99.559,62.834
+Botswana,2022,98.016,68.506
+Botswana,2021,97.799,68.068
+Botswana,2020,95.8,65.6
+Botswana,2019,97.48,67.032
+Botswana,2018,96.644,65.559
+Botswana,2017,95.838,64.115
+Botswana,2016,95.031,62.683
+Botswana,2015,94.233,61.263
+Botswana,2014,93.464,59.867
+Botswana,2013,92.745,58.508
+Botswana,2012,92.077,57.182
+Botswana,2011,91.421,55.85
+Botswana,2010,90.719,54.415
+Botswana,2009,95.788,58.51
+Botswana,2008,93.162,56.468
+Botswana,2007,90.403,54.398
+Botswana,2006,87.5,52.3
+Botswana,2005,88.729,51.483
+Botswana,2004,89.899,50.643
+Central African Republic,2022,99.9,71.129
+Central African Republic,2021,99.666,70.654
+Central African Republic,2020,99.138,69.624
+Central African Republic,2019,99.9,70.185
+Central African Republic,2018,99.9,69.485
+Central African Republic,2017,99.9,68.47
+Central African Republic,2016,99.9,67.519
+Central African Republic,2015,99.9,67.081
+Central African Republic,2014,99.745,66.976
+Central African Republic,2013,99.32,66.944
+Central African Republic,2012,99.884,67.37
+Central African Republic,2011,99.329,67.329
+Central African Republic,2010,99.104,67.21
+Central African Republic,2009,98.837,67.025
+Central African Republic,2008,98.519,67.011
+Central African Republic,2007,98.397,67.016
+Central African Republic,2006,98.165,67.041
+Central African Republic,2005,97.915,67.09
+Central African Republic,2004,97.725,66.925
+Canada,2022,93.537,74.864
+Canada,2021,95.012,76.221
+Canada,2020,93.643,74.565
+Canada,2019,94.782,75.901
+Canada,2018,94.205,75.594
+Canada,2017,94.605,75.143
+Canada,2016,94.716,74.76
+Canada,2015,94.872,74.775
+Canada,2014,94.54,74.706
+Canada,2013,94.746,75.367
+Canada,2012,94.774,75.405
+Canada,2011,94.78,74.761
+Canada,2010,94.682,74.064
+Canada,2009,94.945,73.645
+Canada,2008,95.501,72.618
+Canada,2007,95.287,72.975
+Canada,2006,95.087,71.906
+Canada,2005,95.534,71.505
+Canada,2004,95.699,71.571
+Channel Islands,2022,96.663,70.587
+Channel Islands,2021,97.476,71.141
+Channel Islands,2020,96.412,69.845
+Channel Islands,2019,97.267,70.547
+Channel Islands,2018,97.154,70.339
+Channel Islands,2017,97.24,69.791
+Channel Islands,2016,97.52,69.507
+Channel Islands,2015,97.702,68.893
+Channel Islands,2014,97.718,68.516
+Channel Islands,2013,97.681,68.096
+Channel Islands,2012,97.464,68.101
+Channel Islands,2011,97.566,66.949
+Channel Islands,2010,97.009,67.79
+Channel Islands,2009,97.249,67.285
+Channel Islands,2008,97.359,64.602
+Channel Islands,2007,97.408,63.745
+Channel Islands,2006,96.974,64.624
+Channel Islands,2005,96.973,65.105
+Channel Islands,2004,96.863,65.767
+Switzerland,2022,97.86,81.319
+Switzerland,2021,98.781,81.722
+Switzerland,2020,99.462,81.858
+Switzerland,2019,99.445,82.022
+Switzerland,2018,99.093,80.874
+Switzerland,2017,99.074,79.984
+Switzerland,2016,99.651,80.428
+Switzerland,2015,99.763,79.721
+Switzerland,2014,99.304,79.302
+Switzerland,2013,98.957,78.016
+Switzerland,2012,99.144,78.366
+Switzerland,2011,99.092,76.889
+Switzerland,2010,98.612,74.785
+Switzerland,2009,99.9,75.59
+Switzerland,2008,99.816,75.296
+Switzerland,2007,99.859,74.211
+Switzerland,2006,99.28,72.679
+Switzerland,2005,99.458,72.663
+Switzerland,2004,99.585,71.847
+Chile,2022,94.323,55.145
+Chile,2021,95.6,54.2
+Chile,2020,94.6,53.9
+Chile,2019,97.3,59.5
+Chile,2018,97.5,58.0
+Chile,2017,98.1,58.9
+Chile,2016,97.7,57.8
+Chile,2015,97.7,55.6
+Chile,2014,97.9,57.6
+Chile,2013,98.3,55.2
+Chile,2012,97.9,52.8
+Chile,2011,98.2,52.3
+Chile,2010,97.9,51.6
+Chile,2009,98.479,49.936
+Chile,2008,99.002,49.203
+Chile,2007,99.393,46.817
+Chile,2006,99.609,45.754
+Chile,2005,98.572,44.297
+Chile,2004,98.789,43.262
+China,2022,95.016,74.377
+China,2021,96.41,76.535
+China,2020,93.419,72.892
+China,2019,95.583,75.033
+China,2018,95.738,74.629
+China,2017,96.121,74.485
+China,2016,96.662,74.698
+China,2015,97.453,75.245
+China,2014,98.108,75.401
+China,2013,98.75,75.316
+China,2012,99.218,75.626
+China,2011,99.868,75.573
+China,2010,99.887,74.958
+China,2009,99.9,75.297
+China,2008,99.9,75.695
+China,2007,99.9,76.043
+China,2006,99.9,76.45
+China,2005,99.9,76.826
+China,2004,99.9,77.247
+Côte d'Ivoire,2022,89.091,68.957
+Côte d'Ivoire,2021,88.613,68.326
+Côte d'Ivoire,2020,87.861,66.693
+Côte d'Ivoire,2019,88.707,67.301
+Côte d'Ivoire,2018,88.759,66.451
+Côte d'Ivoire,2017,88.822,65.617
+Côte d'Ivoire,2016,88.9,64.8
+Côte d'Ivoire,2015,88.978,63.994
+Côte d'Ivoire,2014,89.056,63.196
+Côte d'Ivoire,2013,89.136,62.372
+Côte d'Ivoire,2012,89.21,61.494
+Côte d'Ivoire,2011,89.326,60.606
+Côte d'Ivoire,2010,89.495,59.768
+Côte d'Ivoire,2009,89.697,58.985
+Côte d'Ivoire,2008,89.921,58.226
+Côte d'Ivoire,2007,90.149,57.482
+Côte d'Ivoire,2006,90.382,56.752
+Côte d'Ivoire,2005,90.628,56.032
+Côte d'Ivoire,2004,90.885,55.317
+Cameroon,2022,97.57,80.199
+Cameroon,2021,97.006,79.298
+Cameroon,2020,97.416,78.942
+Cameroon,2019,98.359,79.779
+Cameroon,2018,98.488,79.66
+Cameroon,2017,98.226,79.435
+Cameroon,2016,98.339,79.363
+Cameroon,2015,98.575,79.408
+Cameroon,2014,98.793,79.44
+Cameroon,2013,99.863,79.847
+Cameroon,2012,99.9,79.089
+Cameroon,2011,99.9,79.335
+Cameroon,2010,99.9,79.633
+Cameroon,2009,99.9,81.371
+Cameroon,2008,99.9,82.875
+Cameroon,2007,99.9,84.156
+Cameroon,2006,99.9,83.491
+Cameroon,2005,99.9,83.322
+Cameroon,2004,99.9,83.06
+"Congo, Democratic Republic of the",2022,94.266,81.563
+"Congo, Democratic Republic of the",2021,93.795,80.667
+"Congo, Democratic Republic of the",2020,93.492,79.698
+"Congo, Democratic Republic of the",2019,94.471,80.491
+"Congo, Democratic Republic of the",2018,94.556,80.214
+"Congo, Democratic Republic of the",2017,94.62,79.989
+"Congo, Democratic Republic of the",2016,94.702,79.86
+"Congo, Democratic Republic of the",2015,94.773,79.807
+"Congo, Democratic Republic of the",2014,94.81,79.668
+"Congo, Democratic Republic of the",2013,94.821,79.569
+"Congo, Democratic Republic of the",2012,94.8,79.5
+"Congo, Democratic Republic of the",2011,95.282,80.361
+"Congo, Democratic Republic of the",2010,95.655,81.134
+"Congo, Democratic Republic of the",2009,96.015,81.851
+"Congo, Democratic Republic of the",2008,96.39,82.53
+"Congo, Democratic Republic of the",2007,96.713,83.148
+"Congo, Democratic Republic of the",2006,96.977,83.702
+"Congo, Democratic Republic of the",2005,97.2,84.2
+"Congo, Democratic Republic of the",2004,96.961,83.948
+Congo,2022,90.606,79.12
+Congo,2021,90.298,78.715
+Congo,2020,90.25,78.171
+Congo,2019,90.552,78.693
+Congo,2018,90.59,78.448
+Congo,2017,90.071,78.178
+Congo,2016,89.899,77.87
+Congo,2015,90.007,78.049
+Congo,2014,90.25,78.272
+Congo,2013,90.275,78.44
+Congo,2012,90.378,78.821
+Congo,2011,90.321,79.091
+Congo,2010,90.549,79.593
+Congo,2009,90.772,79.712
+Congo,2008,91.092,79.838
+Congo,2007,91.32,79.97
+Congo,2006,91.723,80.367
+Congo,2005,91.947,80.454
+Congo,2004,92.103,80.557
+Colombia,2022,95.603,52.461
+Colombia,2021,97.7,54.3
+Colombia,2020,94.746,50.416
+Colombia,2019,97.9,56.4
+Colombia,2018,98.6,57.2
+Colombia,2017,98.7,59.9
+Colombia,2016,98.6,59.3
+Colombia,2015,98.5,60.4
+Colombia,2014,98.5,59.1
+Colombia,2013,98.6,59.1
+Colombia,2012,98.9,59.2
+Colombia,2011,99.0,57.4
+Colombia,2010,98.9,57.6
+Colombia,2009,98.82,54.936
+Colombia,2008,98.034,50.815
+Colombia,2007,97.78,49.74
+Colombia,2006,98.466,50.647
+Colombia,2005,99.1,51.5
+Colombia,2004,99.2,51.9
+Comoros,2022,81.674,42.864
+Comoros,2021,81.092,42.457
+Comoros,2020,81.508,42.359
+Comoros,2019,82.904,43.081
+Comoros,2018,84.027,43.116
+Comoros,2017,84.648,42.824
+Comoros,2016,85.211,42.297
+Comoros,2015,85.636,42.145
+Comoros,2014,86.122,42.076
+Comoros,2013,85.363,41.952
+Comoros,2012,84.552,41.894
+Comoros,2011,83.601,41.729
+Comoros,2010,82.864,41.609
+Comoros,2009,82.117,41.188
+Comoros,2008,81.436,41.366
+Comoros,2007,80.654,41.165
+Comoros,2006,79.832,40.972
+Comoros,2005,79.053,40.715
+Comoros,2004,78.29,40.444
+Cabo Verde,2022,91.598,84.037
+Cabo Verde,2021,91.12,83.534
+Cabo Verde,2020,90.59,82.861
+Cabo Verde,2019,94.848,86.485
+Cabo Verde,2018,92.793,82.55
+Cabo Verde,2017,96.618,86.271
+Cabo Verde,2016,97.313,85.522
+Cabo Verde,2015,98.0,84.8
+Cabo Verde,2014,98.66,84.086
+Cabo Verde,2013,99.291,83.362
+Cabo Verde,2012,99.9,82.643
+Cabo Verde,2011,99.9,81.901
+Cabo Verde,2010,99.9,81.124
+Cabo Verde,2009,99.9,80.272
+Cabo Verde,2008,99.9,79.249
+Cabo Verde,2007,99.9,78.243
+Cabo Verde,2006,99.9,77.267
+Cabo Verde,2005,99.9,76.322
+Cabo Verde,2004,99.9,75.393
+Costa Rica,2022,97.699,52.233
+Costa Rica,2021,98.7,53.1
+Costa Rica,2020,97.5,55.4
+Costa Rica,2019,98.9,56.8
+Costa Rica,2018,98.6,52.1
+Costa Rica,2017,98.2,48.2
+Costa Rica,2016,97.3,47.8
+Costa Rica,2015,97.3,52.6
+Costa Rica,2014,98.4,54.1
+Costa Rica,2013,98.7,49.8
+Costa Rica,2012,98.2,55.7
+Costa Rica,2011,99.0,42.8
+Costa Rica,2010,98.6,41.1
+Costa Rica,2009,99.9,42.824
+Costa Rica,2008,99.9,42.087
+Costa Rica,2007,99.9,40.679
+Costa Rica,2006,99.9,39.68
+Costa Rica,2005,99.9,40.162
+Costa Rica,2004,99.9,36.574
+Cuba,2022,96.123,53.23
+Cuba,2021,95.554,52.823
+Cuba,2020,93.519,50.912
+Cuba,2019,99.9,55.043
+Cuba,2018,99.9,54.63
+Cuba,2017,99.9,54.078
+Cuba,2016,99.9,54.013
+Cuba,2015,99.477,53.208
+Cuba,2014,99.3,53.069
+Cuba,2013,99.141,52.063
+Cuba,2012,98.629,50.83
+Cuba,2011,98.769,50.413
+Cuba,2010,96.269,49.308
+Cuba,2009,97.601,49.173
+Cuba,2008,95.931,48.732
+Cuba,2007,95.295,47.042
+Cuba,2006,94.615,45.82
+Cuba,2005,93.836,43.793
+Cuba,2004,93.349,41.913
+Cyprus,2022,97.988,74.918
+Cyprus,2021,97.326,74.396
+Cyprus,2020,99.3,75.5
+Cyprus,2019,97.3,73.7
+Cyprus,2018,95.9,75.1
+Cyprus,2017,99.9,78.8
+Cyprus,2016,99.4,88.1
+Cyprus,2015,98.4,77.2
+Cyprus,2014,99.075,76.442
+Cyprus,2013,98.3,72.2
+Cyprus,2012,97.1,71.8
+Cyprus,2011,94.6,72.8
+Cyprus,2010,97.7,78.7
+Cyprus,2009,91.9,72.8
+Cyprus,2008,97.8,62.3
+Cyprus,2007,98.5,79.0
+Cyprus,2006,98.5,72.9
+Cyprus,2005,96.5,67.3
+Cyprus,2004,99.9,74.5
+Czechia,2022,98.377,39.841
+Czechia,2021,98.3,39.0
+Czechia,2020,99.2,38.0
+Czechia,2019,98.0,40.0
+Czechia,2018,98.1,43.3
+Czechia,2017,98.5,43.1
+Czechia,2016,98.6,45.0
+Czechia,2015,98.1,41.7
+Czechia,2014,98.3,47.0
+Czechia,2013,98.6,43.4
+Czechia,2012,98.6,38.9
+Czechia,2011,98.4,40.6
+Czechia,2010,98.6,35.0
+Czechia,2009,98.7,32.7
+Czechia,2008,98.2,29.6
+Czechia,2007,98.1,30.4
+Czechia,2006,98.0,31.6
+Czechia,2005,97.7,33.7
+Czechia,2004,98.2,31.9
+Germany,2022,94.829,70.752
+Germany,2021,94.2,70.1
+Germany,2020,95.3,76.0
+Germany,2019,95.2,66.5
+Germany,2018,95.1,65.9
+Germany,2017,94.7,65.5
+Germany,2016,95.0,65.0
+Germany,2015,96.1,65.3
+Germany,2014,96.2,65.2
+Germany,2013,96.1,63.8
+Germany,2012,96.5,63.3
+Germany,2011,96.9,63.4
+Germany,2010,97.0,60.0
+Germany,2009,96.0,59.8
+Germany,2008,97.1,56.2
+Germany,2007,97.5,56.9
+Germany,2006,97.1,56.2
+Germany,2005,96.9,51.8
+Germany,2004,95.117,50.459
+Djibouti,2022,72.858,15.314
+Djibouti,2021,72.408,15.228
+Djibouti,2020,72.053,15.062
+Djibouti,2019,74.312,15.963
+Djibouti,2018,74.556,15.842
+Djibouti,2017,74.8,15.7
+Djibouti,2016,75.042,15.613
+Djibouti,2015,75.198,15.607
+Djibouti,2014,75.495,15.478
+Djibouti,2013,75.774,15.37
+Djibouti,2012,76.077,15.257
+Djibouti,2011,76.425,15.097
+Djibouti,2010,76.812,14.873
+Djibouti,2009,77.475,14.347
+Djibouti,2008,78.162,13.766
+Djibouti,2007,78.837,13.152
+Djibouti,2006,79.486,12.522
+Djibouti,2005,80.101,11.842
+Djibouti,2004,80.505,11.384
+Denmark,2022,95.162,78.603
+Denmark,2021,94.417,77.663
+Denmark,2020,93.762,77.135
+Denmark,2019,94.267,77.136
+Denmark,2018,93.599,76.931
+Denmark,2017,93.405,76.334
+Denmark,2016,93.964,76.54
+Denmark,2015,94.543,76.381
+Denmark,2014,93.959,77.316
+Denmark,2013,93.787,78.563
+Denmark,2012,94.102,78.855
+Denmark,2011,95.291,78.397
+Denmark,2010,95.63,77.519
+Denmark,2009,95.624,77.701
+Denmark,2008,96.641,76.526
+Denmark,2007,96.025,76.305
+Denmark,2006,95.253,76.333
+Denmark,2005,94.936,75.026
+Denmark,2004,94.837,75.733
+Dominican Republic,2022,98.323,60.886
+Dominican Republic,2021,98.2,60.2
+Dominican Republic,2020,96.9,57.0
+Dominican Republic,2019,98.9,62.5
+Dominican Republic,2018,98.8,63.2
+Dominican Republic,2017,97.9,60.3
+Dominican Republic,2016,98.2,57.9
+Dominican Republic,2015,98.5,58.7
+Dominican Republic,2014,99.2,58.6
+Dominican Republic,2013,98.4,54.7
+Dominican Republic,2012,98.1,45.3
+Dominican Republic,2011,98.0,51.2
+Dominican Republic,2010,97.3,47.0
+Dominican Republic,2009,97.534,44.335
+Dominican Republic,2008,98.2,47.201
+Dominican Republic,2007,98.745,45.03
+Dominican Republic,2006,98.358,45.662
+Dominican Republic,2005,98.059,43.77
+Dominican Republic,2004,99.022,42.434
+Algeria,2022,89.204,11.225
+Algeria,2021,89.06,10.836
+Algeria,2020,87.838,9.861
+Algeria,2019,92.13,11.059
+Algeria,2018,91.952,11.078
+Algeria,2017,91.948,11.166
+Algeria,2016,91.959,12.24
+Algeria,2015,92.05,11.264
+Algeria,2014,90.559,9.254
+Algeria,2013,95.381,12.025
+Algeria,2012,92.64,10.52
+Algeria,2011,92.777,5.891
+Algeria,2010,93.037,4.562
+Algeria,2009,92.698,4.649
+Algeria,2008,93.584,4.501
+Algeria,2007,94.365,4.333
+Algeria,2006,95.121,4.154
+Algeria,2005,95.867,4.186
+Algeria,2004,96.48,4.266
+Ecuador,2022,99.156,59.452
+Ecuador,2021,99.4,59.3
+Ecuador,2020,99.2,54.7
+Ecuador,2019,99.1,60.0
+Ecuador,2018,98.823,60.201
+Ecuador,2017,98.8,61.9
+Ecuador,2016,99.0,59.3
+Ecuador,2015,99.4,54.1
+Ecuador,2014,99.1,49.3
+Ecuador,2013,98.9,49.4
+Ecuador,2012,99.3,52.9
+Ecuador,2011,99.0,47.4
+Ecuador,2010,98.8,49.2
+Ecuador,2009,99.107,49.396
+Ecuador,2008,99.9,52.52
+Ecuador,2007,99.9,52.492
+Ecuador,2006,99.9,52.826
+Ecuador,2005,99.9,52.1
+Ecuador,2004,99.9,52.309
+Egypt,2022,97.411,17.331
+Egypt,2021,98.134,15.579
+Egypt,2020,99.213,15.611
+Egypt,2019,99.116,16.876
+Egypt,2018,98.057,19.551
+Egypt,2017,96.7,22.5
+Egypt,2016,97.43,24.213
+Egypt,2015,97.9,25.0
+Egypt,2014,99.0,27.4
+Egypt,2013,98.9,28.1
+Egypt,2012,99.088,26.736
+Egypt,2011,99.3,25.686
+Egypt,2010,98.8,24.9
+Egypt,2009,95.262,23.873
+Egypt,2008,95.48,22.97
+Egypt,2007,99.005,26.253
+Egypt,2006,99.676,23.23
+Egypt,2005,99.642,21.881
+Egypt,2004,99.497,20.589
+Eritrea,2022,99.593,76.94
+Eritrea,2021,99.152,76.193
+Eritrea,2020,99.006,75.82
+Eritrea,2019,99.9,76.577
+Eritrea,2018,99.9,76.353
+Eritrea,2017,99.9,76.112
+Eritrea,2016,99.9,75.905
+Eritrea,2015,99.9,75.759
+Eritrea,2014,99.9,75.972
+Eritrea,2013,99.9,76.512
+Eritrea,2012,99.9,77.004
+Eritrea,2011,99.683,77.259
+Eritrea,2010,99.564,77.797
+Eritrea,2009,99.589,77.798
+Eritrea,2008,99.453,77.985
+Eritrea,2007,99.36,78.109
+Eritrea,2006,99.337,78.166
+Eritrea,2005,99.331,78.079
+Eritrea,2004,99.739,77.359
+Western Sahara,2022,97.371,29.467
+Western Sahara,2021,96.818,28.863
+Western Sahara,2020,95.132,27.999
+Western Sahara,2019,99.9,29.964
+Western Sahara,2018,99.9,29.913
+Western Sahara,2017,99.9,29.356
+Western Sahara,2016,99.9,29.58
+Western Sahara,2015,99.837,29.666
+Western Sahara,2014,99.826,29.554
+Western Sahara,2013,99.738,29.475
+Western Sahara,2012,99.667,29.568
+Western Sahara,2011,99.524,29.417
+Western Sahara,2010,99.38,29.274
+Western Sahara,2009,99.351,29.141
+Western Sahara,2008,99.207,29.04
+Western Sahara,2007,99.107,28.911
+Western Sahara,2006,99.096,28.799
+Western Sahara,2005,99.099,28.766
+Western Sahara,2004,99.115,28.35
+Spain,2022,95.823,81.207
+Spain,2021,95.7,81.0
+Spain,2020,95.6,76.5
+Spain,2019,97.1,77.3
+Spain,2018,97.2,79.0
+Spain,2017,96.4,79.1
+Spain,2016,98.3,80.9
+Spain,2015,97.3,78.3
+Spain,2014,97.3,81.4
+Spain,2013,97.3,79.6
+Spain,2012,97.0,78.8
+Spain,2011,96.8,76.6
+Spain,2010,97.2,73.6
+Spain,2009,97.7,72.0
+Spain,2008,97.2,68.2
+Spain,2007,97.9,65.8
+Spain,2006,96.9,64.3
+Spain,2005,97.4,63.6
+Spain,2004,98.0,61.0
+Estonia,2022,98.368,55.492
+Estonia,2021,96.118,54.613
+Estonia,2020,96.4,53.7
+Estonia,2019,96.3,51.8
+Estonia,2018,96.6,53.1
+Estonia,2017,96.2,52.1
+Estonia,2016,97.2,52.4
+Estonia,2015,97.8,55.6
+Estonia,2014,96.9,52.7
+Estonia,2013,97.0,50.0
+Estonia,2012,97.9,54.1
+Estonia,2011,97.2,54.7
+Estonia,2010,96.7,55.2
+Estonia,2009,96.5,51.6
+Estonia,2008,98.3,47.3
+Estonia,2007,98.0,50.1
+Estonia,2006,96.7,56.8
+Estonia,2005,96.2,45.5
+Estonia,2004,97.4,50.8
+Ethiopia,2022,99.189,86.73
+Ethiopia,2021,99.169,86.437
+Ethiopia,2020,98.513,85.053
+Ethiopia,2019,99.529,85.903
+Ethiopia,2018,99.431,85.435
+Ethiopia,2017,99.329,84.951
+Ethiopia,2016,99.193,84.46
+Ethiopia,2015,99.06,83.983
+Ethiopia,2014,98.881,83.391
+Ethiopia,2013,98.7,82.8
+Ethiopia,2012,98.756,82.575
+Ethiopia,2011,98.797,82.34
+Ethiopia,2010,98.819,82.085
+Ethiopia,2009,98.821,81.808
+Ethiopia,2008,98.805,81.511
+Ethiopia,2007,98.795,81.215
+Ethiopia,2006,98.792,80.954
+Ethiopia,2005,98.8,80.7
+Ethiopia,2004,98.709,79.69
+Finland,2022,94.107,81.82
+Finland,2021,94.258,80.736
+Finland,2020,94.138,80.203
+Finland,2019,94.46,80.129
+Finland,2018,94.649,79.654
+Finland,2017,93.747,78.597
+Finland,2016,93.91,77.871
+Finland,2015,93.928,78.876
+Finland,2014,93.919,79.08
+Finland,2013,94.361,78.387
+Finland,2012,94.496,79.495
+Finland,2011,95.033,79.135
+Finland,2010,94.592,78.246
+Finland,2009,94.697,79.35
+Finland,2008,95.111,78.736
+Finland,2007,94.424,78.107
+Finland,2006,93.993,77.129
+Finland,2005,94.05,76.471
+Finland,2004,93.728,76.051
+Fiji,2022,95.469,40.985
+Fiji,2021,95.405,40.865
+Fiji,2020,95.096,40.676
+Fiji,2019,96.731,41.489
+Fiji,2018,96.551,41.422
+Fiji,2017,96.567,41.093
+Fiji,2016,96.7,40.7
+Fiji,2015,96.531,42.234
+Fiji,2014,96.365,43.718
+Fiji,2013,96.56,44.909
+Fiji,2012,96.741,46.036
+Fiji,2011,96.9,47.1
+Fiji,2010,96.958,42.511
+Fiji,2009,97.025,38.163
+Fiji,2008,97.068,34.043
+Fiji,2007,97.083,30.178
+Fiji,2006,97.069,26.574
+Fiji,2005,97.0,23.2
+Fiji,2004,99.405,24.389
+France,2022,95.048,77.332
+France,2021,95.1,77.4
+France,2020,94.7,75.7
+France,2019,93.2,74.8
+France,2018,95.6,75.4
+France,2017,96.4,73.6
+France,2016,96.3,73.5
+France,2015,95.9,73.3
+France,2014,96.1,75.5
+France,2013,96.5,74.0
+France,2012,96.6,74.2
+France,2011,96.7,73.6
+France,2010,96.9,73.2
+France,2009,97.1,73.4
+France,2008,97.0,73.5
+France,2007,97.2,71.8
+France,2006,96.8,69.6
+France,2005,96.8,70.6
+France,2004,97.0,69.8
+Gabon,2022,82.948,53.569
+Gabon,2021,81.933,52.43
+Gabon,2020,81.388,51.583
+Gabon,2019,84.808,54.223
+Gabon,2018,84.967,54.575
+Gabon,2017,84.806,54.949
+Gabon,2016,84.999,55.346
+Gabon,2015,85.364,55.967
+Gabon,2014,86.1,56.361
+Gabon,2013,86.858,56.724
+Gabon,2012,87.654,57.058
+Gabon,2011,88.379,57.209
+Gabon,2010,89.341,57.382
+Gabon,2009,90.211,57.538
+Gabon,2008,91.151,57.726
+Gabon,2007,92.149,57.761
+Gabon,2006,92.945,57.582
+Gabon,2005,93.851,57.372
+Gabon,2004,94.485,57.31
+United Kingdom,2022,95.222,76.015
+United Kingdom,2021,95.583,76.563
+United Kingdom,2020,95.898,76.111
+United Kingdom,2019,96.6,75.0
+United Kingdom,2018,96.1,73.7
+United Kingdom,2017,95.6,72.7
+United Kingdom,2016,95.7,71.2
+United Kingdom,2015,95.6,69.2
+United Kingdom,2014,95.6,68.2
+United Kingdom,2013,96.1,69.3
+United Kingdom,2012,95.3,68.4
+United Kingdom,2011,95.1,68.2
+United Kingdom,2010,95.7,67.1
+United Kingdom,2009,95.2,66.4
+United Kingdom,2008,95.2,65.8
+United Kingdom,2007,95.4,65.6
+United Kingdom,2006,94.8,66.4
+United Kingdom,2005,94.6,65.3
+United Kingdom,2004,94.0,62.6
+Georgia,2022,89.228,44.08
+Georgia,2021,88.824,44.028
+Georgia,2020,88.39,43.377
+Georgia,2019,89.001,43.258
+Georgia,2018,90.0,43.5
+Georgia,2017,94.034,45.315
+Georgia,2016,97.8,47.4
+Georgia,2015,99.0,57.0
+Georgia,2014,97.2,52.9
+Georgia,2013,98.3,43.3
+Georgia,2012,99.2,49.4
+Georgia,2011,98.293,49.108
+Georgia,2010,98.368,49.366
+Georgia,2009,98.315,47.396
+Georgia,2008,96.426,46.505
+Georgia,2007,96.505,47.88
+Georgia,2006,94.471,45.717
+Georgia,2005,94.459,47.206
+Georgia,2004,94.241,48.754
+Ghana,2022,95.245,81.679
+Ghana,2021,95.138,81.496
+Ghana,2020,94.92,80.903
+Ghana,2019,95.542,81.406
+Ghana,2018,95.548,81.127
+Ghana,2017,95.6,80.9
+Ghana,2016,95.483,80.904
+Ghana,2015,95.445,80.981
+Ghana,2014,95.392,81.608
+Ghana,2013,95.404,82.273
+Ghana,2012,95.488,82.979
+Ghana,2011,95.624,83.716
+Ghana,2010,95.773,84.466
+Ghana,2009,95.92,85.221
+Ghana,2008,96.102,86.007
+Ghana,2007,96.283,86.785
+Ghana,2006,96.4,87.5
+Ghana,2005,96.69,87.974
+Ghana,2004,96.958,88.423
+Guinea,2022,92.352,49.333
+Guinea,2021,92.052,48.524
+Guinea,2020,92.696,49.267
+Guinea,2019,94.013,49.967
+Guinea,2018,94.418,51.37
+Guinea,2017,94.359,52.651
+Guinea,2016,94.562,53.93
+Guinea,2015,94.687,55.179
+Guinea,2014,94.721,56.719
+Guinea,2013,94.598,58.063
+Guinea,2012,94.257,59.499
+Guinea,2011,93.66,60.234
+Guinea,2010,93.157,61.179
+Guinea,2009,92.643,62.177
+Guinea,2008,92.097,63.231
+Guinea,2007,91.434,64.113
+Guinea,2006,90.668,65.022
+Guinea,2005,90.015,65.947
+Guinea,2004,89.309,66.868
+Gambia,2022,89.15,64.396
+Gambia,2021,88.486,63.792
+Gambia,2020,88.179,62.161
+Gambia,2019,88.727,62.557
+Gambia,2018,88.756,62.344
+Gambia,2017,88.966,61.195
+Gambia,2016,89.21,60.049
+Gambia,2015,89.468,58.897
+Gambia,2014,89.741,57.743
+Gambia,2013,90.019,56.581
+Gambia,2012,90.3,55.4
+Gambia,2011,90.481,54.996
+Gambia,2010,90.649,54.616
+Gambia,2009,90.864,54.183
+Gambia,2008,91.075,53.75
+Gambia,2007,91.281,53.325
+Gambia,2006,91.483,52.918
+Gambia,2005,91.68,52.535
+Gambia,2004,91.898,52.138
+Guinea-Bissau,2022,93.964,60.372
+Guinea-Bissau,2021,93.474,59.918
+Guinea-Bissau,2020,93.615,59.438
+Guinea-Bissau,2019,94.211,60.015
+Guinea-Bissau,2018,94.3,59.8
+Guinea-Bissau,2017,94.388,59.643
+Guinea-Bissau,2016,94.454,59.494
+Guinea-Bissau,2015,94.524,59.382
+Guinea-Bissau,2014,94.663,59.248
+Guinea-Bissau,2013,94.882,59.192
+Guinea-Bissau,2012,95.131,59.158
+Guinea-Bissau,2011,95.447,59.194
+Guinea-Bissau,2010,95.751,59.229
+Guinea-Bissau,2009,96.154,59.184
+Guinea-Bissau,2008,96.61,59.141
+Guinea-Bissau,2007,97.104,59.095
+Guinea-Bissau,2006,97.617,59.056
+Guinea-Bissau,2005,98.123,59.04
+Guinea-Bissau,2004,98.579,58.841
+Equatorial Guinea,2022,77.537,65.916
+Equatorial Guinea,2021,76.83,65.024
+Equatorial Guinea,2020,76.737,64.176
+Equatorial Guinea,2019,78.477,66.012
+Equatorial Guinea,2018,78.803,66.071
+Equatorial Guinea,2017,78.853,66.246
+Equatorial Guinea,2016,79.404,66.525
+Equatorial Guinea,2015,80.042,66.972
+Equatorial Guinea,2014,80.843,67.36
+Equatorial Guinea,2013,81.6,67.699
+Equatorial Guinea,2012,82.49,68.133
+Equatorial Guinea,2011,83.339,68.516
+Equatorial Guinea,2010,84.386,68.808
+Equatorial Guinea,2009,85.214,68.741
+Equatorial Guinea,2008,85.814,68.44
+Equatorial Guinea,2007,86.321,68.116
+Equatorial Guinea,2006,86.501,67.493
+Equatorial Guinea,2005,86.431,66.805
+Equatorial Guinea,2004,86.094,66.219
+Greece,2022,98.758,71.582
+Greece,2021,95.9,69.6
+Greece,2020,97.2,71.5
+Greece,2019,97.9,72.5
+Greece,2018,98.1,71.6
+Greece,2017,97.5,72.1
+Greece,2016,97.8,74.4
+Greece,2015,97.7,73.6
+Greece,2014,98.1,69.1
+Greece,2013,98.5,69.6
+Greece,2012,98.1,69.5
+Greece,2011,97.8,66.4
+Greece,2010,98.4,65.4
+Greece,2009,98.5,62.3
+Greece,2008,99.0,61.0
+Greece,2007,98.5,61.7
+Greece,2006,98.6,62.6
+Greece,2005,98.507,61.718
+Greece,2004,98.617,60.955
+Guatemala,2022,98.454,30.655
+Guatemala,2021,98.025,29.752
+Guatemala,2020,96.791,29.489
+Guatemala,2019,99.1,30.5
+Guatemala,2018,99.2,33.1
+Guatemala,2017,99.2,33.5
+Guatemala,2016,98.9,34.5
+Guatemala,2015,99.5,32.2
+Guatemala,2014,98.8,37.3
+Guatemala,2013,98.602,36.831
+Guatemala,2012,99.0,42.2
+Guatemala,2011,99.117,36.79
+Guatemala,2010,95.4,40.4
+Guatemala,2009,95.685,40.529
+Guatemala,2008,95.955,40.657
+Guatemala,2007,96.206,40.783
+Guatemala,2006,96.43,40.9
+Guatemala,2005,96.63,41.008
+Guatemala,2004,96.8,41.1
+Guam,2022,91.961,69.373
+Guam,2021,92.841,71.315
+Guam,2020,92.593,70.619
+Guam,2019,92.893,70.535
+Guam,2018,92.531,69.571
+Guam,2017,91.957,69.133
+Guam,2016,91.48,68.5
+Guam,2015,91.114,68.147
+Guam,2014,90.702,67.33
+Guam,2013,90.449,66.145
+Guam,2012,89.968,65.403
+Guam,2011,89.742,64.36
+Guam,2010,85.636,64.61
+Guam,2009,89.665,61.056
+Guam,2008,87.805,56.373
+Guam,2007,85.987,51.793
+Guam,2006,87.666,59.438
+Guam,2005,84.058,57.945
+Guam,2004,88.084,57.921
+Guyana,2022,81.333,41.964
+Guyana,2021,81.181,41.881
+Guyana,2020,81.213,40.816
+Guyana,2019,81.6,40.9
+Guyana,2018,84.1,43.3
+Guyana,2017,85.474,42.872
+Guyana,2016,86.451,42.15
+Guyana,2015,87.338,41.419
+Guyana,2014,88.133,40.677
+Guyana,2013,88.869,39.937
+Guyana,2012,89.614,39.251
+Guyana,2011,90.364,38.614
+Guyana,2010,91.079,38.015
+Guyana,2009,91.79,37.441
+Guyana,2008,92.503,36.891
+Guyana,2007,93.221,36.362
+Guyana,2006,93.948,35.853
+Guyana,2005,94.711,35.363
+Guyana,2004,95.519,34.887
+"Hong Kong, China",2022,95.81,67.863
+"Hong Kong, China",2021,98.524,69.659
+"Hong Kong, China",2020,98.02,69.334
+"Hong Kong, China",2019,98.766,69.136
+"Hong Kong, China",2018,99.649,69.611
+"Hong Kong, China",2017,99.746,68.758
+"Hong Kong, China",2016,99.855,68.547
+"Hong Kong, China",2015,99.9,68.422
+"Hong Kong, China",2014,99.9,68.367
+"Hong Kong, China",2013,99.9,67.995
+"Hong Kong, China",2012,99.9,67.365
+"Hong Kong, China",2011,99.9,65.544
+"Hong Kong, China",2010,99.9,63.366
+"Hong Kong, China",2009,99.9,64.011
+"Hong Kong, China",2008,99.9,62.196
+"Hong Kong, China",2007,99.9,61.646
+"Hong Kong, China",2006,99.9,60.663
+"Hong Kong, China",2005,99.764,58.873
+"Hong Kong, China",2004,99.9,58.177
+Honduras,2022,93.84,42.57
+Honduras,2021,92.761,41.539
+Honduras,2020,89.342,39.246
+Honduras,2019,98.8,41.7
+Honduras,2018,99.3,44.5
+Honduras,2017,99.3,40.8
+Honduras,2016,99.4,41.9
+Honduras,2015,98.5,42.5
+Honduras,2014,98.8,43.8
+Honduras,2013,99.2,36.3
+Honduras,2012,96.449,31.447
+Honduras,2011,97.13,32.693
+Honduras,2010,98.361,36.791
+Honduras,2009,97.219,35.24
+Honduras,2008,97.009,33.598
+Honduras,2007,98.741,31.2
+Honduras,2006,99.515,32.017
+Honduras,2005,99.083,34.817
+Honduras,2004,99.589,35.07
+Croatia,2022,96.794,78.03
+Croatia,2021,97.9,77.4
+Croatia,2020,95.5,82.5
+Croatia,2019,96.4,85.6
+Croatia,2018,95.4,82.1
+Croatia,2017,94.7,80.7
+Croatia,2016,95.3,78.7
+Croatia,2015,97.0,81.7
+Croatia,2014,96.5,83.7
+Croatia,2013,94.439,78.875
+Croatia,2012,94.847,78.608
+Croatia,2011,95.065,77.768
+Croatia,2010,93.684,79.34
+Croatia,2009,94.094,79.703
+Croatia,2008,96.359,78.706
+Croatia,2007,97.037,77.475
+Croatia,2006,89.23,71.939
+Croatia,2005,89.955,71.61
+Croatia,2004,93.316,73.06
+Haiti,2022,90.859,65.43
+Haiti,2021,90.563,65.069
+Haiti,2020,90.957,64.839
+Haiti,2019,91.721,65.571
+Haiti,2018,92.186,65.944
+Haiti,2017,92.555,65.913
+Haiti,2016,92.926,65.815
+Haiti,2015,93.347,65.804
+Haiti,2014,93.826,65.806
+Haiti,2013,94.257,65.589
+Haiti,2012,94.7,65.4
+Haiti,2011,95.238,65.504
+Haiti,2010,95.487,64.877
+Haiti,2009,95.734,64.13
+Haiti,2008,95.201,63.608
+Haiti,2007,94.92,62.952
+Haiti,2006,94.36,62.347
+Haiti,2005,94.004,61.597
+Haiti,2004,93.994,61.35
+Hungary,2022,99.9,45.705
+Hungary,2021,98.272,44.68
+Hungary,2020,96.7,35.4
+Hungary,2019,98.1,38.7
+Hungary,2018,97.4,38.9
+Hungary,2017,97.2,38.7
+Hungary,2016,96.8,35.6
+Hungary,2015,96.2,36.5
+Hungary,2014,95.9,37.9
+Hungary,2013,95.0,35.3
+Hungary,2012,94.8,36.3
+Hungary,2011,94.4,32.7
+Hungary,2010,93.8,32.2
+Hungary,2009,94.2,32.0
+Hungary,2008,94.2,32.8
+Hungary,2007,94.9,32.4
+Hungary,2006,93.9,34.8
+Hungary,2005,92.6,31.8
+Hungary,2004,92.3,31.4
+Indonesia,2022,98.178,55.213
+Indonesia,2021,97.471,54.546
+Indonesia,2020,98.632,55.36
+Indonesia,2019,99.9,56.245
+Indonesia,2018,99.327,56.24
+Indonesia,2017,98.872,54.497
+Indonesia,2016,99.109,53.582
+Indonesia,2015,99.9,53.962
+Indonesia,2014,99.9,54.449
+Indonesia,2013,99.9,55.007
+Indonesia,2012,99.9,56.076
+Indonesia,2011,99.9,55.844
+Indonesia,2010,99.9,55.224
+Indonesia,2009,98.989,54.151
+Indonesia,2008,99.135,54.271
+Indonesia,2007,99.048,52.843
+Indonesia,2006,99.9,47.957
+Indonesia,2005,99.9,48.757
+Indonesia,2004,99.9,49.241
+India,2022,98.182,27.954
+India,2021,97.3,27.1
+India,2020,97.7,25.3
+India,2019,98.2,22.3
+India,2018,97.9,19.2
+India,2017,98.5,21.5
+India,2016,98.691,22.703
+India,2015,98.836,23.922
+India,2014,98.958,25.16
+India,2013,99.082,26.421
+India,2012,99.2,27.7
+India,2011,99.166,27.534
+India,2010,99.1,27.3
+India,2009,97.952,28.218
+India,2008,96.774,29.142
+India,2007,95.557,30.077
+India,2006,94.3,31.027
+India,2005,93.0,32.0
+India,2004,94.127,32.004
+Ireland,2022,96.075,75.932
+Ireland,2021,94.422,73.931
+Ireland,2020,92.9,71.8
+Ireland,2019,94.7,72.2
+Ireland,2018,94.2,73.4
+Ireland,2017,94.4,73.0
+Ireland,2016,94.7,72.0
+Ireland,2015,95.4,72.8
+Ireland,2014,95.0,72.9
+Ireland,2013,93.9,71.4
+Ireland,2012,93.4,69.9
+Ireland,2011,92.9,67.4
+Ireland,2010,93.7,66.5
+Ireland,2009,94.4,65.8
+Ireland,2008,95.0,64.8
+Ireland,2007,95.1,64.7
+Ireland,2006,95.4,62.0
+Ireland,2005,95.834,61.638
+Ireland,2004,95.665,60.37
+"Iran, Islamic Republic of",2022,92.747,11.952
+"Iran, Islamic Republic of",2021,93.282,10.96
+"Iran, Islamic Republic of",2020,92.196,9.575
+"Iran, Islamic Republic of",2019,93.782,13.175
+"Iran, Islamic Republic of",2018,93.675,13.789
+"Iran, Islamic Republic of",2017,92.791,13.674
+"Iran, Islamic Republic of",2016,91.731,12.687
+"Iran, Islamic Republic of",2015,91.197,10.31
+"Iran, Islamic Republic of",2014,90.107,8.362
+"Iran, Islamic Republic of",2013,90.033,9.004
+"Iran, Islamic Republic of",2012,87.57,10.991
+"Iran, Islamic Republic of",2011,87.863,9.801
+"Iran, Islamic Republic of",2010,89.301,11.774
+"Iran, Islamic Republic of",2009,90.667,13.03
+"Iran, Islamic Republic of",2008,90.056,12.047
+"Iran, Islamic Republic of",2007,91.824,15.372
+"Iran, Islamic Republic of",2006,92.052,16.761
+"Iran, Islamic Republic of",2005,92.463,17.534
+"Iran, Islamic Republic of",2004,93.26,16.26
+Iraq,2022,95.607,10.951
+Iraq,2021,95.5,9.7
+Iraq,2020,97.436,13.239
+Iraq,2019,99.9,13.76
+Iraq,2018,99.9,13.722
+Iraq,2017,99.9,13.699
+Iraq,2016,99.303,17.7
+Iraq,2015,98.701,17.567
+Iraq,2014,98.095,17.393
+Iraq,2013,97.024,16.019
+Iraq,2012,95.9,14.7
+Iraq,2011,95.686,14.763
+Iraq,2010,95.424,14.819
+Iraq,2009,95.121,14.887
+Iraq,2008,94.745,14.954
+Iraq,2007,94.3,15.0
+Iraq,2006,94.22,14.565
+Iraq,2005,94.191,14.149
+Iraq,2004,94.211,13.747
+Iceland,2022,96.405,83.826
+Iceland,2021,95.906,80.433
+Iceland,2020,96.545,81.798
+Iceland,2019,97.837,83.908
+Iceland,2018,97.802,83.872
+Iceland,2017,98.311,85.044
+Iceland,2016,99.728,86.206
+Iceland,2015,98.984,84.609
+Iceland,2014,98.112,83.155
+Iceland,2013,96.605,81.853
+Iceland,2012,95.756,81.878
+Iceland,2011,96.286,80.615
+Iceland,2010,96.592,79.496
+Iceland,2009,96.602,78.134
+Iceland,2008,98.002,76.306
+Iceland,2007,98.629,77.957
+Iceland,2006,98.495,78.077
+Iceland,2005,97.665,76.898
+Iceland,2004,98.088,76.945
+Israel,2022,89.419,71.817
+Israel,2021,88.697,71.086
+Israel,2020,87.886,69.691
+Israel,2019,89.684,70.674
+Israel,2018,89.796,71.387
+Israel,2017,90.359,70.137
+Israel,2016,90.559,70.176
+Israel,2015,91.112,69.863
+Israel,2014,90.787,69.794
+Israel,2013,90.371,67.943
+Israel,2012,90.644,68.204
+Israel,2011,90.333,65.674
+Israel,2010,90.248,64.467
+Israel,2009,89.831,63.641
+Israel,2008,90.252,61.213
+Israel,2007,90.142,61.123
+Israel,2006,89.065,59.952
+Israel,2005,88.9,59.555
+Israel,2004,89.461,58.862
+Italy,2022,94.338,62.01
+Italy,2021,94.078,61.487
+Italy,2020,94.1,59.6
+Italy,2019,95.4,62.3
+Italy,2018,95.1,61.7
+Italy,2017,95.7,61.9
+Italy,2016,94.8,62.5
+Italy,2015,95.1,62.4
+Italy,2014,94.6,62.7
+Italy,2013,95.149,62.393
+Italy,2012,96.139,62.718
+Italy,2011,95.962,60.856
+Italy,2010,96.06,60.62
+Italy,2009,96.677,60.723
+Italy,2008,97.669,61.449
+Italy,2007,97.697,60.27
+Italy,2006,98.079,60.603
+Italy,2005,98.023,59.932
+Italy,2004,98.482,60.004
+Jamaica,2022,94.233,83.114
+Jamaica,2021,92.886,81.258
+Jamaica,2020,89.0,78.8
+Jamaica,2019,93.0,80.6
+Jamaica,2018,99.9,77.1
+Jamaica,2017,98.565,77.721
+Jamaica,2016,97.6,77.1
+Jamaica,2015,98.32,79.818
+Jamaica,2014,96.121,74.223
+Jamaica,2013,95.3,73.6
+Jamaica,2012,96.3,71.8
+Jamaica,2011,96.4,70.841
+Jamaica,2010,96.177,70.832
+Jamaica,2009,97.301,71.768
+Jamaica,2008,99.497,73.956
+Jamaica,2007,99.9,74.759
+Jamaica,2006,99.9,75.534
+Jamaica,2005,99.9,76.278
+Jamaica,2004,99.9,77.011
+Jordan,2022,82.109,9.707
+Jordan,2021,83.907,9.827
+Jordan,2020,84.347,10.981
+Jordan,2019,82.703,8.574
+Jordan,2018,79.814,10.232
+Jordan,2017,78.188,12.12
+Jordan,2016,76.16,9.86
+Jordan,2015,74.031,7.798
+Jordan,2014,72.385,6.02
+Jordan,2013,75.125,7.106
+Jordan,2012,77.337,8.535
+Jordan,2011,79.606,9.417
+Jordan,2010,80.764,9.505
+Jordan,2009,82.262,9.72
+Jordan,2008,80.944,8.647
+Jordan,2007,80.795,9.082
+Jordan,2006,77.251,4.958
+Jordan,2005,78.691,4.576
+Jordan,2004,77.16,4.019
+Japan,2022,99.821,71.77
+Japan,2021,99.764,71.432
+Japan,2020,99.708,71.124
+Japan,2019,99.721,70.982
+Japan,2018,99.774,69.981
+Japan,2017,99.793,68.079
+Japan,2016,99.9,66.881
+Japan,2015,99.9,65.83
+Japan,2014,99.9,65.038
+Japan,2013,99.9,63.747
+Japan,2012,99.9,62.486
+Japan,2011,99.9,61.302
+Japan,2010,99.9,60.405
+Japan,2009,99.9,59.165
+Japan,2008,99.9,56.756
+Japan,2007,99.9,55.978
+Japan,2006,99.9,54.36
+Japan,2005,99.9,53.322
+Japan,2004,99.9,52.282
+Kazakhstan,2022,99.9,81.436
+Kazakhstan,2021,99.9,81.31
+Kazakhstan,2020,99.9,79.596
+Kazakhstan,2019,99.9,82.296
+Kazakhstan,2018,99.9,82.531
+Kazakhstan,2017,99.9,83.702
+Kazakhstan,2016,99.9,84.15
+Kazakhstan,2015,99.4,83.307
+Kazakhstan,2014,99.816,84.323
+Kazakhstan,2013,99.9,85.629
+Kazakhstan,2012,99.9,87.03
+Kazakhstan,2011,99.9,87.243
+Kazakhstan,2010,99.9,86.774
+Kazakhstan,2009,99.9,87.346
+Kazakhstan,2008,99.9,86.475
+Kazakhstan,2007,99.9,85.013
+Kazakhstan,2006,99.9,83.307
+Kazakhstan,2005,99.9,83.064
+Kazakhstan,2004,99.9,83.756
+Kenya,2022,99.257,83.82
+Kenya,2021,98.761,83.125
+Kenya,2020,97.859,81.839
+Kenya,2019,98.688,82.663
+Kenya,2018,98.665,82.025
+Kenya,2017,98.671,81.43
+Kenya,2016,98.7,80.9
+Kenya,2015,98.623,80.792
+Kenya,2014,98.636,80.727
+Kenya,2013,98.697,80.697
+Kenya,2012,98.819,80.706
+Kenya,2011,98.998,80.744
+Kenya,2010,99.199,80.79
+Kenya,2009,99.396,80.854
+Kenya,2008,99.59,80.925
+Kenya,2007,99.781,80.977
+Kenya,2006,99.9,81.007
+Kenya,2005,99.9,80.999
+Kenya,2004,99.9,80.937
+Kyrgyzstan,2022,80.645,36.218
+Kyrgyzstan,2021,80.221,35.244
+Kyrgyzstan,2020,80.683,36.106
+Kyrgyzstan,2019,82.5,36.4
+Kyrgyzstan,2018,80.833,34.708
+Kyrgyzstan,2017,82.146,37.254
+Kyrgyzstan,2016,82.787,40.059
+Kyrgyzstan,2015,83.606,41.633
+Kyrgyzstan,2014,83.395,42.684
+Kyrgyzstan,2013,84.027,40.558
+Kyrgyzstan,2012,86.694,45.514
+Kyrgyzstan,2011,86.081,45.983
+Kyrgyzstan,2010,84.722,46.297
+Kyrgyzstan,2009,83.604,45.778
+Kyrgyzstan,2008,85.936,48.306
+Kyrgyzstan,2007,86.496,49.607
+Kyrgyzstan,2006,86.832,50.791
+Kyrgyzstan,2005,85.289,50.308
+Kyrgyzstan,2004,83.553,49.845
+Cambodia,2022,98.046,82.384
+Cambodia,2021,98.238,82.816
+Cambodia,2020,97.591,81.69
+Cambodia,2019,98.4,82.3
+Cambodia,2018,97.869,79.643
+Cambodia,2017,97.271,76.953
+Cambodia,2016,96.587,74.218
+Cambodia,2015,95.825,71.442
+Cambodia,2014,94.955,68.62
+Cambodia,2013,93.969,65.771
+Cambodia,2012,92.9,62.9
+Cambodia,2011,93.943,64.047
+Cambodia,2010,94.954,65.219
+Cambodia,2009,95.944,66.409
+Cambodia,2008,96.881,67.608
+Cambodia,2007,97.731,68.827
+Cambodia,2006,98.496,70.028
+Cambodia,2005,99.197,71.204
+Cambodia,2004,99.724,72.299
+"Korea, Republic of",2022,95.561,57.628
+"Korea, Republic of",2021,95.104,57.023
+"Korea, Republic of",2020,95.405,56.7
+"Korea, Republic of",2019,96.979,57.972
+"Korea, Republic of",2018,97.807,57.42
+"Korea, Republic of",2017,97.95,57.342
+"Korea, Republic of",2016,97.987,57.38
+"Korea, Republic of",2015,98.141,57.468
+"Korea, Republic of",2014,98.231,57.422
+"Korea, Republic of",2013,97.839,56.437
+"Korea, Republic of",2012,97.846,56.468
+"Korea, Republic of",2011,97.92,56.713
+"Korea, Republic of",2010,97.985,56.584
+"Korea, Republic of",2009,97.949,55.904
+"Korea, Republic of",2008,98.76,56.095
+"Korea, Republic of",2007,98.868,55.423
+"Korea, Republic of",2006,99.368,54.285
+"Korea, Republic of",2005,99.799,52.696
+"Korea, Republic of",2004,99.9,52.021
+Kuwait,2022,97.911,48.731
+Kuwait,2021,96.89,48.599
+Kuwait,2020,96.523,47.869
+Kuwait,2019,99.9,50.13
+Kuwait,2018,99.9,50.068
+Kuwait,2017,99.9,49.866
+Kuwait,2016,99.9,49.75
+Kuwait,2015,99.9,49.621
+Kuwait,2014,99.9,49.558
+Kuwait,2013,99.9,49.962
+Kuwait,2012,99.9,50.076
+Kuwait,2011,99.9,50.016
+Kuwait,2010,99.9,49.545
+Kuwait,2009,99.9,49.605
+Kuwait,2008,99.9,49.255
+Kuwait,2007,99.9,48.986
+Kuwait,2006,99.9,48.907
+Kuwait,2005,99.9,48.796
+Kuwait,2004,99.9,48.407
+Lao People's Democratic Republic,2022,77.496,65.3
+Lao People's Democratic Republic,2021,77.471,65.273
+Lao People's Democratic Republic,2020,77.783,65.028
+Lao People's Democratic Republic,2019,78.406,65.461
+Lao People's Democratic Republic,2018,78.634,65.331
+Lao People's Democratic Republic,2017,78.9,65.2
+Lao People's Democratic Republic,2016,79.185,65.075
+Lao People's Democratic Republic,2015,79.472,64.986
+Lao People's Democratic Republic,2014,79.735,64.89
+Lao People's Democratic Republic,2013,79.976,64.772
+Lao People's Democratic Republic,2012,80.227,64.67
+Lao People's Democratic Republic,2011,80.461,64.589
+Lao People's Democratic Republic,2010,80.66,64.531
+Lao People's Democratic Republic,2009,80.826,64.496
+Lao People's Democratic Republic,2008,80.936,64.505
+Lao People's Democratic Republic,2007,81.004,64.547
+Lao People's Democratic Republic,2006,81.032,64.627
+Lao People's Democratic Republic,2005,81.032,64.753
+Lao People's Democratic Republic,2004,80.944,64.804
+Lebanon,2022,93.505,21.78
+Lebanon,2021,94.108,21.646
+Lebanon,2020,91.87,19.894
+Lebanon,2019,97.6,22.5
+Lebanon,2018,95.435,20.829
+Lebanon,2017,93.638,19.209
+Lebanon,2016,92.186,17.649
+Lebanon,2015,91.052,16.155
+Lebanon,2014,90.505,15.039
+Lebanon,2013,90.379,14.27
+Lebanon,2012,90.266,13.53
+Lebanon,2011,90.172,12.827
+Lebanon,2010,90.101,12.162
+Lebanon,2009,90.05,11.539
+Lebanon,2008,90.0,10.957
+Lebanon,2007,89.923,10.403
+Lebanon,2006,90.881,10.2
+Lebanon,2005,91.814,9.995
+Lebanon,2004,92.754,9.813
+Liberia,2022,87.012,76.869
+Liberia,2021,86.562,76.334
+Liberia,2020,86.29,75.605
+Liberia,2019,86.768,75.954
+Liberia,2018,86.576,75.485
+Liberia,2017,86.381,75.017
+Liberia,2016,86.208,74.579
+Liberia,2015,86.103,74.218
+Liberia,2014,86.029,73.863
+Liberia,2013,86.01,73.561
+Liberia,2012,85.974,73.276
+Liberia,2011,85.938,73.151
+Liberia,2010,85.9,73.1
+Liberia,2009,85.935,72.965
+Liberia,2008,86.04,72.965
+Liberia,2007,86.174,73.023
+Liberia,2006,86.299,73.059
+Liberia,2005,86.457,73.133
+Liberia,2004,86.649,73.202
+Libya,2022,89.746,47.592
+Libya,2021,89.372,47.962
+Libya,2020,87.486,46.551
+Libya,2019,89.794,48.013
+Libya,2018,89.644,47.549
+Libya,2017,89.604,46.933
+Libya,2016,89.449,46.834
+Libya,2015,89.079,46.538
+Libya,2014,88.966,46.189
+Libya,2013,88.831,45.938
+Libya,2012,88.854,45.922
+Libya,2011,89.074,45.379
+Libya,2010,89.502,45.145
+Libya,2009,90.279,45.617
+Libya,2008,91.019,46.123
+Libya,2007,91.815,46.598
+Libya,2006,92.733,47.102
+Libya,2005,93.376,47.215
+Libya,2004,93.553,47.402
+Saint Lucia,2022,97.295,70.706
+Saint Lucia,2021,97.9,69.7
+Saint Lucia,2020,92.0,62.4
+Saint Lucia,2019,93.8,79.8
+Saint Lucia,2018,96.4,76.7
+Saint Lucia,2017,99.1,83.7
+Saint Lucia,2016,98.888,83.184
+Saint Lucia,2015,98.617,82.7
+Saint Lucia,2014,98.523,82.035
+Saint Lucia,2013,98.258,81.499
+Saint Lucia,2012,96.419,82.793
+Saint Lucia,2011,94.492,78.501
+Saint Lucia,2010,94.5,77.518
+Saint Lucia,2009,94.773,76.361
+Saint Lucia,2008,95.289,75.088
+Saint Lucia,2007,95.54,74.063
+Saint Lucia,2006,95.989,72.991
+Saint Lucia,2005,96.263,72.029
+Saint Lucia,2004,96.741,71.081
+Sri Lanka,2022,96.541,32.643
+Sri Lanka,2021,98.362,34.166
+Sri Lanka,2020,97.6,31.7
+Sri Lanka,2019,98.7,34.0
+Sri Lanka,2018,97.6,29.9
+Sri Lanka,2017,98.6,34.9
+Sri Lanka,2016,98.8,35.2
+Sri Lanka,2015,98.1,33.8
+Sri Lanka,2014,98.9,34.9
+Sri Lanka,2013,98.6,33.4
+Sri Lanka,2012,99.373,30.805
+Sri Lanka,2011,98.3,33.8
+Sri Lanka,2010,98.4,31.5
+Sri Lanka,2009,98.139,31.778
+Sri Lanka,2008,97.933,32.019
+Sri Lanka,2007,97.805,32.255
+Sri Lanka,2006,97.783,32.525
+Sri Lanka,2005,97.871,32.845
+Sri Lanka,2004,97.976,33.208
+Lesotho,2022,87.861,68.456
+Lesotho,2021,87.452,67.991
+Lesotho,2020,88.013,67.953
+Lesotho,2019,89.088,68.777
+Lesotho,2018,89.454,68.656
+Lesotho,2017,89.409,68.421
+Lesotho,2016,89.795,68.658
+Lesotho,2015,90.238,68.806
+Lesotho,2014,90.736,68.881
+Lesotho,2013,91.118,68.861
+Lesotho,2012,91.166,69.591
+Lesotho,2011,91.071,69.855
+Lesotho,2010,91.078,70.336
+Lesotho,2009,91.06,70.733
+Lesotho,2008,90.922,71.185
+Lesotho,2007,90.774,71.338
+Lesotho,2006,90.487,70.357
+Lesotho,2005,90.17,70.411
+Lesotho,2004,89.8,70.419
+Lithuania,2022,97.076,84.857
+Lithuania,2021,97.6,83.2
+Lithuania,2020,98.0,84.2
+Lithuania,2019,97.6,84.9
+Lithuania,2018,96.6,82.6
+Lithuania,2017,97.0,82.4
+Lithuania,2016,96.7,85.6
+Lithuania,2015,96.9,83.8
+Lithuania,2014,98.3,81.0
+Lithuania,2013,96.9,87.0
+Lithuania,2012,96.0,86.0
+Lithuania,2011,98.4,85.9
+Lithuania,2010,96.8,84.3
+Lithuania,2009,94.8,79.6
+Lithuania,2008,94.5,73.9
+Lithuania,2007,94.5,79.0
+Lithuania,2006,96.5,76.6
+Lithuania,2005,95.5,74.9
+Lithuania,2004,96.2,76.9
+Luxembourg,2022,95.231,82.649
+Luxembourg,2021,94.562,81.905
+Luxembourg,2020,94.828,81.215
+Luxembourg,2019,95.076,79.689
+Luxembourg,2018,94.373,80.037
+Luxembourg,2017,93.897,79.725
+Luxembourg,2016,95.307,76.79
+Luxembourg,2015,95.781,77.266
+Luxembourg,2014,97.4,77.6
+Luxembourg,2013,97.0,77.5
+Luxembourg,2012,97.4,75.2
+Luxembourg,2011,96.7,74.2
+Luxembourg,2010,97.4,73.5
+Luxembourg,2009,98.0,71.9
+Luxembourg,2008,97.4,68.2
+Luxembourg,2007,98.2,70.4
+Luxembourg,2006,98.7,68.0
+Luxembourg,2005,98.8,65.1
+Luxembourg,2004,98.2,62.4
+Latvia,2022,95.356,77.224
+Latvia,2021,94.3,75.2
+Latvia,2020,94.9,74.2
+Latvia,2019,98.2,76.6
+Latvia,2018,94.6,76.8
+Latvia,2017,98.4,75.4
+Latvia,2016,98.3,78.5
+Latvia,2015,97.8,73.9
+Latvia,2014,96.7,69.1
+Latvia,2013,96.5,74.1
+Latvia,2012,97.4,74.2
+Latvia,2011,96.8,71.0
+Latvia,2010,97.0,75.7
+Latvia,2009,96.0,71.9
+Latvia,2008,95.9,65.6
+Latvia,2007,96.7,63.2
+Latvia,2006,95.4,57.8
+Latvia,2005,93.3,59.9
+Latvia,2004,95.8,62.6
+"Macau, China",2022,97.851,77.698
+"Macau, China",2021,99.9,79.508
+"Macau, China",2020,98.212,76.866
+"Macau, China",2019,99.9,78.631
+"Macau, China",2018,99.9,78.442
+"Macau, China",2017,99.828,77.776
+"Macau, China",2016,99.9,78.476
+"Macau, China",2015,99.9,78.436
+"Macau, China",2014,99.9,78.906
+"Macau, China",2013,99.9,77.781
+"Macau, China",2012,99.9,77.606
+"Macau, China",2011,99.57,76.243
+"Macau, China",2010,99.09,73.385
+"Macau, China",2009,99.242,73.063
+"Macau, China",2008,99.677,70.555
+"Macau, China",2007,98.955,69.649
+"Macau, China",2006,98.515,65.97
+"Macau, China",2005,97.305,63.303
+"Macau, China",2004,97.289,61.223
+Morocco,2022,97.622,19.299
+Morocco,2021,99.307,18.366
+Morocco,2020,92.694,19.775
+Morocco,2019,95.9,20.9
+Morocco,2018,95.838,20.699
+Morocco,2017,95.859,20.491
+Morocco,2016,98.107,21.003
+Morocco,2015,98.826,21.874
+Morocco,2014,98.716,22.202
+Morocco,2013,99.36,22.386
+Morocco,2012,99.217,21.788
+Morocco,2011,99.572,22.664
+Morocco,2010,99.389,23.079
+Morocco,2009,99.593,23.249
+Morocco,2008,99.733,23.417
+Morocco,2007,99.601,23.063
+Morocco,2006,99.555,22.725
+Morocco,2005,99.314,22.382
+Morocco,2004,99.227,22.065
+"Moldova, Republic of",2022,65.328,54.925
+"Moldova, Republic of",2021,66.864,53.14
+"Moldova, Republic of",2020,64.802,52.402
+"Moldova, Republic of",2019,66.854,54.933
+"Moldova, Republic of",2018,66.305,55.453
+"Moldova, Republic of",2017,66.201,54.86
+"Moldova, Republic of",2016,67.726,58.052
+"Moldova, Republic of",2015,67.152,57.121
+"Moldova, Republic of",2014,66.418,55.068
+"Moldova, Republic of",2013,63.442,51.075
+"Moldova, Republic of",2012,62.116,49.865
+"Moldova, Republic of",2011,65.326,51.805
+"Moldova, Republic of",2010,64.848,50.139
+"Moldova, Republic of",2009,66.942,51.801
+"Moldova, Republic of",2008,68.551,55.163
+"Moldova, Republic of",2007,68.783,56.092
+"Moldova, Republic of",2006,70.551,56.52
+"Moldova, Republic of",2005,71.721,64.048
+"Moldova, Republic of",2004,74.937,65.624
+Madagascar,2022,99.791,95.685
+Madagascar,2021,99.427,94.76
+Madagascar,2020,98.918,93.701
+Madagascar,2019,99.846,94.549
+Madagascar,2018,99.837,94.422
+Madagascar,2017,99.823,94.285
+Madagascar,2016,99.812,94.146
+Madagascar,2015,99.8,94.0
+Madagascar,2014,99.868,94.011
+Madagascar,2013,99.9,94.023
+Madagascar,2012,99.9,94.034
+Madagascar,2011,99.9,94.043
+Madagascar,2010,99.9,94.046
+Madagascar,2009,99.9,94.043
+Madagascar,2008,99.9,94.035
+Madagascar,2007,99.9,94.022
+Madagascar,2006,99.9,94.007
+Madagascar,2005,99.9,93.99
+Madagascar,2004,99.9,93.87
+Maldives,2022,98.79,36.77
+Maldives,2021,98.803,35.86
+Maldives,2020,95.623,33.802
+Maldives,2019,99.9,35.899
+Maldives,2018,99.9,35.637
+Maldives,2017,97.712,35.014
+Maldives,2016,95.57,33.843
+Maldives,2015,95.159,32.97
+Maldives,2014,94.872,32.155
+Maldives,2013,94.982,31.469
+Maldives,2012,95.474,30.92
+Maldives,2011,95.969,30.432
+Maldives,2010,96.377,29.997
+Maldives,2009,96.6,29.6
+Maldives,2008,98.503,30.603
+Maldives,2007,99.9,31.639
+Maldives,2006,99.9,32.622
+Maldives,2005,99.9,33.295
+Maldives,2004,99.9,33.731
+Mexico,2022,97.6,42.2
+Mexico,2021,97.2,41.2
+Mexico,2020,94.8,36.6
+Mexico,2019,97.5,40.7
+Mexico,2018,97.7,39.3
+Mexico,2017,97.5,38.6
+Mexico,2016,97.6,39.3
+Mexico,2015,97.7,39.1
+Mexico,2014,97.5,38.7
+Mexico,2013,97.5,39.9
+Mexico,2012,97.6,39.6
+Mexico,2011,97.4,37.7
+Mexico,2010,97.0,37.3
+Mexico,2009,97.39,37.892
+Mexico,2008,97.66,37.031
+Mexico,2007,98.0,37.2
+Mexico,2006,98.07,36.603
+Mexico,2005,97.979,35.138
+Mexico,2004,97.039,34.326
+North Macedonia,2022,96.561,74.817
+North Macedonia,2021,96.9,75.5
+North Macedonia,2020,94.7,70.9
+North Macedonia,2019,94.5,69.4
+North Macedonia,2018,95.7,66.1
+North Macedonia,2017,95.7,66.4
+North Macedonia,2016,96.3,72.0
+North Macedonia,2015,94.9,67.1
+North Macedonia,2014,95.6,59.3
+North Macedonia,2013,95.1,65.3
+North Macedonia,2012,97.0,68.0
+North Macedonia,2011,95.6,68.0
+North Macedonia,2010,95.5,61.1
+North Macedonia,2009,96.5,65.7
+North Macedonia,2008,95.0,70.9
+North Macedonia,2007,92.8,59.2
+North Macedonia,2006,93.3,60.7
+North Macedonia,2005,92.6,64.8
+North Macedonia,2004,93.184,64.739
+Mali,2022,99.9,55.172
+Mali,2021,99.9,53.169
+Mali,2020,99.9,50.61
+Mali,2019,98.541,57.562
+Mali,2018,98.457,57.196
+Mali,2017,98.4,56.9
+Mali,2016,98.528,57.794
+Mali,2015,98.684,58.652
+Mali,2014,98.1,59.15
+Mali,2013,98.136,59.072
+Mali,2012,98.282,59.043
+Mali,2011,98.525,59.112
+Mali,2010,98.759,59.321
+Mali,2009,98.959,59.329
+Mali,2008,99.166,59.384
+Mali,2007,99.38,59.488
+Mali,2006,99.622,59.651
+Mali,2005,99.865,59.885
+Mali,2004,99.9,59.924
+Malta,2022,99.9,78.513
+Malta,2021,99.169,75.453
+Malta,2020,99.2,75.8
+Malta,2019,99.3,71.6
+Malta,2018,97.5,73.1
+Malta,2017,98.2,66.5
+Malta,2016,98.6,63.8
+Malta,2015,99.4,63.7
+Malta,2014,99.6,64.2
+Malta,2013,99.6,62.6
+Malta,2012,99.5,60.3
+Malta,2011,99.5,54.6
+Malta,2010,98.9,44.3
+Malta,2009,98.6,44.4
+Malta,2008,98.413,42.442
+Malta,2007,99.012,40.227
+Malta,2006,98.601,37.079
+Malta,2005,97.863,35.187
+Malta,2004,98.138,31.515
+Myanmar,2020,98.3,43.9
+Myanmar,2019,98.1,43.6
+Myanmar,2018,97.7,47.3
+Myanmar,2017,97.4,44.4
+Myanmar,2016,97.402,47.503
+Myanmar,2015,97.4,50.6
+Myanmar,2014,97.319,50.625
+Myanmar,2013,97.258,50.733
+Myanmar,2012,97.216,50.922
+Myanmar,2011,97.17,51.113
+Myanmar,2010,97.131,51.256
+Myanmar,2009,97.096,51.631
+Myanmar,2008,97.06,52.144
+Myanmar,2007,97.003,52.707
+Myanmar,2006,96.889,53.426
+Myanmar,2005,96.732,54.306
+Myanmar,2004,96.538,55.314
+Montenegro,2022,94.736,53.836
+Montenegro,2021,93.416,52.493
+Montenegro,2020,90.557,50.242
+Montenegro,2019,95.3,53.3
+Montenegro,2018,95.8,55.5
+Montenegro,2017,92.9,60.9
+Montenegro,2016,94.3,65.8
+Montenegro,2015,94.5,59.3
+Montenegro,2014,92.5,60.7
+Montenegro,2013,90.8,58.5
+Montenegro,2012,90.2,51.6
+Montenegro,2011,88.9,58.7
+Montenegro,2010,89.044,58.769
+Montenegro,2009,89.228,58.815
+Montenegro,2008,88.951,58.29
+Montenegro,2007,89.369,58.771
+Montenegro,2006,89.741,59.27
+Montenegro,2005,90.12,59.79
+Montenegro,2004,90.209,59.901
+Mongolia,2022,91.837,66.799
+Mongolia,2021,92.281,66.563
+Mongolia,2020,93.361,67.89
+Mongolia,2019,95.011,69.822
+Mongolia,2018,93.4,66.8
+Mongolia,2017,90.9,69.0
+Mongolia,2016,88.3,67.7
+Mongolia,2015,90.701,69.422
+Mongolia,2014,91.0,71.0
+Mongolia,2013,90.3,68.8
+Mongolia,2012,89.2,71.4
+Mongolia,2011,91.0,70.2
+Mongolia,2010,90.2,68.8
+Mongolia,2009,89.287,67.925
+Mongolia,2008,87.604,67.919
+Mongolia,2007,89.284,69.125
+Mongolia,2006,89.105,69.199
+Mongolia,2005,88.787,69.243
+Mongolia,2004,88.397,69.274
+Mozambique,2022,93.854,91.558
+Mozambique,2021,93.553,90.914
+Mozambique,2020,93.673,90.569
+Mozambique,2019,94.594,91.406
+Mozambique,2018,94.607,91.106
+Mozambique,2017,94.611,90.805
+Mozambique,2016,94.61,90.535
+Mozambique,2015,94.6,90.3
+Mozambique,2014,94.37,90.439
+Mozambique,2013,94.133,90.559
+Mozambique,2012,93.894,90.661
+Mozambique,2011,93.661,90.753
+Mozambique,2010,93.431,90.833
+Mozambique,2009,93.195,90.895
+Mozambique,2008,92.952,90.949
+Mozambique,2007,92.702,91.009
+Mozambique,2006,92.452,91.121
+Mozambique,2005,92.217,91.241
+Mozambique,2004,91.99,91.366
+Mauritania,2022,90.84,34.057
+Mauritania,2021,90.098,33.597
+Mauritania,2020,90.538,33.341
+Mauritania,2019,91.05,33.644
+Mauritania,2018,91.101,33.467
+Mauritania,2017,91.2,33.3
+Mauritania,2016,91.776,33.297
+Mauritania,2015,92.358,33.276
+Mauritania,2014,92.945,33.24
+Mauritania,2013,93.53,33.188
+Mauritania,2012,94.045,33.013
+Mauritania,2011,94.326,32.857
+Mauritania,2010,94.601,32.72
+Mauritania,2009,94.796,32.563
+Mauritania,2008,94.962,32.419
+Mauritania,2007,95.089,32.297
+Mauritania,2006,95.225,32.19
+Mauritania,2005,95.147,32.05
+Mauritania,2004,95.101,31.874
+Mauritius,2022,98.17,62.632
+Mauritius,2021,99.047,63.535
+Mauritius,2020,98.691,62.576
+Mauritius,2019,99.555,63.221
+Mauritius,2018,98.9,60.7
+Mauritius,2017,98.9,61.4
+Mauritius,2016,99.0,57.4
+Mauritius,2015,99.0,58.4
+Mauritius,2014,99.1,58.8
+Mauritius,2013,98.996,58.273
+Mauritius,2012,99.15,55.038
+Mauritius,2011,99.45,54.347
+Mauritius,2010,99.747,54.466
+Mauritius,2009,99.7,53.168
+Mauritius,2008,99.62,52.158
+Mauritius,2007,99.421,49.746
+Mauritius,2006,99.288,50.622
+Mauritius,2005,99.704,50.479
+Mauritius,2004,99.9,48.207
+Malawi,2022,86.368,70.414
+Malawi,2021,86.031,69.708
+Malawi,2020,86.0,68.9
+Malawi,2019,86.808,71.522
+Malawi,2018,86.388,71.78
+Malawi,2017,86.0,72.1
+Malawi,2016,86.746,72.538
+Malawi,2015,87.462,72.972
+Malawi,2014,88.14,73.393
+Malawi,2013,88.789,73.808
+Malawi,2012,89.405,74.209
+Malawi,2011,90.0,74.6
+Malawi,2010,90.482,76.156
+Malawi,2009,90.988,77.659
+Malawi,2008,91.514,79.1
+Malawi,2007,92.015,80.421
+Malawi,2006,92.476,81.606
+Malawi,2005,92.919,82.701
+Malawi,2004,92.997,82.673
+Malaysia,2022,99.769,55.59
+Malaysia,2021,99.513,55.699
+Malaysia,2020,99.695,55.211
+Malaysia,2019,99.9,54.818
+Malaysia,2018,99.9,55.05
+Malaysia,2017,99.9,54.778
+Malaysia,2016,99.9,54.874
+Malaysia,2015,99.9,56.114
+Malaysia,2014,99.9,55.285
+Malaysia,2013,99.9,54.208
+Malaysia,2012,99.9,51.168
+Malaysia,2011,99.9,48.2
+Malaysia,2010,99.9,45.327
+Malaysia,2009,99.9,44.287
+Malaysia,2008,99.9,41.942
+Malaysia,2007,99.9,42.101
+Malaysia,2006,99.9,40.349
+Malaysia,2005,99.9,40.129
+Malaysia,2004,99.9,40.149
+Namibia,2022,90.057,73.983
+Namibia,2021,89.241,72.456
+Namibia,2020,89.677,71.693
+Namibia,2019,90.637,72.971
+Namibia,2018,91.2,73.3
+Namibia,2017,91.584,70.965
+Namibia,2016,91.7,68.3
+Namibia,2015,92.974,68.266
+Namibia,2014,94.2,68.1
+Namibia,2013,91.9,68.9
+Namibia,2012,91.8,70.5
+Namibia,2011,92.088,69.754
+Namibia,2010,92.265,68.928
+Namibia,2009,92.304,68.019
+Namibia,2008,92.214,67.038
+Namibia,2007,92.015,65.99
+Namibia,2006,91.761,64.917
+Namibia,2005,91.516,63.855
+Namibia,2004,91.363,62.84
+New Caledonia,2022,89.33,63.493
+New Caledonia,2021,90.324,64.287
+New Caledonia,2020,89.98,63.856
+New Caledonia,2019,91.362,64.818
+New Caledonia,2018,92.581,66.068
+New Caledonia,2017,93.735,67.401
+New Caledonia,2016,94.765,68.853
+New Caledonia,2015,95.755,70.199
+New Caledonia,2014,96.633,71.301
+New Caledonia,2013,96.657,70.922
+New Caledonia,2012,96.473,70.874
+New Caledonia,2011,96.49,70.54
+New Caledonia,2010,96.702,69.874
+New Caledonia,2009,96.942,68.737
+New Caledonia,2008,96.885,68.302
+New Caledonia,2007,96.874,68.454
+New Caledonia,2006,97.052,68.061
+New Caledonia,2005,97.204,67.386
+New Caledonia,2004,97.26,66.998
+Niger,2022,97.569,68.87
+Niger,2021,97.188,67.899
+Niger,2020,97.515,67.866
+Niger,2019,98.309,68.497
+Niger,2018,98.181,68.27
+Niger,2017,98.04,68.075
+Niger,2016,97.92,67.928
+Niger,2015,97.793,67.839
+Niger,2014,97.7,67.7
+Niger,2013,98.502,70.214
+Niger,2012,99.125,72.687
+Niger,2011,99.6,75.1
+Niger,2010,99.585,75.174
+Niger,2009,99.524,75.159
+Niger,2008,99.543,75.213
+Niger,2007,99.529,75.321
+Niger,2006,99.581,75.518
+Niger,2005,99.632,75.807
+Niger,2004,99.679,75.934
+Nigeria,2022,96.832,75.253
+Nigeria,2021,96.495,74.469
+Nigeria,2020,96.355,74.479
+Nigeria,2019,97.0,74.7
+Nigeria,2018,96.807,73.831
+Nigeria,2017,96.536,72.962
+Nigeria,2016,96.2,72.1
+Nigeria,2015,96.419,71.674
+Nigeria,2014,96.586,71.275
+Nigeria,2013,96.7,70.9
+Nigeria,2012,94.441,69.901
+Nigeria,2011,91.7,68.5
+Nigeria,2010,91.667,68.463
+Nigeria,2009,91.681,68.375
+Nigeria,2008,91.732,68.333
+Nigeria,2007,91.817,68.341
+Nigeria,2006,91.912,68.396
+Nigeria,2005,92.01,68.511
+Nigeria,2004,92.175,68.486
+Nicaragua,2022,98.767,48.905
+Nicaragua,2021,98.685,48.347
+Nicaragua,2020,96.942,46.776
+Nicaragua,2019,97.591,47.62
+Nicaragua,2018,98.073,48.226
+Nicaragua,2017,98.59,48.786
+Nicaragua,2016,98.72,48.363
+Nicaragua,2015,98.869,47.905
+Nicaragua,2014,99.0,47.4
+Nicaragua,2013,99.362,46.361
+Nicaragua,2012,99.694,45.319
+Nicaragua,2011,99.9,44.27
+Nicaragua,2010,99.9,43.214
+Nicaragua,2009,99.9,42.151
+Nicaragua,2008,99.9,41.086
+Nicaragua,2007,99.9,40.024
+Nicaragua,2006,99.9,38.962
+Nicaragua,2005,99.9,37.898
+Nicaragua,2004,99.9,36.863
+Netherlands,2022,98.393,85.235
+Netherlands,2021,97.9,84.563
+Netherlands,2020,95.8,85.0
+Netherlands,2019,97.3,83.1
+Netherlands,2018,95.7,82.1
+Netherlands,2017,96.2,82.4
+Netherlands,2016,96.7,83.0
+Netherlands,2015,96.4,83.1
+Netherlands,2014,96.9,81.2
+Netherlands,2013,96.6,82.5
+Netherlands,2012,97.0,83.5
+Netherlands,2011,97.3,82.2
+Netherlands,2010,96.4,83.4
+Netherlands,2009,97.3,81.9
+Netherlands,2008,97.4,80.4
+Netherlands,2007,96.8,78.2
+Netherlands,2006,96.6,76.4
+Netherlands,2005,96.6,74.5
+Netherlands,2004,96.4,75.4
+Norway,2022,68.791,66.929
+Norway,2021,71.9,63.8
+Norway,2020,71.149,63.555
+Norway,2019,71.6,63.34
+Norway,2018,71.548,63.398
+Norway,2017,70.834,63.281
+Norway,2016,71.474,63.557
+Norway,2015,71.627,63.608
+Norway,2014,71.796,63.755
+Norway,2013,71.621,63.691
+Norway,2012,71.959,63.696
+Norway,2011,71.97,63.899
+Norway,2010,72.298,63.935
+Norway,2009,72.758,64.473
+Norway,2008,73.044,64.659
+Norway,2007,72.725,63.737
+Norway,2006,72.471,63.392
+Norway,2005,72.076,63.186
+Norway,2004,71.899,62.866
+Nepal,2022,77.48,34.966
+Nepal,2021,76.719,34.571
+Nepal,2020,77.955,34.242
+Nepal,2019,78.666,34.656
+Nepal,2018,78.42,34.256
+Nepal,2017,78.3,33.7
+Nepal,2016,78.291,32.979
+Nepal,2015,78.403,32.087
+Nepal,2014,78.804,31.409
+Nepal,2013,79.172,30.628
+Nepal,2012,79.467,29.842
+Nepal,2011,79.637,29.172
+Nepal,2010,79.665,28.671
+Nepal,2009,79.561,28.142
+Nepal,2008,79.418,27.673
+Nepal,2007,79.303,27.216
+Nepal,2006,79.249,26.718
+Nepal,2005,79.253,26.161
+Nepal,2004,79.134,25.854
+New Zealand,2022,95.964,77.038
+New Zealand,2021,96.505,77.339
+New Zealand,2020,96.451,76.422
+New Zealand,2019,96.886,77.137
+New Zealand,2018,96.97,76.922
+New Zealand,2017,97.023,76.639
+New Zealand,2016,97.013,75.243
+New Zealand,2015,96.071,72.824
+New Zealand,2014,96.554,73.023
+New Zealand,2013,95.935,72.335
+New Zealand,2012,95.178,72.183
+New Zealand,2011,96.077,71.594
+New Zealand,2010,95.939,69.824
+New Zealand,2009,95.58,70.403
+New Zealand,2008,95.892,69.818
+New Zealand,2007,96.283,69.385
+New Zealand,2006,96.26,68.937
+New Zealand,2005,96.379,68.496
+New Zealand,2004,95.484,66.533
+Oman,2022,97.403,49.118
+Oman,2021,95.79,46.704
+Oman,2020,98.1,44.6
+Oman,2019,99.9,46.683
+Oman,2018,99.9,46.164
+Oman,2017,99.9,45.854
+Oman,2016,99.9,45.628
+Oman,2015,99.9,44.624
+Oman,2014,99.9,43.537
+Oman,2013,99.9,42.492
+Oman,2012,99.9,41.756
+Oman,2011,99.9,41.279
+Oman,2010,99.9,41.028
+Oman,2009,99.9,40.665
+Oman,2008,99.9,39.991
+Oman,2007,99.9,39.387
+Oman,2006,99.9,38.839
+Oman,2005,99.9,38.327
+Oman,2004,99.752,37.823
+Pakistan,2022,97.317,28.021
+Pakistan,2021,99.1,29.5
+Pakistan,2020,98.574,27.848
+Pakistan,2019,99.4,28.0
+Pakistan,2018,99.3,24.6
+Pakistan,2017,99.153,25.258
+Pakistan,2016,98.969,25.888
+Pakistan,2015,98.8,26.5
+Pakistan,2014,98.4,26.7
+Pakistan,2013,98.8,28.7
+Pakistan,2012,98.863,28.598
+Pakistan,2011,98.9,28.5
+Pakistan,2010,98.1,26.6
+Pakistan,2009,98.2,25.6
+Pakistan,2008,98.4,24.3
+Pakistan,2007,98.2,22.5
+Pakistan,2006,97.204,21.875
+Pakistan,2005,97.881,20.861
+Pakistan,2004,98.508,19.872
+Panama,2022,99.2,51.0
+Panama,2021,98.1,50.2
+Panama,2020,96.8,57.65
+Panama,2019,99.5,60.4
+Panama,2018,99.2,57.5
+Panama,2017,99.5,55.1
+Panama,2016,99.1,58.6
+Panama,2015,98.6,54.4
+Panama,2014,98.9,52.4
+Panama,2013,99.2,52.8
+Panama,2012,98.8,51.291
+Panama,2011,98.4,49.0
+Panama,2010,97.274,47.24
+Panama,2009,99.2,46.9
+Panama,2008,97.9,48.0
+Panama,2007,97.171,47.372
+Panama,2006,98.414,46.419
+Panama,2005,98.127,47.991
+Panama,2004,98.248,47.125
+Peru,2022,96.81,69.8
+Peru,2021,97.1,67.6
+Peru,2020,93.3,64.3
+Peru,2019,98.4,75.7
+Peru,2018,98.8,75.5
+Peru,2017,98.7,77.9
+Peru,2016,98.9,74.4
+Peru,2015,99.1,74.3
+Peru,2014,98.6,76.9
+Peru,2013,98.9,79.7
+Peru,2012,98.6,76.5
+Peru,2011,98.9,79.9
+Peru,2010,99.1,78.7
+Peru,2009,99.353,77.476
+Peru,2008,99.337,76.898
+Peru,2007,99.848,77.467
+Peru,2006,98.09,74.484
+Peru,2005,95.61,70.551
+Peru,2004,95.421,69.668
+Philippines,2022,95.505,44.297
+Philippines,2021,94.2,42.9
+Philippines,2020,91.4,40.5
+Philippines,2019,96.9,42.6
+Philippines,2018,96.5,40.6
+Philippines,2017,96.2,39.6
+Philippines,2016,97.2,43.4
+Philippines,2015,96.8,45.8
+Philippines,2014,97.0,46.0
+Philippines,2013,96.9,44.5
+Philippines,2012,97.1,44.9
+Philippines,2011,97.2,45.5
+Philippines,2010,97.2,45.4
+Philippines,2009,97.2,44.7
+Philippines,2008,97.2,44.4
+Philippines,2007,97.1,44.7
+Philippines,2006,97.262,44.545
+Philippines,2005,97.489,44.06
+Philippines,2004,97.822,43.178
+Papua New Guinea,2022,56.664,51.413
+Papua New Guinea,2021,56.61,51.444
+Papua New Guinea,2020,56.528,51.114
+Papua New Guinea,2019,57.103,51.632
+Papua New Guinea,2018,57.174,51.658
+Papua New Guinea,2017,57.123,51.68
+Papua New Guinea,2016,57.155,51.715
+Papua New Guinea,2015,57.232,51.763
+Papua New Guinea,2014,57.331,51.83
+Papua New Guinea,2013,57.526,51.97
+Papua New Guinea,2012,57.564,52.055
+Papua New Guinea,2011,57.611,52.15
+Papua New Guinea,2010,57.6,52.2
+Papua New Guinea,2009,60.612,54.969
+Papua New Guinea,2008,63.558,57.702
+Papua New Guinea,2007,66.419,60.381
+Papua New Guinea,2006,69.181,62.991
+Papua New Guinea,2005,71.829,65.519
+Papua New Guinea,2004,74.353,67.951
+Poland,2022,99.164,70.87
+Poland,2021,98.786,70.498
+Poland,2020,97.8,67.2
+Poland,2019,97.8,67.4
+Poland,2018,97.6,66.4
+Poland,2017,97.4,67.3
+Poland,2016,97.4,70.0
+Poland,2015,97.8,71.9
+Poland,2014,97.3,71.0
+Poland,2013,96.9,69.5
+Poland,2012,97.4,69.4
+Poland,2011,97.4,67.8
+Poland,2010,96.9,67.0
+Poland,2009,97.3,66.3
+Poland,2008,97.1,65.5
+Poland,2007,96.1,64.0
+Poland,2006,96.8,62.9
+Poland,2005,97.32,63.982
+Poland,2004,96.209,63.576
+Puerto Rico,2022,90.0,43.906
+Puerto Rico,2021,91.583,43.843
+Puerto Rico,2020,90.816,43.729
+Puerto Rico,2019,91.173,44.113
+Puerto Rico,2018,89.306,43.642
+Puerto Rico,2017,86.885,43.678
+Puerto Rico,2016,85.74,44.252
+Puerto Rico,2015,84.146,43.341
+Puerto Rico,2014,83.374,44.0
+Puerto Rico,2013,82.695,43.527
+Puerto Rico,2012,81.918,43.686
+Puerto Rico,2011,81.306,43.541
+Puerto Rico,2010,83.361,44.207
+Puerto Rico,2009,84.041,44.749
+Puerto Rico,2008,85.264,45.882
+Puerto Rico,2007,86.066,46.999
+Puerto Rico,2006,86.894,46.055
+Puerto Rico,2005,87.415,44.787
+Puerto Rico,2004,86.587,42.925
+"Korea, Democratic People's Republic of",2022,97.106,81.116
+"Korea, Democratic People's Republic of",2021,97.429,80.922
+"Korea, Democratic People's Republic of",2020,96.19,79.12
+"Korea, Democratic People's Republic of",2019,97.658,80.607
+"Korea, Democratic People's Republic of",2018,97.403,80.257
+"Korea, Democratic People's Republic of",2017,97.249,79.836
+"Korea, Democratic People's Republic of",2016,97.111,79.676
+"Korea, Democratic People's Republic of",2015,97.059,80.208
+"Korea, Democratic People's Republic of",2014,96.804,79.937
+"Korea, Democratic People's Republic of",2013,96.624,79.477
+"Korea, Democratic People's Republic of",2012,96.185,79.51
+"Korea, Democratic People's Republic of",2011,95.964,79.357
+"Korea, Democratic People's Republic of",2010,95.806,79.245
+"Korea, Democratic People's Republic of",2009,95.589,78.886
+"Korea, Democratic People's Republic of",2008,95.389,79.021
+"Korea, Democratic People's Republic of",2007,95.242,78.995
+"Korea, Democratic People's Republic of",2006,95.024,78.67
+"Korea, Democratic People's Republic of",2005,94.727,78.252
+"Korea, Democratic People's Republic of",2004,94.407,78.178
+Portugal,2022,97.774,92.732
+Portugal,2021,98.053,92.679
+Portugal,2020,97.9,91.1
+Portugal,2019,98.4,91.9
+Portugal,2018,98.2,90.6
+Portugal,2017,98.2,91.1
+Portugal,2016,98.4,91.4
+Portugal,2015,98.1,91.7
+Portugal,2014,98.2,90.7
+Portugal,2013,97.7,89.2
+Portugal,2012,98.2,88.7
+Portugal,2011,97.6,88.3
+Portugal,2010,98.6,87.0
+Portugal,2009,97.8,84.9
+Portugal,2008,97.9,83.9
+Portugal,2007,97.598,83.758
+Portugal,2006,97.559,83.652
+Portugal,2005,97.165,82.734
+Portugal,2004,97.051,81.518
+Paraguay,2022,98.321,63.233
+Paraguay,2021,98.947,63.287
+Paraguay,2020,98.623,61.794
+Paraguay,2019,99.286,64.565
+Paraguay,2018,99.374,63.64
+Paraguay,2017,98.6,60.8
+Paraguay,2016,98.7,57.7
+Paraguay,2015,98.9,58.1
+Paraguay,2014,98.5,56.0
+Paraguay,2013,99.6,61.8
+Paraguay,2012,98.3,63.7
+Paraguay,2011,98.8,55.3
+Paraguay,2010,99.4,57.7
+Paraguay,2009,98.3,57.7
+Paraguay,2008,98.2,51.8
+Paraguay,2007,98.2,57.8
+Paraguay,2006,97.8,54.9
+Paraguay,2005,97.8,60.4
+Paraguay,2004,97.9,61.2
+Occupied Palestinian Territory,2022,94.215,21.549
+Occupied Palestinian Territory,2021,93.143,20.838
+Occupied Palestinian Territory,2020,89.4,19.4
+Occupied Palestinian Territory,2019,93.606,21.925
+Occupied Palestinian Territory,2018,92.495,20.866
+Occupied Palestinian Territory,2017,94.3,20.382
+Occupied Palestinian Territory,2016,94.409,20.325
+Occupied Palestinian Territory,2015,93.905,21.238
+Occupied Palestinian Territory,2014,92.339,20.108
+Occupied Palestinian Territory,2013,92.891,19.555
+Occupied Palestinian Territory,2012,92.065,19.44
+Occupied Palestinian Territory,2011,93.658,18.769
+Occupied Palestinian Territory,2010,94.218,16.724
+Occupied Palestinian Territory,2009,91.825,17.267
+Occupied Palestinian Territory,2008,90.855,17.411
+Occupied Palestinian Territory,2007,91.735,18.42
+Occupied Palestinian Territory,2006,90.225,16.682
+Occupied Palestinian Territory,2005,91.494,15.78
+Occupied Palestinian Territory,2004,89.95,16.182
+French Polynesia,2022,91.427,60.383
+French Polynesia,2021,92.965,62.151
+French Polynesia,2020,92.294,61.214
+French Polynesia,2019,92.275,61.128
+French Polynesia,2018,91.792,60.356
+French Polynesia,2017,91.367,59.707
+French Polynesia,2016,90.937,59.231
+French Polynesia,2015,90.726,59.047
+French Polynesia,2014,90.422,58.605
+French Polynesia,2013,90.231,58.177
+French Polynesia,2012,89.836,58.179
+French Polynesia,2011,90.19,57.655
+French Polynesia,2010,90.663,57.261
+French Polynesia,2009,91.09,56.769
+French Polynesia,2008,91.421,56.513
+French Polynesia,2007,92.025,56.321
+French Polynesia,2006,92.648,56.265
+French Polynesia,2005,92.924,55.856
+French Polynesia,2004,93.007,55.514
+Qatar,2022,99.262,57.027
+Qatar,2021,99.413,57.079
+Qatar,2020,99.9,56.286
+Qatar,2019,99.9,55.567
+Qatar,2018,99.9,54.875
+Qatar,2017,99.9,53.742
+Qatar,2016,99.9,52.013
+Qatar,2015,99.9,51.527
+Qatar,2014,99.9,50.911
+Qatar,2013,99.9,50.224
+Qatar,2012,99.9,50.187
+Qatar,2011,99.9,49.884
+Qatar,2010,99.9,47.453
+Qatar,2009,99.9,44.997
+Qatar,2008,99.9,46.279
+Qatar,2007,99.9,46.665
+Qatar,2006,99.9,45.675
+Qatar,2005,99.9,44.658
+Qatar,2004,99.9,43.86
+Romania,2022,93.187,61.02
+Romania,2021,93.2,60.5
+Romania,2020,96.8,69.3
+Romania,2019,96.2,69.6
+Romania,2018,95.9,68.2
+Romania,2017,96.0,69.4
+Romania,2016,94.9,67.5
+Romania,2015,95.6,67.5
+Romania,2014,93.3,70.5
+Romania,2013,93.2,65.3
+Romania,2012,94.0,68.6
+Romania,2011,94.1,70.9
+Romania,2010,96.3,70.1
+Romania,2009,97.4,70.5
+Romania,2008,97.8,70.5
+Romania,2007,97.5,70.1
+Romania,2006,96.6,70.2
+Romania,2005,94.5,67.5
+Romania,2004,93.5,66.8
+Russian Federation,2021,99.178,66.546
+Russian Federation,2020,98.325,65.792
+Russian Federation,2019,98.575,65.404
+Russian Federation,2018,99.143,65.986
+Russian Federation,2017,99.09,66.231
+Russian Federation,2016,99.171,66.876
+Russian Federation,2015,98.744,65.796
+Russian Federation,2014,98.301,65.851
+Russian Federation,2013,98.194,65.197
+Russian Federation,2012,98.605,66.861
+Russian Federation,2011,98.528,67.28
+Russian Federation,2010,98.262,66.022
+Russian Federation,2009,97.99,66.223
+Russian Federation,2008,98.032,65.775
+Russian Federation,2007,97.898,65.501
+Russian Federation,2006,96.654,65.369
+Russian Federation,2005,96.674,64.341
+Russian Federation,2004,96.179,64.456
+Rwanda,2022,85.497,63.933
+Rwanda,2021,85.9,64.3
+Rwanda,2020,86.6,64.1
+Rwanda,2019,86.548,63.255
+Rwanda,2018,86.3,65.2
+Rwanda,2017,86.2,65.5
+Rwanda,2016,86.329,65.343
+Rwanda,2015,86.538,65.117
+Rwanda,2014,86.772,65.028
+Rwanda,2013,87.135,64.964
+Rwanda,2012,87.595,64.942
+Rwanda,2011,87.978,64.884
+Rwanda,2010,88.306,64.852
+Rwanda,2009,88.738,64.818
+Rwanda,2008,89.251,64.888
+Rwanda,2007,89.777,64.959
+Rwanda,2006,90.319,64.956
+Rwanda,2005,90.761,64.797
+Rwanda,2004,91.054,64.394
+Saudi Arabia,2022,95.583,37.463
+Saudi Arabia,2021,94.962,38.318
+Saudi Arabia,2020,94.821,39.984
+Saudi Arabia,2019,96.2,34.0
+Saudi Arabia,2018,94.845,31.195
+Saudi Arabia,2017,95.111,28.7
+Saudi Arabia,2016,95.883,32.984
+Saudi Arabia,2015,96.733,31.681
+Saudi Arabia,2014,96.777,29.757
+Saudi Arabia,2013,96.767,29.64
+Saudi Arabia,2012,95.706,30.378
+Saudi Arabia,2011,94.432,30.119
+Saudi Arabia,2010,94.444,28.836
+Saudi Arabia,2009,94.423,27.669
+Saudi Arabia,2008,94.165,28.414
+Saudi Arabia,2007,93.762,28.898
+Saudi Arabia,2006,92.941,29.29
+Saudi Arabia,2005,93.24,28.788
+Saudi Arabia,2004,93.558,28.197
+Sudan,2022,95.963,33.856
+Sudan,2021,95.915,33.774
+Sudan,2020,95.72,33.187
+Sudan,2019,96.529,33.534
+Sudan,2018,96.538,33.03
+Sudan,2017,96.652,32.65
+Sudan,2016,96.807,32.335
+Sudan,2015,96.927,32.014
+Sudan,2014,97.065,31.677
+Sudan,2013,97.285,31.416
+Sudan,2012,97.502,31.163
+Sudan,2011,97.9,31.1
+Sudan,2010,98.128,30.914
+Sudan,2009,98.336,30.748
+Sudan,2008,98.518,30.606
+Sudan,2007,98.686,30.479
+Sudan,2006,98.836,30.365
+Sudan,2005,98.973,30.262
+Sudan,2004,99.102,30.161
+Senegal,2022,87.255,48.379
+Senegal,2021,87.043,47.795
+Senegal,2020,86.147,46.773
+Senegal,2019,87.02,47.237
+Senegal,2018,87.214,46.767
+Senegal,2017,80.335,43.195
+Senegal,2016,82.538,47.107
+Senegal,2015,79.954,40.554
+Senegal,2014,80.842,40.396
+Senegal,2013,81.582,40.123
+Senegal,2012,82.302,40.023
+Senegal,2011,82.705,38.127
+Senegal,2010,83.501,37.766
+Senegal,2009,84.255,37.365
+Senegal,2008,84.972,36.923
+Senegal,2007,85.598,36.536
+Senegal,2006,86.1,35.904
+Senegal,2005,86.294,35.953
+Senegal,2004,86.437,35.836
+Singapore,2022,97.089,74.524
+Singapore,2021,99.554,77.185
+Singapore,2020,99.712,75.001
+Singapore,2019,99.9,74.502
+Singapore,2018,99.846,73.125
+Singapore,2017,99.9,72.836
+Singapore,2016,99.9,72.781
+Singapore,2015,99.9,71.378
+Singapore,2014,99.9,70.619
+Singapore,2013,99.9,67.697
+Singapore,2012,99.865,67.531
+Singapore,2011,99.9,65.466
+Singapore,2010,99.788,62.518
+Singapore,2009,99.84,60.792
+Singapore,2008,99.863,59.597
+Singapore,2007,99.9,58.497
+Singapore,2006,99.9,56.962
+Singapore,2005,99.9,54.836
+Singapore,2004,99.9,52.443
+Solomon Islands,2022,98.75,90.393
+Solomon Islands,2021,98.81,90.576
+Solomon Islands,2020,98.154,89.388
+Solomon Islands,2019,99.058,90.252
+Solomon Islands,2018,99.011,90.17
+Solomon Islands,2017,99.014,90.152
+Solomon Islands,2016,99.041,90.166
+Solomon Islands,2015,99.079,90.193
+Solomon Islands,2014,99.042,90.102
+Solomon Islands,2013,99.0,90.0
+Solomon Islands,2012,99.032,90.007
+Solomon Islands,2011,99.005,89.927
+Solomon Islands,2010,99.068,89.992
+Solomon Islands,2009,99.15,90.102
+Solomon Islands,2008,99.138,90.052
+Solomon Islands,2007,99.18,90.096
+Solomon Islands,2006,99.201,90.103
+Solomon Islands,2005,99.225,90.122
+Solomon Islands,2004,99.255,90.162
+Sierra Leone,2022,82.638,64.923
+Sierra Leone,2021,82.458,64.404
+Sierra Leone,2020,82.73,64.643
+Sierra Leone,2019,83.437,65.338
+Sierra Leone,2018,83.6,65.0
+Sierra Leone,2017,84.699,68.475
+Sierra Leone,2016,85.759,72.03
+Sierra Leone,2015,86.789,75.668
+Sierra Leone,2014,87.8,79.4
+Sierra Leone,2013,88.659,80.475
+Sierra Leone,2012,89.497,81.503
+Sierra Leone,2011,90.304,82.489
+Sierra Leone,2010,91.083,83.445
+Sierra Leone,2009,91.83,84.372
+Sierra Leone,2008,92.539,85.271
+Sierra Leone,2007,93.216,86.146
+Sierra Leone,2006,93.863,87.0
+Sierra Leone,2005,94.475,87.83
+Sierra Leone,2004,95.053,88.657
+El Salvador,2022,98.049,41.439
+El Salvador,2021,96.9,40.3
+El Salvador,2020,97.8,40.6
+El Salvador,2019,98.3,39.8
+El Salvador,2018,97.7,40.5
+El Salvador,2017,97.8,43.0
+El Salvador,2016,97.5,43.4
+El Salvador,2015,96.1,44.4
+El Salvador,2014,97.8,45.3
+El Salvador,2013,97.5,46.2
+El Salvador,2012,97.7,46.7
+El Salvador,2011,97.3,44.1
+El Salvador,2010,97.3,42.5
+El Salvador,2009,97.522,42.701
+El Salvador,2008,97.734,42.889
+El Salvador,2007,97.939,43.057
+El Salvador,2006,97.115,42.167
+El Salvador,2005,96.915,41.214
+El Salvador,2004,96.714,40.248
+Somalia,2022,74.28,26.563
+Somalia,2021,74.005,26.372
+Somalia,2020,74.009,25.794
+Somalia,2019,74.681,26.08
+Somalia,2018,74.867,25.903
+Somalia,2017,74.509,25.52
+Somalia,2016,74.274,24.844
+Somalia,2015,73.952,24.098
+Somalia,2014,73.658,23.665
+Somalia,2013,73.544,23.383
+Somalia,2012,73.471,23.271
+Somalia,2011,73.287,22.532
+Somalia,2010,73.318,22.526
+Somalia,2009,73.396,22.466
+Somalia,2008,73.409,22.6
+Somalia,2007,73.424,22.718
+Somalia,2006,73.366,22.821
+Somalia,2005,73.559,23.048
+Somalia,2004,73.699,23.056
+Serbia,2022,97.434,76.595
+Serbia,2021,96.223,75.273
+Serbia,2020,94.483,72.818
+Serbia,2019,95.2,74.1
+Serbia,2018,96.7,78.1
+Serbia,2017,94.5,77.1
+Serbia,2016,93.8,76.3
+Serbia,2015,94.253,73.936
+Serbia,2014,95.272,73.228
+Serbia,2013,96.908,71.164
+Serbia,2012,96.721,69.668
+Serbia,2011,97.1,68.7
+Serbia,2010,96.1,67.2
+Serbia,2009,93.3,71.1
+Serbia,2008,95.0,69.9
+Serbia,2007,97.232,71.488
+Serbia,2006,96.185,69.755
+Serbia,2005,96.257,69.925
+Serbia,2004,96.354,70.129
+South Sudan,2022,86.171,75.38
+South Sudan,2021,85.543,74.883
+South Sudan,2020,84.545,73.501
+South Sudan,2019,84.857,73.942
+South Sudan,2018,84.58,73.413
+South Sudan,2017,83.879,72.744
+South Sudan,2016,83.731,72.363
+South Sudan,2015,84.371,72.59
+South Sudan,2014,83.811,72.118
+South Sudan,2013,83.926,71.819
+South Sudan,2012,83.777,71.468
+South Sudan,2011,83.651,71.941
+South Sudan,2010,83.76,72.055
+South Sudan,2009,83.932,71.747
+South Sudan,2008,83.915,71.605
+South Sudan,2007,83.901,71.331
+South Sudan,2006,83.911,71.236
+South Sudan,2005,83.938,71.131
+South Sudan,2004,83.953,70.957
+Sao Tome and Principe,2022,92.995,48.057
+Sao Tome and Principe,2021,92.666,47.855
+Sao Tome and Principe,2020,92.443,47.39
+Sao Tome and Principe,2019,92.727,47.682
+Sao Tome and Principe,2018,92.785,47.185
+Sao Tome and Principe,2017,92.484,46.888
+Sao Tome and Principe,2016,92.565,46.502
+Sao Tome and Principe,2015,92.82,46.346
+Sao Tome and Principe,2014,93.108,46.404
+Sao Tome and Principe,2013,93.412,46.46
+Sao Tome and Principe,2012,93.724,46.805
+Sao Tome and Principe,2011,93.926,46.978
+Sao Tome and Principe,2010,94.307,47.253
+Sao Tome and Principe,2009,94.716,46.329
+Sao Tome and Principe,2008,95.378,46.641
+Sao Tome and Principe,2007,95.893,46.414
+Sao Tome and Principe,2006,96.649,47.323
+Sao Tome and Principe,2005,97.217,47.742
+Sao Tome and Principe,2004,97.393,48.405
+Suriname,2022,94.053,64.236
+Suriname,2021,94.467,64.336
+Suriname,2020,93.081,62.627
+Suriname,2019,96.152,65.276
+Suriname,2018,95.624,64.678
+Suriname,2017,95.011,63.437
+Suriname,2016,94.5,62.8
+Suriname,2015,93.479,61.454
+Suriname,2014,92.607,60.225
+Suriname,2013,91.893,59.135
+Suriname,2012,91.313,58.119
+Suriname,2011,90.831,57.113
+Suriname,2010,90.511,56.194
+Suriname,2009,90.301,55.313
+Suriname,2008,90.149,54.455
+Suriname,2007,90.03,53.643
+Suriname,2006,89.886,52.85
+Suriname,2005,89.72,52.082
+Suriname,2004,89.523,51.315
+Slovakia,2022,98.098,44.784
+Slovakia,2021,96.196,44.304
+Slovakia,2020,97.0,39.4
+Slovakia,2019,97.0,38.0
+Slovakia,2018,97.5,39.5
+Slovakia,2017,97.8,42.0
+Slovakia,2016,97.0,40.5
+Slovakia,2015,97.3,37.5
+Slovakia,2014,97.6,38.4
+Slovakia,2013,97.7,35.1
+Slovakia,2012,97.3,34.9
+Slovakia,2011,97.7,37.3
+Slovakia,2010,98.2,36.6
+Slovakia,2009,97.8,33.1
+Slovakia,2008,97.7,37.5
+Slovakia,2007,97.4,33.1
+Slovakia,2006,97.4,34.2
+Slovakia,2005,97.7,38.4
+Slovakia,2004,97.0,49.3
+Slovenia,2022,99.351,90.628
+Slovenia,2021,98.599,90.05
+Slovenia,2020,99.037,89.112
+Slovenia,2019,98.5,88.5
+Slovenia,2018,98.2,89.7
+Slovenia,2017,97.7,88.9
+Slovenia,2016,98.0,89.5
+Slovenia,2015,98.7,89.6
+Slovenia,2014,98.5,87.1
+Slovenia,2013,98.1,87.2
+Slovenia,2012,98.3,89.9
+Slovenia,2011,98.0,89.4
+Slovenia,2010,98.0,89.5
+Slovenia,2009,98.584,91.018
+Slovenia,2008,99.9,93.0
+Slovenia,2007,99.9,91.2
+Slovenia,2006,99.701,92.417
+Slovenia,2005,99.9,93.1
+Slovenia,2004,99.9,93.03
+Sweden,2022,96.607,85.681
+Sweden,2021,96.981,84.821
+Sweden,2020,96.891,84.992
+Sweden,2019,96.77,85.306
+Sweden,2018,96.51,85.702
+Sweden,2017,96.629,85.28
+Sweden,2016,96.528,85.312
+Sweden,2015,96.693,85.26
+Sweden,2014,96.898,84.904
+Sweden,2013,96.963,84.772
+Sweden,2012,96.652,84.313
+Sweden,2011,96.334,83.704
+Sweden,2010,96.061,81.975
+Sweden,2009,96.093,82.188
+Sweden,2008,96.239,81.308
+Sweden,2007,96.194,80.453
+Sweden,2006,95.672,79.035
+Sweden,2005,94.861,78.215
+Sweden,2004,93.731,77.649
+Eswatini,2022,89.676,59.398
+Eswatini,2021,89.278,59.285
+Eswatini,2020,89.867,59.094
+Eswatini,2019,90.72,59.765
+Eswatini,2018,91.513,59.85
+Eswatini,2017,92.363,60.053
+Eswatini,2016,93.3,60.2
+Eswatini,2015,94.339,60.172
+Eswatini,2014,95.186,60.482
+Eswatini,2013,96.132,60.745
+Eswatini,2012,97.074,60.925
+Eswatini,2011,97.97,61.111
+Eswatini,2010,98.82,61.372
+Eswatini,2009,99.526,61.54
+Eswatini,2008,99.9,61.578
+Eswatini,2007,99.9,61.428
+Eswatini,2006,99.9,61.131
+Eswatini,2005,99.9,60.738
+Eswatini,2004,99.9,60.27
+Syrian Arab Republic,2022,99.9,13.387
+Syrian Arab Republic,2021,99.823,13.509
+Syrian Arab Republic,2020,98.795,13.278
+Syrian Arab Republic,2019,99.9,13.612
+Syrian Arab Republic,2018,99.9,13.465
+Syrian Arab Republic,2017,99.9,12.844
+Syrian Arab Republic,2016,99.9,12.909
+Syrian Arab Republic,2015,99.9,12.565
+Syrian Arab Republic,2014,99.463,12.052
+Syrian Arab Republic,2013,97.998,11.412
+Syrian Arab Republic,2012,96.918,11.106
+Syrian Arab Republic,2011,96.276,10.965
+Syrian Arab Republic,2010,96.524,10.835
+Syrian Arab Republic,2009,97.157,10.392
+Syrian Arab Republic,2008,96.828,11.639
+Syrian Arab Republic,2007,96.554,12.892
+Syrian Arab Republic,2006,99.9,14.321
+Syrian Arab Republic,2005,99.55,16.251
+Syrian Arab Republic,2004,98.856,17.99
+Chad,2022,92.624,50.272
+Chad,2021,92.287,49.719
+Chad,2020,92.483,49.731
+Chad,2019,93.264,50.213
+Chad,2018,93.3,49.9
+Chad,2017,93.67,50.489
+Chad,2016,93.97,51.042
+Chad,2015,94.228,51.565
+Chad,2014,94.503,52.101
+Chad,2013,94.754,52.647
+Chad,2012,94.955,53.167
+Chad,2011,95.092,53.655
+Chad,2010,95.227,54.14
+Chad,2009,95.451,54.658
+Chad,2008,95.669,55.186
+Chad,2007,95.761,55.654
+Chad,2006,95.816,56.091
+Chad,2005,95.959,56.568
+Chad,2004,96.14,57.081
+Togo,2022,93.319,87.915
+Togo,2021,92.959,87.44
+Togo,2020,92.76,87.072
+Togo,2019,93.464,87.125
+Togo,2018,93.7,86.702
+Togo,2017,93.915,86.321
+Togo,2016,94.128,85.996
+Togo,2015,94.329,85.72
+Togo,2014,94.545,85.469
+Togo,2013,94.761,85.281
+Togo,2012,94.987,85.162
+Togo,2011,95.2,85.1
+Togo,2010,95.389,85.093
+Togo,2009,95.584,85.091
+Togo,2008,95.759,85.139
+Togo,2007,95.929,85.226
+Togo,2006,96.131,85.355
+Togo,2005,96.283,85.471
+Togo,2004,96.565,85.517
+Thailand,2022,96.289,60.091
+Thailand,2021,97.8,62.2
+Thailand,2020,97.3,62.4
+Thailand,2019,97.9,61.5
+Thailand,2018,98.1,61.6
+Thailand,2017,98.2,64.1
+Thailand,2016,98.2,64.4
+Thailand,2015,98.838,65.098
+Thailand,2014,99.091,65.118
+Thailand,2013,98.45,65.291
+Thailand,2012,99.785,67.912
+Thailand,2011,99.513,68.296
+Thailand,2010,98.067,65.283
+Thailand,2009,98.832,65.783
+Thailand,2008,98.866,67.222
+Thailand,2007,99.29,66.879
+Thailand,2006,98.52,65.975
+Thailand,2005,98.617,66.063
+Thailand,2004,98.699,64.402
+Tajikistan,2022,67.075,27.859
+Tajikistan,2021,66.958,27.819
+Tajikistan,2020,66.608,26.999
+Tajikistan,2019,67.392,27.35
+Tajikistan,2018,67.786,28.039
+Tajikistan,2017,68.646,29.303
+Tajikistan,2016,69.743,30.843
+Tajikistan,2015,71.368,29.665
+Tajikistan,2014,73.018,28.701
+Tajikistan,2013,74.976,27.839
+Tajikistan,2012,77.06,27.905
+Tajikistan,2011,79.143,27.648
+Tajikistan,2010,80.601,26.23
+Tajikistan,2009,82.349,25.663
+Tajikistan,2008,82.793,25.556
+Tajikistan,2007,83.968,25.851
+Tajikistan,2006,84.798,26.985
+Tajikistan,2005,85.507,27.678
+Tajikistan,2004,85.907,28.827
+Turkmenistan,2022,63.365,45.848
+Turkmenistan,2021,63.477,45.57
+Turkmenistan,2020,63.52,45.236
+Turkmenistan,2019,64.455,46.058
+Turkmenistan,2018,64.678,46.877
+Turkmenistan,2017,65.301,48.428
+Turkmenistan,2016,66.215,49.992
+Turkmenistan,2015,66.699,50.101
+Turkmenistan,2014,67.131,50.481
+Turkmenistan,2013,68.118,49.785
+Turkmenistan,2012,69.155,51.296
+Turkmenistan,2011,70.241,52.432
+Turkmenistan,2010,71.056,52.718
+Turkmenistan,2009,71.912,53.708
+Turkmenistan,2008,72.204,54.048
+Turkmenistan,2007,73.157,54.601
+Turkmenistan,2006,73.612,55.616
+Turkmenistan,2005,74.166,56.399
+Turkmenistan,2004,74.736,58.431
+Timor-Leste,2022,99.491,80.127
+Timor-Leste,2021,98.676,79.083
+Timor-Leste,2020,98.663,78.892
+Timor-Leste,2019,99.481,79.633
+Timor-Leste,2018,99.338,80.127
+Timor-Leste,2017,99.193,80.077
+Timor-Leste,2016,99.0,79.9
+Timor-Leste,2015,98.762,79.895
+Timor-Leste,2014,98.501,79.842
+Timor-Leste,2013,98.251,79.822
+Timor-Leste,2012,98.073,79.76
+Timor-Leste,2011,97.951,79.815
+Timor-Leste,2010,97.839,79.831
+Timor-Leste,2009,97.682,79.94
+Timor-Leste,2008,97.476,80.088
+Timor-Leste,2007,97.238,80.325
+Timor-Leste,2006,96.981,80.533
+Timor-Leste,2005,96.794,80.005
+Timor-Leste,2004,96.482,79.762
+Tonga,2022,89.712,50.85
+Tonga,2021,89.491,50.882
+Tonga,2020,89.398,50.593
+Tonga,2019,90.045,51.082
+Tonga,2018,89.924,51.155
+Tonga,2017,90.154,51.354
+Tonga,2016,90.229,50.762
+Tonga,2015,90.407,51.162
+Tonga,2014,90.503,51.23
+Tonga,2013,90.79,51.599
+Tonga,2012,90.872,51.837
+Tonga,2011,91.049,51.813
+Tonga,2010,91.128,51.429
+Tonga,2009,91.345,51.75
+Tonga,2008,91.714,51.829
+Tonga,2007,92.062,52.033
+Tonga,2006,92.344,52.122
+Tonga,2005,92.43,52.166
+Tonga,2004,92.601,51.967
+Trinidad and Tobago,2022,91.796,54.939
+Trinidad and Tobago,2021,92.855,56.721
+Trinidad and Tobago,2020,93.034,56.573
+Trinidad and Tobago,2019,95.368,57.193
+Trinidad and Tobago,2018,99.378,56.923
+Trinidad and Tobago,2017,98.701,56.839
+Trinidad and Tobago,2016,97.9,57.0
+Trinidad and Tobago,2015,97.3,52.9
+Trinidad and Tobago,2014,96.4,58.7
+Trinidad and Tobago,2013,96.8,56.9
+Trinidad and Tobago,2012,98.2,59.7
+Trinidad and Tobago,2011,98.0,56.3
+Trinidad and Tobago,2010,96.4,56.0
+Trinidad and Tobago,2009,98.258,57.326
+Trinidad and Tobago,2008,98.457,58.196
+Trinidad and Tobago,2007,98.506,56.664
+Trinidad and Tobago,2006,97.898,57.84
+Trinidad and Tobago,2005,98.049,57.82
+Trinidad and Tobago,2004,98.76,56.184
+Tunisia,2022,95.716,34.473
+Tunisia,2021,95.754,34.496
+Tunisia,2020,94.743,33.341
+Tunisia,2019,98.409,34.933
+Tunisia,2018,98.178,34.663
+Tunisia,2017,98.2,34.4
+Tunisia,2016,98.3,34.6
+Tunisia,2015,98.4,35.2
+Tunisia,2014,98.431,31.963
+Tunisia,2013,98.4,28.8
+Tunisia,2012,98.2,30.7
+Tunisia,2011,99.453,29.884
+Tunisia,2010,98.542,29.499
+Tunisia,2009,98.805,30.45
+Tunisia,2008,97.366,29.619
+Tunisia,2007,96.47,28.893
+Tunisia,2006,95.301,28.864
+Tunisia,2005,95.964,27.51
+Tunisia,2004,96.453,27.233
+Türkiye,2022,96.614,33.85
+Türkiye,2021,96.4,33.0
+Türkiye,2020,94.559,30.622
+Türkiye,2019,97.355,34.01
+Türkiye,2018,97.536,33.69
+Türkiye,2017,97.601,32.764
+Türkiye,2016,97.355,31.052
+Türkiye,2015,97.031,29.508
+Türkiye,2014,96.564,28.318
+Türkiye,2013,96.9,28.4
+Türkiye,2012,96.6,27.0
+Türkiye,2011,96.9,25.6
+Türkiye,2010,96.4,23.9
+Türkiye,2009,96.1,21.3
+Türkiye,2008,95.5,20.0
+Türkiye,2007,95.4,18.5
+Türkiye,2006,95.4,18.5
+Türkiye,2005,96.0,18.1
+Türkiye,2004,96.1,17.9
+"Taiwan, China",2022,94.491,61.647
+"Taiwan, China",2021,96.461,64.393
+"Taiwan, China",2020,95.985,63.094
+"Taiwan, China",2019,96.436,62.341
+"Taiwan, China",2018,95.996,61.715
+"Taiwan, China",2017,95.397,60.854
+"Taiwan, China",2016,95.184,60.6
+"Taiwan, China",2015,95.381,59.704
+"Taiwan, China",2014,95.241,58.949
+"Taiwan, China",2013,95.188,57.933
+"Taiwan, China",2012,95.186,57.281
+"Taiwan, China",2011,95.046,55.897
+"Taiwan, China",2010,94.587,54.341
+"Taiwan, China",2009,94.568,53.216
+"Taiwan, China",2008,94.686,51.686
+"Taiwan, China",2007,94.985,51.083
+"Taiwan, China",2006,95.188,49.766
+"Taiwan, China",2005,95.578,48.275
+"Taiwan, China",2004,95.806,47.365
+"Tanzania, United Republic of",2022,99.419,87.268
+"Tanzania, United Republic of",2021,99.145,86.119
+"Tanzania, United Republic of",2020,98.223,84.458
+"Tanzania, United Republic of",2019,99.9,87.311
+"Tanzania, United Republic of",2018,99.9,86.979
+"Tanzania, United Republic of",2017,99.9,86.704
+"Tanzania, United Republic of",2016,99.831,86.47
+"Tanzania, United Republic of",2015,99.583,86.261
+"Tanzania, United Republic of",2014,99.4,86.1
+"Tanzania, United Republic of",2013,99.271,86.94
+"Tanzania, United Republic of",2012,99.175,87.718
+"Tanzania, United Republic of",2011,99.127,88.432
+"Tanzania, United Republic of",2010,99.142,89.094
+"Tanzania, United Republic of",2009,99.254,89.689
+"Tanzania, United Republic of",2008,99.4,90.232
+"Tanzania, United Republic of",2007,99.511,90.75
+"Tanzania, United Republic of",2006,99.618,91.229
+"Tanzania, United Republic of",2005,99.404,90.685
+"Tanzania, United Republic of",2004,99.192,90.119
+Uganda,2022,87.371,79.597
+Uganda,2021,87.166,79.094
+Uganda,2020,87.075,78.132
+Uganda,2019,88.129,79.069
+Uganda,2018,88.177,78.567
+Uganda,2017,88.2,78.1
+Uganda,2016,89.367,78.163
+Uganda,2015,90.5,78.205
+Uganda,2014,91.595,78.216
+Uganda,2013,92.659,78.213
+Uganda,2012,93.7,78.2
+Uganda,2011,93.803,77.657
+Uganda,2010,93.87,77.086
+Uganda,2009,93.895,76.485
+Uganda,2008,93.902,75.871
+Uganda,2007,93.906,75.257
+Uganda,2006,93.922,74.648
+Uganda,2005,93.949,74.042
+Uganda,2004,93.988,73.441
+Ukraine,2021,85.987,52.358
+Ukraine,2020,86.116,53.211
+Ukraine,2019,87.203,54.402
+Ukraine,2018,86.551,54.221
+Ukraine,2017,86.333,55.829
+Ukraine,2016,86.496,57.487
+Ukraine,2015,86.187,57.919
+Ukraine,2014,85.729,58.1
+Ukraine,2013,85.926,59.096
+Ukraine,2012,86.219,60.644
+Ukraine,2011,86.681,62.156
+Ukraine,2010,86.978,61.857
+Ukraine,2009,87.645,62.606
+Ukraine,2008,88.189,63.164
+Ukraine,2007,88.61,63.525
+Ukraine,2006,87.742,63.547
+Ukraine,2005,88.528,64.081
+Ukraine,2004,89.047,65.119
+Uruguay,2022,97.791,78.202
+Uruguay,2021,98.113,78.487
+Uruguay,2020,96.9,77.3
+Uruguay,2019,98.6,77.6
+Uruguay,2018,98.9,76.3
+Uruguay,2017,98.9,75.6
+Uruguay,2016,98.6,75.6
+Uruguay,2015,99.0,74.6
+Uruguay,2014,99.1,72.6
+Uruguay,2013,98.9,72.2
+Uruguay,2012,98.9,73.3
+Uruguay,2011,99.2,74.0
+Uruguay,2010,99.2,70.4
+Uruguay,2009,99.4,69.1
+Uruguay,2008,99.2,68.7
+Uruguay,2007,99.1,66.3
+Uruguay,2006,98.9,65.4
+Uruguay,2005,98.5,64.9
+Uruguay,2004,98.6,62.9
+United States,2022,94.705,66.09
+United States,2021,94.9,66.1
+United States,2020,94.6,65.7
+United States,2019,96.0,65.9
+United States,2018,95.5,64.8
+United States,2017,95.1,64.5
+United States,2016,94.9,64.1
+United States,2015,94.9,63.6
+United States,2014,94.9,63.3
+United States,2013,95.0,63.6
+United States,2012,95.17,63.985
+United States,2011,95.1,63.9
+United States,2010,95.4,64.5
+United States,2009,95.6,63.8
+United States,2008,96.0,63.4
+United States,2007,96.1,62.9
+United States,2006,96.1,63.4
+United States,2005,96.2,62.3
+United States,2004,96.0,60.9
+Uzbekistan,2022,98.854,44.25
+Uzbekistan,2021,99.549,44.321
+Uzbekistan,2020,98.223,43.866
+Uzbekistan,2019,99.515,44.82
+Uzbekistan,2018,99.4,45.486
+Uzbekistan,2017,99.613,46.66
+Uzbekistan,2016,99.9,47.822
+Uzbekistan,2015,99.9,47.839
+Uzbekistan,2014,99.9,48.791
+Uzbekistan,2013,99.9,48.887
+Uzbekistan,2012,99.9,50.065
+Uzbekistan,2011,99.9,51.112
+Uzbekistan,2010,99.9,50.877
+Uzbekistan,2009,99.9,51.861
+Uzbekistan,2008,99.9,52.158
+Uzbekistan,2007,99.9,53.111
+Uzbekistan,2006,99.9,54.728
+Uzbekistan,2005,99.9,55.868
+Uzbekistan,2004,99.9,57.916
+Saint Vincent and the Grenadines,2022,95.344,79.344
+Saint Vincent and the Grenadines,2021,94.8,78.092
+Saint Vincent and the Grenadines,2020,94.268,77.345
+Saint Vincent and the Grenadines,2019,97.146,79.964
+Saint Vincent and the Grenadines,2018,96.987,79.803
+Saint Vincent and the Grenadines,2017,96.8,79.4
+Saint Vincent and the Grenadines,2016,96.609,79.087
+Saint Vincent and the Grenadines,2015,96.333,78.66
+Saint Vincent and the Grenadines,2014,96.052,78.288
+Saint Vincent and the Grenadines,2013,95.824,77.894
+Saint Vincent and the Grenadines,2012,95.586,77.423
+Saint Vincent and the Grenadines,2011,95.355,77.033
+Saint Vincent and the Grenadines,2010,95.182,76.921
+Saint Vincent and the Grenadines,2009,95.22,77.136
+Saint Vincent and the Grenadines,2008,95.275,77.222
+Saint Vincent and the Grenadines,2007,95.249,76.905
+Saint Vincent and the Grenadines,2006,95.214,76.394
+Saint Vincent and the Grenadines,2005,95.101,75.335
+Saint Vincent and the Grenadines,2004,95.232,74.838
+"Venezuela, Bolivarian Republic of",2022,89.047,49.997
+"Venezuela, Bolivarian Republic of",2021,89.77,50.909
+"Venezuela, Bolivarian Republic of",2020,88.699,50.062
+"Venezuela, Bolivarian Republic of",2019,94.233,53.975
+"Venezuela, Bolivarian Republic of",2018,97.557,56.417
+"Venezuela, Bolivarian Republic of",2017,98.0,56.7
+"Venezuela, Bolivarian Republic of",2016,98.0,53.9
+"Venezuela, Bolivarian Republic of",2015,98.152,54.132
+"Venezuela, Bolivarian Republic of",2014,98.284,54.395
+"Venezuela, Bolivarian Republic of",2013,98.4,54.654
+"Venezuela, Bolivarian Republic of",2012,98.5,54.9
+"Venezuela, Bolivarian Republic of",2011,98.8,53.5
+"Venezuela, Bolivarian Republic of",2010,98.9,53.7
+"Venezuela, Bolivarian Republic of",2009,98.178,53.48
+"Venezuela, Bolivarian Republic of",2008,98.905,52.914
+"Venezuela, Bolivarian Republic of",2007,98.977,52.791
+"Venezuela, Bolivarian Republic of",2006,99.095,52.975
+"Venezuela, Bolivarian Republic of",2005,97.92,51.825
+"Venezuela, Bolivarian Republic of",2004,99.69,49.901
+United States Virgin Islands,2022,95.497,48.547
+United States Virgin Islands,2021,97.081,49.41
+United States Virgin Islands,2020,93.267,47.568
+United States Virgin Islands,2019,93.334,47.33
+United States Virgin Islands,2018,97.695,50.805
+United States Virgin Islands,2017,99.9,56.495
+United States Virgin Islands,2016,99.9,55.999
+United States Virgin Islands,2015,99.9,55.849
+United States Virgin Islands,2014,95.5,53.746
+United States Virgin Islands,2013,95.234,54.365
+United States Virgin Islands,2012,98.593,59.223
+United States Virgin Islands,2011,96.619,61.013
+United States Virgin Islands,2010,92.808,60.165
+United States Virgin Islands,2009,94.707,62.608
+United States Virgin Islands,2008,92.707,62.973
+United States Virgin Islands,2007,92.202,63.399
+United States Virgin Islands,2006,90.832,62.393
+United States Virgin Islands,2005,89.795,61.689
+United States Virgin Islands,2004,87.937,60.037
+Viet Nam,2022,97.094,86.741
+Viet Nam,2021,96.326,84.101
+Viet Nam,2020,97.672,85.56
+Viet Nam,2019,98.295,86.599
+Viet Nam,2018,98.4,88.1
+Viet Nam,2017,97.701,87.795
+Viet Nam,2016,97.9,88.0
+Viet Nam,2015,97.8,87.8
+Viet Nam,2014,98.01,88.429
+Viet Nam,2013,97.994,88.567
+Viet Nam,2012,98.213,88.6
+Viet Nam,2011,98.241,87.99
+Viet Nam,2010,98.286,87.185
+Viet Nam,2009,97.057,86.548
+Viet Nam,2008,96.643,86.446
+Viet Nam,2007,96.253,86.395
+Viet Nam,2006,94.943,84.992
+Viet Nam,2005,93.592,83.552
+Viet Nam,2004,92.17,82.04
+Vanuatu,2022,93.869,62.847
+Vanuatu,2021,93.469,62.499
+Vanuatu,2020,93.264,61.951
+Vanuatu,2019,94.118,62.646
+Vanuatu,2018,94.1,63.088
+Vanuatu,2017,94.135,63.605
+Vanuatu,2016,94.138,64.154
+Vanuatu,2015,94.304,64.795
+Vanuatu,2014,94.372,65.137
+Vanuatu,2013,94.552,65.376
+Vanuatu,2012,94.498,65.689
+Vanuatu,2011,94.633,65.919
+Vanuatu,2010,94.755,66.125
+Vanuatu,2009,94.841,65.91
+Vanuatu,2008,94.878,66.05
+Vanuatu,2007,94.91,66.162
+Vanuatu,2006,94.894,66.251
+Vanuatu,2005,94.808,66.307
+Vanuatu,2004,94.699,66.368
+Samoa,2022,87.756,51.741
+Samoa,2021,87.85,51.783
+Samoa,2020,87.488,51.346
+Samoa,2019,88.088,51.778
+Samoa,2018,88.11,51.729
+Samoa,2017,88.0,51.8
+Samoa,2016,88.001,51.831
+Samoa,2015,88.152,51.722
+Samoa,2014,88.156,51.671
+Samoa,2013,88.041,51.676
+Samoa,2012,87.905,51.687
+Samoa,2011,87.656,51.739
+Samoa,2010,87.58,51.616
+Samoa,2009,87.409,51.557
+Samoa,2008,87.097,51.588
+Samoa,2007,86.943,51.523
+Samoa,2006,86.932,51.412
+Samoa,2005,86.87,51.407
+Samoa,2004,86.949,51.409
+World,2022,95.696,53.123
+World,2021,95.707,53.175
+World,2020,95.052,52.335
+World,2019,96.413,53.367
+World,2018,96.286,52.798
+World,2017,96.291,53.259
+World,2016,96.427,53.433
+World,2015,96.616,53.638
+World,2014,96.716,53.901
+World,2013,96.972,54.201
+World,2012,96.973,54.524
+World,2011,97.079,54.357
+World,2010,97.137,54.119
+World,2009,96.985,54.294
+World,2008,96.916,54.247
+World,2007,96.915,54.509
+World,2006,96.748,54.509
+World,2005,96.608,54.661
+World,2004,96.789,54.699
+World: Low income,2022,94.114,62.525
+World: Low income,2021,93.492,62.546
+World: Low income,2020,93.153,62.145
+World: Low income,2019,94.351,63.579
+World: Low income,2018,94.311,63.72
+World: Low income,2017,94.286,63.748
+World: Low income,2016,94.446,63.636
+World: Low income,2015,94.621,63.515
+World: Low income,2014,94.728,63.285
+World: Low income,2013,94.928,63.052
+World: Low income,2012,95.149,62.932
+World: Low income,2011,95.332,63.108
+World: Low income,2010,95.503,63.303
+World: Low income,2009,95.667,63.445
+World: Low income,2008,95.775,63.678
+World: Low income,2007,95.873,63.933
+World: Low income,2006,96.11,64.279
+World: Low income,2005,96.183,64.714
+World: Low income,2004,96.151,64.735
+World: Lower-middle income,2022,96.373,42.382
+World: Lower-middle income,2021,96.214,41.792
+World: Lower-middle income,2020,96.033,40.948
+World: Lower-middle income,2019,97.142,40.936
+World: Lower-middle income,2018,96.867,39.528
+World: Lower-middle income,2017,96.789,40.113
+World: Lower-middle income,2016,96.832,40.232
+World: Lower-middle income,2015,96.96,40.541
+World: Lower-middle income,2014,97.013,40.961
+World: Lower-middle income,2013,97.26,41.542
+World: Lower-middle income,2012,96.985,41.958
+World: Lower-middle income,2011,96.84,41.665
+World: Lower-middle income,2010,96.869,41.392
+World: Lower-middle income,2009,96.328,41.532
+World: Lower-middle income,2008,96.017,41.638
+World: Lower-middle income,2007,95.911,42.034
+World: Lower-middle income,2006,95.545,41.788
+World: Lower-middle income,2005,95.143,42.056
+World: Lower-middle income,2004,95.576,41.961
+World: Upper-middle income,2022,95.144,59.494
+World: Upper-middle income,2021,95.886,60.662
+World: Upper-middle income,2020,93.735,58.745
+World: Upper-middle income,2019,96.025,62.256
+World: Upper-middle income,2018,96.175,62.534
+World: Upper-middle income,2017,96.353,63.024
+World: Upper-middle income,2016,96.653,63.242
+World: Upper-middle income,2015,96.967,63.658
+World: Upper-middle income,2014,97.213,63.837
+World: Upper-middle income,2013,97.6,64.185
+World: Upper-middle income,2012,97.941,64.61
+World: Upper-middle income,2011,98.511,64.904
+World: Upper-middle income,2010,98.481,64.574
+World: Upper-middle income,2009,98.619,65.043
+World: Upper-middle income,2008,98.625,65.091
+World: Upper-middle income,2007,98.668,65.414
+World: Upper-middle income,2006,98.616,65.659
+World: Upper-middle income,2005,98.637,65.89
+World: Upper-middle income,2004,98.637,66.241
+World: High income,2022,95.807,67.242
+World: High income,2021,95.829,67.244
+World: High income,2020,95.709,67.08
+World: High income,2019,96.537,66.445
+World: High income,2018,96.321,65.745
+World: High income,2017,96.269,65.284
+World: High income,2016,96.328,65.371
+World: High income,2015,96.435,64.839
+World: High income,2014,96.385,64.793
+World: High income,2013,96.45,64.359
+World: High income,2012,96.435,64.345
+World: High income,2011,96.344,63.669
+World: High income,2010,96.483,63.051
+World: High income,2009,96.577,62.493
+World: High income,2008,96.838,61.61
+World: High income,2007,96.881,61.106
+World: High income,2006,96.712,60.723
+World: High income,2005,96.746,59.738
+World: High income,2004,96.629,58.784
+Africa,2022,94.819,62.613
+Africa,2021,94.722,61.921
+Africa,2020,94.227,61.378
+Africa,2019,95.356,62.355
+Africa,2018,95.186,62.254
+Africa,2017,94.916,62.176
+Africa,2016,95.13,62.073
+Africa,2015,95.293,61.926
+Africa,2014,95.411,62.111
+Africa,2013,95.807,62.251
+Africa,2012,95.464,62.023
+Africa,2011,95.154,61.666
+Africa,2010,95.182,61.565
+Africa,2009,94.942,61.607
+Africa,2008,95.133,61.59
+Africa,2007,95.654,62.002
+Africa,2006,95.855,61.762
+Africa,2005,95.97,61.686
+Africa,2004,96.014,61.468
+Africa: Low income,2022,93.894,71.5
+Africa: Low income,2021,93.663,71.012
+Africa: Low income,2020,93.382,70.268
+Africa: Low income,2019,94.18,71.053
+Africa: Low income,2018,94.132,70.877
+Africa: Low income,2017,94.095,70.692
+Africa: Low income,2016,94.221,70.581
+Africa: Low income,2015,94.36,70.514
+Africa: Low income,2014,94.438,70.428
+Africa: Low income,2013,94.638,70.408
+Africa: Low income,2012,94.88,70.464
+Africa: Low income,2011,95.097,70.598
+Africa: Low income,2010,95.261,70.678
+Africa: Low income,2009,95.423,70.734
+Africa: Low income,2008,95.576,70.792
+Africa: Low income,2007,95.719,70.846
+Africa: Low income,2006,95.854,70.893
+Africa: Low income,2005,95.979,71.013
+Africa: Low income,2004,95.977,70.748
+Africa: Lower-middle income,2022,96.013,56.013
+Africa: Lower-middle income,2021,96.028,55.195
+Africa: Lower-middle income,2020,95.471,54.911
+Africa: Lower-middle income,2019,96.619,55.905
+Africa: Lower-middle income,2018,96.342,55.868
+Africa: Lower-middle income,2017,95.861,55.86
+Africa: Lower-middle income,2016,96.131,55.795
+Africa: Lower-middle income,2015,96.287,55.704
+Africa: Lower-middle income,2014,96.438,56.19
+Africa: Lower-middle income,2013,96.95,56.504
+Africa: Lower-middle income,2012,96.121,56.085
+Africa: Lower-middle income,2011,95.413,55.397
+Africa: Lower-middle income,2010,95.339,55.21
+Africa: Lower-middle income,2009,94.702,55.09
+Africa: Lower-middle income,2008,94.862,54.961
+Africa: Lower-middle income,2007,95.656,55.609
+Africa: Lower-middle income,2006,95.888,55.085
+Africa: Lower-middle income,2005,95.982,54.817
+Africa: Lower-middle income,2004,96.053,54.561
+Africa: Upper-middle income,2022,87.383,60.782
+Africa: Upper-middle income,2021,87.286,60.226
+Africa: Upper-middle income,2020,85.371,58.729
+Africa: Upper-middle income,2019,89.673,62.677
+Africa: Upper-middle income,2018,89.651,61.851
+Africa: Upper-middle income,2017,89.841,61.518
+Africa: Upper-middle income,2016,89.947,60.397
+Africa: Upper-middle income,2015,89.976,60.059
+Africa: Upper-middle income,2014,89.749,58.841
+Africa: Upper-middle income,2013,90.072,59.277
+Africa: Upper-middle income,2012,90.805,59.819
+Africa: Upper-middle income,2011,91.072,59.936
+Africa: Upper-middle income,2010,91.348,58.495
+Africa: Upper-middle income,2009,93.294,61.472
+Africa: Upper-middle income,2008,94.497,62.258
+Africa: Upper-middle income,2007,94.84,62.525
+Africa: Upper-middle income,2006,95.318,63.091
+Africa: Upper-middle income,2005,95.674,63.189
+Africa: Upper-middle income,2004,95.839,63.078
+Northern Africa,2022,95.464,21.056
+Northern Africa,2021,95.968,20.059
+Northern Africa,2020,95.135,19.889
+Northern Africa,2019,96.699,20.966
+Northern Africa,2018,96.16,21.96
+Northern Africa,2017,95.563,23.102
+Northern Africa,2016,96.236,24.059
+Northern Africa,2015,96.582,24.329
+Northern Africa,2014,96.785,24.777
+Northern Africa,2013,97.775,25.377
+Northern Africa,2012,97.327,24.477
+Northern Africa,2011,97.585,23.283
+Northern Africa,2010,97.345,22.757
+Northern Africa,2009,95.802,22.403
+Northern Africa,2008,96.061,21.961
+Northern Africa,2007,97.769,23.242
+Northern Africa,2006,98.197,21.879
+Northern Africa,2005,98.37,21.181
+Northern Africa,2004,98.462,20.591
+Northern Africa: Lower-middle income,2022,95.556,17.628
+Northern Africa: Lower-middle income,2021,96.194,16.431
+Northern Africa: Lower-middle income,2020,95.282,16.421
+Northern Africa: Lower-middle income,2019,96.958,17.667
+Northern Africa: Lower-middle income,2018,96.313,19.032
+Northern Africa: Lower-middle income,2017,95.58,20.548
+Northern Africa: Lower-middle income,2016,96.371,21.822
+Northern Africa: Lower-middle income,2015,96.78,22.256
+Northern Africa: Lower-middle income,2014,97.01,22.844
+Northern Africa: Lower-middle income,2013,98.156,23.649
+Northern Africa: Lower-middle income,2012,97.591,22.604
+Northern Africa: Lower-middle income,2011,97.862,21.105
+Northern Africa: Lower-middle income,2010,97.554,20.419
+Northern Africa: Lower-middle income,2009,95.642,20.003
+Northern Africa: Lower-middle income,2008,95.892,19.469
+Northern Africa: Lower-middle income,2007,97.87,21.025
+Northern Africa: Lower-middle income,2006,98.319,19.35
+Northern Africa: Lower-middle income,2005,98.477,18.489
+Northern Africa: Lower-middle income,2004,98.558,17.746
+Northern Africa: Upper-middle income,2022,89.746,47.592
+Northern Africa: Upper-middle income,2021,89.372,47.962
+Northern Africa: Upper-middle income,2020,87.486,46.551
+Northern Africa: Upper-middle income,2019,89.794,48.013
+Northern Africa: Upper-middle income,2018,89.644,47.549
+Northern Africa: Upper-middle income,2017,89.604,46.933
+Northern Africa: Upper-middle income,2016,89.449,46.834
+Northern Africa: Upper-middle income,2015,89.079,46.538
+Northern Africa: Upper-middle income,2014,88.966,46.189
+Northern Africa: Upper-middle income,2013,88.831,45.938
+Northern Africa: Upper-middle income,2012,88.854,45.922
+Northern Africa: Upper-middle income,2011,89.074,45.379
+Northern Africa: Upper-middle income,2010,89.502,45.145
+Northern Africa: Upper-middle income,2009,90.279,45.617
+Northern Africa: Upper-middle income,2008,91.019,46.123
+Northern Africa: Upper-middle income,2007,91.815,46.598
+Northern Africa: Upper-middle income,2006,92.733,47.102
+Northern Africa: Upper-middle income,2005,93.376,47.215
+Northern Africa: Upper-middle income,2004,93.553,47.402
+Sub-Saharan Africa,2022,94.603,75.963
+Sub-Saharan Africa,2021,94.306,75.257
+Sub-Saharan Africa,2020,93.924,74.514
+Sub-Saharan Africa,2019,94.909,75.41
+Sub-Saharan Africa,2018,94.86,75.025
+Sub-Saharan Africa,2017,94.699,74.649
+Sub-Saharan Africa,2016,94.752,74.428
+Sub-Saharan Africa,2015,94.85,74.172
+Sub-Saharan Africa,2014,94.945,73.979
+Sub-Saharan Africa,2013,95.14,73.965
+Sub-Saharan Africa,2012,94.843,73.815
+Sub-Saharan Africa,2011,94.353,73.601
+Sub-Saharan Africa,2010,94.472,73.617
+Sub-Saharan Africa,2009,94.66,73.764
+Sub-Saharan Africa,2008,94.83,73.846
+Sub-Saharan Africa,2007,94.965,73.936
+Sub-Saharan Africa,2006,95.095,73.968
+Sub-Saharan Africa,2005,95.196,73.996
+Sub-Saharan Africa,2004,95.231,73.756
+Sub-Saharan Africa: Low income,2022,93.684,75.44
+Sub-Saharan Africa: Low income,2021,93.438,74.859
+Sub-Saharan Africa: Low income,2020,93.151,74.047
+Sub-Saharan Africa: Low income,2019,93.952,74.821
+Sub-Saharan Africa: Low income,2018,93.902,74.614
+Sub-Saharan Africa: Low income,2017,93.853,74.397
+Sub-Saharan Africa: Low income,2016,93.981,74.255
+Sub-Saharan Africa: Low income,2015,94.125,74.168
+Sub-Saharan Africa: Low income,2014,94.2,74.067
+Sub-Saharan Africa: Low income,2013,94.401,74.038
+Sub-Saharan Africa: Low income,2012,94.647,74.107
+Sub-Saharan Africa: Low income,2011,94.849,74.246
+Sub-Saharan Africa: Low income,2010,95.01,74.348
+Sub-Saharan Africa: Low income,2009,95.168,74.425
+Sub-Saharan Africa: Low income,2008,95.32,74.511
+Sub-Saharan Africa: Low income,2007,95.462,74.601
+Sub-Saharan Africa: Low income,2006,95.596,74.697
+Sub-Saharan Africa: Low income,2005,95.719,74.892
+Sub-Saharan Africa: Low income,2004,95.702,74.671
+Sub-Saharan Africa: Lower-middle income,2022,96.289,77.347
+Sub-Saharan Africa: Lower-middle income,2021,95.928,76.567
+Sub-Saharan Africa: Lower-middle income,2020,95.585,75.976
+Sub-Saharan Africa: Lower-middle income,2019,96.417,76.705
+Sub-Saharan Africa: Lower-middle income,2018,96.359,76.151
+Sub-Saharan Africa: Lower-middle income,2017,96.033,75.567
+Sub-Saharan Africa: Lower-middle income,2016,95.981,75.274
+Sub-Saharan Africa: Lower-middle income,2015,95.982,74.777
+Sub-Saharan Africa: Lower-middle income,2014,96.092,74.542
+Sub-Saharan Africa: Lower-middle income,2013,96.227,74.462
+Sub-Saharan Africa: Lower-middle income,2012,95.265,74.015
+Sub-Saharan Africa: Lower-middle income,2011,94.022,73.387
+Sub-Saharan Africa: Lower-middle income,2010,94.088,73.406
+Sub-Saharan Africa: Lower-middle income,2009,94.169,73.446
+Sub-Saharan Africa: Lower-middle income,2008,94.278,73.508
+Sub-Saharan Africa: Lower-middle income,2007,94.402,73.635
+Sub-Saharan Africa: Lower-middle income,2006,94.514,73.63
+Sub-Saharan Africa: Lower-middle income,2005,94.577,73.554
+Sub-Saharan Africa: Lower-middle income,2004,94.651,73.381
+Sub-Saharan Africa: Upper-middle income,2022,86.846,64.188
+Sub-Saharan Africa: Upper-middle income,2021,86.827,63.224
+Sub-Saharan Africa: Upper-middle income,2020,84.91,61.63
+Sub-Saharan Africa: Upper-middle income,2019,89.646,66.212
+Sub-Saharan Africa: Upper-middle income,2018,89.653,65.436
+Sub-Saharan Africa: Upper-middle income,2017,89.898,65.366
+Sub-Saharan Africa: Upper-middle income,2016,90.076,64.304
+Sub-Saharan Africa: Upper-middle income,2015,90.222,64.222
+Sub-Saharan Africa: Upper-middle income,2014,89.971,62.801
+Sub-Saharan Africa: Upper-middle income,2013,90.439,63.627
+Sub-Saharan Africa: Upper-middle income,2012,91.405,64.479
+Sub-Saharan Africa: Upper-middle income,2011,91.765,65.372
+Sub-Saharan Africa: Upper-middle income,2010,92.048,63.846
+Sub-Saharan Africa: Upper-middle income,2009,94.41,67.555
+Sub-Saharan Africa: Upper-middle income,2008,95.743,68.131
+Sub-Saharan Africa: Upper-middle income,2007,95.874,67.928
+Sub-Saharan Africa: Upper-middle income,2006,96.146,68.013
+Sub-Saharan Africa: Upper-middle income,2005,96.361,67.608
+Sub-Saharan Africa: Upper-middle income,2004,96.472,66.883
+Central Africa,2022,94.782,78.869
+Central Africa,2021,94.33,78.063
+Central Africa,2020,94.25,77.35
+Central Africa,2019,95.131,78.061
+Central Africa,2018,95.203,77.846
+Central Africa,2017,95.24,77.739
+Central Africa,2016,95.348,77.7
+Central Africa,2015,95.482,77.75
+Central Africa,2014,95.607,77.761
+Central Africa,2013,95.815,77.849
+Central Africa,2012,95.896,77.816
+Central Africa,2011,96.166,78.364
+Central Africa,2010,96.449,78.855
+Central Africa,2009,96.687,79.469
+Central Africa,2008,96.932,80.042
+Central Africa,2007,97.124,80.53
+Central Africa,2006,97.269,80.712
+Central Africa,2005,97.395,80.94
+Central Africa,2004,97.282,80.751
+Eastern Africa,2022,94.633,79.754
+Eastern Africa,2021,94.425,79.244
+Eastern Africa,2020,93.894,78.278
+Eastern Africa,2019,94.867,79.247
+Eastern Africa,2018,94.809,78.99
+Eastern Africa,2017,94.748,78.653
+Eastern Africa,2016,94.86,78.323
+Eastern Africa,2015,94.95,78.087
+Eastern Africa,2014,95.007,77.827
+Eastern Africa,2013,95.102,77.747
+Eastern Africa,2012,95.273,77.718
+Eastern Africa,2011,95.338,77.629
+Eastern Africa,2010,95.424,77.612
+Eastern Africa,2009,95.524,77.568
+Eastern Africa,2008,95.621,77.539
+Eastern Africa,2007,95.736,77.592
+Eastern Africa,2006,95.849,77.632
+Eastern Africa,2005,95.918,77.515
+Eastern Africa,2004,95.921,77.046
+Southern Africa,2022,87.269,64.792
+Southern Africa,2021,87.289,63.793
+Southern Africa,2020,85.338,62.191
+Southern Africa,2019,90.131,66.843
+Southern Africa,2018,90.161,66.08
+Southern Africa,2017,90.424,66.002
+Southern Africa,2016,90.616,65.048
+Southern Africa,2015,90.78,64.92
+Southern Africa,2014,90.46,63.42
+Southern Africa,2013,90.927,64.31
+Southern Africa,2012,91.885,65.357
+Southern Africa,2011,92.186,66.345
+Southern Africa,2010,92.372,64.772
+Southern Africa,2009,94.755,68.713
+Southern Africa,2008,96.047,69.367
+Southern Africa,2007,96.076,69.233
+Southern Africa,2006,96.269,69.2
+Southern Africa,2005,96.394,68.757
+Southern Africa,2004,96.446,68.01
+Western Africa,2022,95.239,71.146
+Western Africa,2021,94.914,70.368
+Western Africa,2020,94.74,70.002
+Western Africa,2019,95.368,70.587
+Western Africa,2018,95.251,69.874
+Western Africa,2017,94.812,69.165
+Western Africa,2016,94.729,68.868
+Western Africa,2015,94.796,68.524
+Western Africa,2014,94.954,68.532
+Western Africa,2013,95.219,68.594
+Western Africa,2012,94.128,68.308
+Western Africa,2011,92.674,67.683
+Western Africa,2010,92.752,67.645
+Western Africa,2009,92.849,67.572
+Western Africa,2008,92.972,67.534
+Western Africa,2007,93.104,67.521
+Western Africa,2006,93.232,67.505
+Western Africa,2005,93.341,67.663
+Western Africa,2004,93.459,67.717
+Americas,2022,95.49,59.78
+Americas,2021,95.893,59.481
+Americas,2020,94.25,57.546
+Americas,2019,96.673,60.678
+Americas,2018,96.64,59.827
+Americas,2017,96.574,59.372
+Americas,2016,96.611,58.401
+Americas,2015,96.54,57.757
+Americas,2014,96.43,57.397
+Americas,2013,96.458,57.524
+Americas,2012,96.488,57.471
+Americas,2011,96.709,57.626
+Americas,2010,96.749,58.075
+Americas,2009,96.954,58.047
+Americas,2008,97.061,57.173
+Americas,2007,97.105,57.089
+Americas,2006,97.118,57.112
+Americas,2005,97.04,56.291
+Americas,2004,96.948,55.465
+Americas: Lower-middle income,2022,96.196,52.101
+Americas: Lower-middle income,2021,95.719,51.305
+Americas: Lower-middle income,2020,94.754,51.802
+Americas: Lower-middle income,2019,97.501,53.153
+Americas: Lower-middle income,2018,97.477,52.347
+Americas: Lower-middle income,2017,97.778,52.401
+Americas: Lower-middle income,2016,97.65,54.328
+Americas: Lower-middle income,2015,97.462,51.178
+Americas: Lower-middle income,2014,97.944,54.194
+Americas: Lower-middle income,2013,98.01,52.585
+Americas: Lower-middle income,2012,97.756,51.482
+Americas: Lower-middle income,2011,97.814,52.592
+Americas: Lower-middle income,2010,98.188,53.289
+Americas: Lower-middle income,2009,98.073,53.041
+Americas: Lower-middle income,2008,97.793,52.798
+Americas: Lower-middle income,2007,97.903,51.475
+Americas: Lower-middle income,2006,98.134,52.821
+Americas: Lower-middle income,2005,98.04,51.711
+Americas: Lower-middle income,2004,98.151,51.838
+Americas: Upper-middle income,2022,95.963,56.225
+Americas: Upper-middle income,2021,96.47,55.684
+Americas: Upper-middle income,2020,94.043,52.564
+Americas: Upper-middle income,2019,97.032,57.516
+Americas: Upper-middle income,2018,97.258,56.793
+Americas: Upper-middle income,2017,97.269,56.271
+Americas: Upper-middle income,2016,97.465,54.685
+Americas: Upper-middle income,2015,97.341,54.295
+Americas: Upper-middle income,2014,97.142,53.551
+Americas: Upper-middle income,2013,97.123,53.717
+Americas: Upper-middle income,2012,97.144,53.47
+Americas: Upper-middle income,2011,97.615,53.349
+Americas: Upper-middle income,2010,97.512,53.809
+Americas: Upper-middle income,2009,97.718,54.25
+Americas: Upper-middle income,2008,97.671,53.003
+Americas: Upper-middle income,2007,97.701,53.272
+Americas: Upper-middle income,2006,97.702,53.047
+Americas: Upper-middle income,2005,97.52,52.443
+Americas: Upper-middle income,2004,97.453,51.818
+Americas: High income,2022,94.605,66.241
+Americas: High income,2021,94.981,66.33
+Americas: High income,2020,94.521,65.855
+Americas: High income,2019,95.969,66.471
+Americas: High income,2018,95.511,65.415
+Americas: High income,2017,95.238,65.134
+Americas: High income,2016,95.038,64.758
+Americas: High income,2015,95.046,64.17
+Americas: High income,2014,95.015,63.988
+Americas: High income,2013,95.128,64.217
+Americas: High income,2012,95.238,64.449
+Americas: High income,2011,95.177,64.266
+Americas: High income,2010,95.4,64.634
+Americas: High income,2009,95.648,63.938
+Americas: High income,2008,96.045,63.494
+Americas: High income,2007,96.121,62.99
+Americas: High income,2006,96.125,63.234
+Americas: High income,2005,96.201,62.2
+Americas: High income,2004,96.055,60.934
+Latin America and the Caribbean,2022,95.937,55.958
+Latin America and the Caribbean,2021,96.381,55.396
+Latin America and the Caribbean,2020,94.126,52.698
+Latin America and the Caribbean,2019,97.075,57.331
+Latin America and the Caribbean,2018,97.278,56.581
+Latin America and the Caribbean,2017,97.319,56.126
+Latin America and the Caribbean,2016,97.461,54.847
+Latin America and the Caribbean,2015,97.328,54.192
+Latin America and the Caribbean,2014,97.187,53.775
+Latin America and the Caribbean,2013,97.179,53.755
+Latin America and the Caribbean,2012,97.163,53.402
+Latin America and the Caribbean,2011,97.583,53.334
+Latin America and the Caribbean,2010,97.51,53.749
+Latin America and the Caribbean,2009,97.714,54.077
+Latin America and the Caribbean,2008,97.659,52.948
+Latin America and the Caribbean,2007,97.701,53.023
+Latin America and the Caribbean,2006,97.732,52.873
+Latin America and the Caribbean,2005,97.536,52.212
+Latin America and the Caribbean,2004,97.487,51.612
+Latin America and the Caribbean: Lower-middle income,2022,96.196,52.101
+Latin America and the Caribbean: Lower-middle income,2021,95.719,51.305
+Latin America and the Caribbean: Lower-middle income,2020,94.754,51.802
+Latin America and the Caribbean: Lower-middle income,2019,97.501,53.153
+Latin America and the Caribbean: Lower-middle income,2018,97.477,52.347
+Latin America and the Caribbean: Lower-middle income,2017,97.778,52.401
+Latin America and the Caribbean: Lower-middle income,2016,97.65,54.328
+Latin America and the Caribbean: Lower-middle income,2015,97.462,51.178
+Latin America and the Caribbean: Lower-middle income,2014,97.944,54.194
+Latin America and the Caribbean: Lower-middle income,2013,98.01,52.585
+Latin America and the Caribbean: Lower-middle income,2012,97.756,51.482
+Latin America and the Caribbean: Lower-middle income,2011,97.814,52.592
+Latin America and the Caribbean: Lower-middle income,2010,98.188,53.289
+Latin America and the Caribbean: Lower-middle income,2009,98.073,53.041
+Latin America and the Caribbean: Lower-middle income,2008,97.793,52.798
+Latin America and the Caribbean: Lower-middle income,2007,97.903,51.475
+Latin America and the Caribbean: Lower-middle income,2006,98.134,52.821
+Latin America and the Caribbean: Lower-middle income,2005,98.04,51.711
+Latin America and the Caribbean: Lower-middle income,2004,98.151,51.838
+Latin America and the Caribbean: Upper-middle income,2022,95.963,56.225
+Latin America and the Caribbean: Upper-middle income,2021,96.47,55.684
+Latin America and the Caribbean: Upper-middle income,2020,94.043,52.564
+Latin America and the Caribbean: Upper-middle income,2019,97.032,57.516
+Latin America and the Caribbean: Upper-middle income,2018,97.258,56.793
+Latin America and the Caribbean: Upper-middle income,2017,97.269,56.271
+Latin America and the Caribbean: Upper-middle income,2016,97.465,54.685
+Latin America and the Caribbean: Upper-middle income,2015,97.341,54.295
+Latin America and the Caribbean: Upper-middle income,2014,97.142,53.551
+Latin America and the Caribbean: Upper-middle income,2013,97.123,53.717
+Latin America and the Caribbean: Upper-middle income,2012,97.144,53.47
+Latin America and the Caribbean: Upper-middle income,2011,97.615,53.349
+Latin America and the Caribbean: Upper-middle income,2010,97.512,53.809
+Latin America and the Caribbean: Upper-middle income,2009,97.718,54.25
+Latin America and the Caribbean: Upper-middle income,2008,97.671,53.003
+Latin America and the Caribbean: Upper-middle income,2007,97.701,53.272
+Latin America and the Caribbean: Upper-middle income,2006,97.702,53.047
+Latin America and the Caribbean: Upper-middle income,2005,97.52,52.443
+Latin America and the Caribbean: Upper-middle income,2004,97.453,51.818
+Latin America and the Caribbean: High income,2022,94.899,57.291
+Latin America and the Caribbean: High income,2021,95.798,56.709
+Latin America and the Caribbean: High income,2020,94.765,57.096
+Latin America and the Caribbean: High income,2019,97.162,61.2
+Latin America and the Caribbean: High income,2018,97.327,59.693
+Latin America and the Caribbean: High income,2017,97.531,59.732
+Latin America and the Caribbean: High income,2016,96.992,59.553
+Latin America and the Caribbean: High income,2015,96.797,57.223
+Latin America and the Caribbean: High income,2014,96.802,58.123
+Latin America and the Caribbean: High income,2013,96.939,56.583
+Latin America and the Caribbean: High income,2012,96.551,55.08
+Latin America and the Caribbean: High income,2011,96.532,54.266
+Latin America and the Caribbean: High income,2010,96.309,53.264
+Latin America and the Caribbean: High income,2009,97.043,52.244
+Latin America and the Caribbean: High income,2008,97.205,52.075
+Latin America and the Caribbean: High income,2007,97.371,50.494
+Latin America and the Caribbean: High income,2006,97.663,49.525
+Latin America and the Caribbean: High income,2005,97.029,48.423
+Latin America and the Caribbean: High income,2004,97.082,47.279
+Caribbean,2022,94.783,60.288
+Caribbean,2021,94.658,59.841
+Caribbean,2020,93.778,58.129
+Caribbean,2019,96.229,61.34
+Caribbean,2018,96.432,61.419
+Caribbean,2017,96.041,60.259
+Caribbean,2016,96.167,59.34
+Caribbean,2015,96.153,59.545
+Caribbean,2014,96.151,59.777
+Caribbean,2013,95.891,58.392
+Caribbean,2012,95.756,55.523
+Caribbean,2011,95.845,56.704
+Caribbean,2010,95.216,55.009
+Caribbean,2009,95.806,54.103
+Caribbean,2008,95.658,54.915
+Caribbean,2007,95.665,53.803
+Caribbean,2006,95.262,53.473
+Caribbean,2005,94.923,52.121
+Caribbean,2004,94.978,50.93
+Central America,2022,97.559,41.484
+Central America,2021,97.124,40.601
+Central America,2020,95.01,37.394
+Central America,2019,97.89,40.656
+Central America,2018,98.068,39.898
+Central America,2017,97.952,39.261
+Central America,2016,97.946,39.971
+Central America,2015,97.973,39.642
+Central America,2014,97.857,40.031
+Central America,2013,97.871,40.34
+Central America,2012,97.824,40.631
+Central America,2011,97.739,38.176
+Central America,2010,97.064,38.326
+Central America,2009,97.394,38.692
+Central America,2008,97.586,37.975
+Central America,2007,97.944,37.917
+Central America,2006,98.059,37.417
+Central America,2005,97.979,36.453
+Central America,2004,97.342,35.693
+South America,2022,95.463,60.423
+South America,2021,96.246,60.072
+South America,2020,93.842,57.496
+South America,2019,96.839,62.973
+South America,2018,97.039,62.467
+South America,2017,97.166,62.234
+South America,2016,97.364,60.295
+South America,2015,97.165,59.299
+South America,2014,97.007,58.452
+South America,2013,97.005,58.525
+South America,2012,97.005,58.158
+South America,2011,97.654,59.708
+South America,2010,97.889,60.422
+South America,2009,98.01,60.864
+South America,2008,97.856,59.428
+South America,2007,97.764,59.63
+South America,2006,97.796,59.65
+South America,2005,97.564,59.179
+South America,2004,97.765,58.628
+Northern America,2022,94.58,66.93
+Northern America,2021,94.912,67.061
+Northern America,2020,94.501,66.529
+Northern America,2019,95.875,66.843
+Northern America,2018,95.369,65.819
+Northern America,2017,95.049,65.538
+Northern America,2016,94.881,65.14
+Northern America,2015,94.897,64.702
+Northern America,2014,94.863,64.435
+Northern America,2013,94.973,64.804
+Northern America,2012,95.129,65.15
+Northern America,2011,95.067,65.003
+Northern America,2010,95.326,65.478
+Northern America,2009,95.532,64.809
+Northern America,2008,95.949,64.346
+Northern America,2007,96.018,63.923
+Northern America,2006,95.998,64.273
+Northern America,2005,96.133,63.253
+Northern America,2004,95.97,61.988
+Northern America: High income,2022,94.58,66.93
+Northern America: High income,2021,94.912,67.061
+Northern America: High income,2020,94.501,66.529
+Northern America: High income,2019,95.875,66.843
+Northern America: High income,2018,95.369,65.819
+Northern America: High income,2017,95.049,65.538
+Northern America: High income,2016,94.881,65.14
+Northern America: High income,2015,94.897,64.702
+Northern America: High income,2014,94.863,64.435
+Northern America: High income,2013,94.973,64.804
+Northern America: High income,2012,95.129,65.15
+Northern America: High income,2011,95.067,65.003
+Northern America: High income,2010,95.326,65.478
+Northern America: High income,2009,95.532,64.809
+Northern America: High income,2008,95.949,64.346
+Northern America: High income,2007,96.018,63.923
+Northern America: High income,2006,95.998,64.273
+Northern America: High income,2005,96.133,63.253
+Northern America: High income,2004,95.97,61.988
+Arab States,2022,95.52,21.221
+Arab States,2021,95.273,21.119
+Arab States,2020,95.409,22.969
+Arab States,2019,96.806,21.812
+Arab States,2018,96.228,20.894
+Arab States,2017,96.219,20.314
+Arab States,2016,96.23,21.894
+Arab States,2015,96.254,21.247
+Arab States,2014,96.101,20.396
+Arab States,2013,96.144,19.906
+Arab States,2012,95.731,19.615
+Arab States,2011,95.392,19.415
+Arab States,2010,95.469,18.914
+Arab States,2009,95.496,18.437
+Arab States,2008,95.171,18.658
+Arab States,2007,94.849,18.991
+Arab States,2006,94.775,18.974
+Arab States,2005,94.89,19.075
+Arab States,2004,94.789,19.205
+Arab States: Lower-middle income,2022,93.877,21.665
+Arab States: Lower-middle income,2021,93.616,21.254
+Arab States: Lower-middle income,2020,90.641,19.659
+Arab States: Lower-middle income,2019,95.704,22.236
+Arab States: Lower-middle income,2018,94.13,20.845
+Arab States: Lower-middle income,2017,93.914,19.702
+Arab States: Lower-middle income,2016,93.056,18.726
+Arab States: Lower-middle income,2015,92.105,18.111
+Arab States: Lower-middle income,2014,91.17,16.966
+Arab States: Lower-middle income,2013,91.332,16.366
+Arab States: Lower-middle income,2012,90.976,15.961
+Arab States: Lower-middle income,2011,91.547,15.265
+Arab States: Lower-middle income,2010,91.709,14.012
+Arab States: Lower-middle income,2009,90.736,13.834
+Arab States: Lower-middle income,2008,90.328,13.52
+Arab States: Lower-middle income,2007,90.616,13.565
+Arab States: Lower-middle income,2006,90.63,12.745
+Arab States: Lower-middle income,2005,91.692,12.259
+Arab States: Lower-middle income,2004,91.681,12.302
+Arab States: Upper-middle income,2022,91.939,10.666
+Arab States: Upper-middle income,2021,92.33,9.729
+Arab States: Upper-middle income,2020,93.859,12.722
+Arab States: Upper-middle income,2019,95.205,12.577
+Arab States: Upper-middle income,2018,94.417,12.928
+Arab States: Upper-middle income,2017,93.98,13.342
+Arab States: Upper-middle income,2016,93.011,15.93
+Arab States: Upper-middle income,2015,92.126,15.409
+Arab States: Upper-middle income,2014,91.6,14.997
+Arab States: Upper-middle income,2013,91.874,14.239
+Arab States: Upper-middle income,2012,91.626,13.484
+Arab States: Upper-middle income,2011,91.883,13.693
+Arab States: Upper-middle income,2010,91.919,13.757
+Arab States: Upper-middle income,2009,92.007,13.853
+Arab States: Upper-middle income,2008,91.349,13.686
+Arab States: Upper-middle income,2007,90.974,13.822
+Arab States: Upper-middle income,2006,90.271,12.771
+Arab States: Upper-middle income,2005,90.755,12.459
+Arab States: Upper-middle income,2004,90.431,12.04
+Arab States: High income,2022,96.662,39.681
+Arab States: High income,2021,96.3,39.865
+Arab States: High income,2020,96.383,42.225
+Arab States: High income,2019,97.662,38.004
+Arab States: High income,2018,97.064,35.273
+Arab States: High income,2017,97.226,33.672
+Arab States: High income,2016,97.66,35.994
+Arab States: High income,2015,98.101,34.884
+Arab States: High income,2014,98.119,33.425
+Arab States: High income,2013,98.109,33.102
+Arab States: High income,2012,97.54,33.205
+Arab States: High income,2011,96.847,32.646
+Arab States: High income,2010,96.844,31.34
+Arab States: High income,2009,96.799,30.229
+Arab States: High income,2008,96.556,30.576
+Arab States: High income,2007,96.18,30.811
+Arab States: High income,2006,95.526,30.98
+Arab States: High income,2005,95.591,30.485
+Arab States: High income,2004,95.709,29.957
+Asia and the Pacific,2022,96.567,44.642
+Asia and the Pacific,2021,96.532,45.501
+Asia and the Pacific,2020,95.897,44.673
+Asia and the Pacific,2019,97.19,45.765
+Asia and the Pacific,2018,97.021,45.169
+Asia and the Pacific,2017,97.154,46.671
+Asia and the Pacific,2016,97.257,47.513
+Asia and the Pacific,2015,97.574,48.517
+Asia and the Pacific,2014,97.773,49.226
+Asia and the Pacific,2013,98.044,49.98
+Asia and the Pacific,2012,98.172,50.745
+Asia and the Pacific,2011,98.432,50.779
+Asia and the Pacific,2010,98.464,50.557
+Asia and the Pacific,2009,98.175,50.991
+Asia and the Pacific,2008,97.885,51.313
+Asia and the Pacific,2007,97.639,51.773
+Asia and the Pacific,2006,97.302,51.927
+Asia and the Pacific,2005,96.995,52.558
+Asia and the Pacific,2004,97.354,52.906
+Asia and the Pacific: Low income,2022,93.828,23.812
+Asia and the Pacific: Low income,2021,88.7,27.549
+Asia and the Pacific: Low income,2020,88.124,29.346
+Asia and the Pacific: Low income,2019,94.456,36.363
+Asia and the Pacific: Low income,2018,94.643,37.151
+Asia and the Pacific: Low income,2017,94.831,37.802
+Asia and the Pacific: Low income,2016,95.622,37.037
+Asia and the Pacific: Low income,2015,96.398,36.711
+Asia and the Pacific: Low income,2014,97.064,36.617
+Asia and the Pacific: Low income,2013,97.684,36.604
+Asia and the Pacific: Low income,2012,98.117,36.851
+Asia and the Pacific: Low income,2011,98.228,37.772
+Asia and the Pacific: Low income,2010,98.268,38.651
+Asia and the Pacific: Low income,2009,98.058,39.364
+Asia and the Pacific: Low income,2008,97.795,40.415
+Asia and the Pacific: Low income,2007,97.492,41.006
+Asia and the Pacific: Low income,2006,97.19,41.471
+Asia and the Pacific: Low income,2005,96.925,42.628
+Asia and the Pacific: Low income,2004,96.807,43.732
+Asia and the Pacific: Lower-middle income,2022,96.922,35.163
+Asia and the Pacific: Lower-middle income,2021,96.639,34.759
+Asia and the Pacific: Lower-middle income,2020,96.694,33.649
+Asia and the Pacific: Lower-middle income,2019,97.702,33.1
+Asia and the Pacific: Lower-middle income,2018,97.429,31.258
+Asia and the Pacific: Lower-middle income,2017,97.507,32.343
+Asia and the Pacific: Lower-middle income,2016,97.423,32.795
+Asia and the Pacific: Lower-middle income,2015,97.541,33.507
+Asia and the Pacific: Lower-middle income,2014,97.535,34.013
+Asia and the Pacific: Lower-middle income,2013,97.657,34.844
+Asia and the Pacific: Lower-middle income,2012,97.584,35.708
+Asia and the Pacific: Lower-middle income,2011,97.649,35.612
+Asia and the Pacific: Lower-middle income,2010,97.693,35.439
+Asia and the Pacific: Lower-middle income,2009,97.146,35.819
+Asia and the Pacific: Lower-middle income,2008,96.596,36.176
+Asia and the Pacific: Lower-middle income,2007,96.11,36.641
+Asia and the Pacific: Lower-middle income,2006,95.498,36.557
+Asia and the Pacific: Lower-middle income,2005,94.89,37.127
+Asia and the Pacific: Lower-middle income,2004,95.479,37.101
+Asia and the Pacific: Upper-middle income,2022,95.307,72.539
+Asia and the Pacific: Upper-middle income,2021,96.606,74.702
+Asia and the Pacific: Upper-middle income,2020,93.808,71.585
+Asia and the Pacific: Upper-middle income,2019,95.818,73.623
+Asia and the Pacific: Upper-middle income,2018,95.948,73.388
+Asia and the Pacific: Upper-middle income,2017,96.298,73.423
+Asia and the Pacific: Upper-middle income,2016,96.8,73.707
+Asia and the Pacific: Upper-middle income,2015,97.558,74.333
+Asia and the Pacific: Upper-middle income,2014,98.182,74.496
+Asia and the Pacific: Upper-middle income,2013,98.769,74.421
+Asia and the Pacific: Upper-middle income,2012,99.248,74.728
+Asia and the Pacific: Upper-middle income,2011,99.856,74.624
+Asia and the Pacific: Upper-middle income,2010,99.83,73.886
+Asia and the Pacific: Upper-middle income,2009,99.865,74.205
+Asia and the Pacific: Upper-middle income,2008,99.867,74.58
+Asia and the Pacific: Upper-middle income,2007,99.88,74.91
+Asia and the Pacific: Upper-middle income,2006,99.856,75.236
+Asia and the Pacific: Upper-middle income,2005,99.858,75.606
+Asia and the Pacific: Upper-middle income,2004,99.861,75.961
+Asia and the Pacific: High income,2022,97.546,69.262
+Asia and the Pacific: High income,2021,98.017,69.621
+Asia and the Pacific: High income,2020,97.902,68.957
+Asia and the Pacific: High income,2019,98.244,68.879
+Asia and the Pacific: High income,2018,98.266,68.032
+Asia and the Pacific: High income,2017,98.215,66.651
+Asia and the Pacific: High income,2016,98.267,65.839
+Asia and the Pacific: High income,2015,98.336,64.899
+Asia and the Pacific: High income,2014,98.297,64.205
+Asia and the Pacific: High income,2013,98.278,63.005
+Asia and the Pacific: High income,2012,98.252,62.133
+Asia and the Pacific: High income,2011,98.327,61.038
+Asia and the Pacific: High income,2010,98.276,59.91
+Asia and the Pacific: High income,2009,98.272,58.962
+Asia and the Pacific: High income,2008,98.472,57.242
+Asia and the Pacific: High income,2007,98.561,56.51
+Asia and the Pacific: High income,2006,98.634,55.073
+Asia and the Pacific: High income,2005,98.775,53.817
+Asia and the Pacific: High income,2004,98.806,52.742
+Eastern Asia,2022,95.693,73.063
+Eastern Asia,2021,96.822,74.871
+Eastern Asia,2020,94.354,72.033
+Eastern Asia,2019,96.131,73.826
+Eastern Asia,2018,96.224,73.423
+Eastern Asia,2017,96.499,73.159
+Eastern Asia,2016,96.937,73.259
+Eastern Asia,2015,97.622,73.648
+Eastern Asia,2014,98.173,73.713
+Eastern Asia,2013,98.701,73.47
+Eastern Asia,2012,99.089,73.592
+Eastern Asia,2011,99.645,73.375
+Eastern Asia,2010,99.651,72.695
+Eastern Asia,2009,99.66,72.839
+Eastern Asia,2008,99.68,72.935
+Eastern Asia,2007,99.694,73.14
+Eastern Asia,2006,99.707,73.295
+Eastern Asia,2005,99.721,73.47
+Eastern Asia,2004,99.724,73.708
+Eastern Asia: Low income,2022,97.106,81.116
+Eastern Asia: Low income,2021,97.429,80.922
+Eastern Asia: Low income,2020,96.19,79.12
+Eastern Asia: Low income,2019,97.658,80.607
+Eastern Asia: Low income,2018,97.403,80.257
+Eastern Asia: Low income,2017,97.249,79.836
+Eastern Asia: Low income,2016,97.111,79.676
+Eastern Asia: Low income,2015,97.059,80.208
+Eastern Asia: Low income,2014,96.804,79.937
+Eastern Asia: Low income,2013,96.624,79.477
+Eastern Asia: Low income,2012,96.185,79.51
+Eastern Asia: Low income,2011,95.964,79.357
+Eastern Asia: Low income,2010,95.806,79.245
+Eastern Asia: Low income,2009,95.589,78.886
+Eastern Asia: Low income,2008,95.389,79.021
+Eastern Asia: Low income,2007,95.242,78.995
+Eastern Asia: Low income,2006,95.024,78.67
+Eastern Asia: Low income,2005,94.727,78.252
+Eastern Asia: Low income,2004,94.407,78.178
+Eastern Asia: Upper-middle income,2022,95.016,74.377
+Eastern Asia: Upper-middle income,2021,96.41,76.535
+Eastern Asia: Upper-middle income,2020,93.419,72.892
+Eastern Asia: Upper-middle income,2019,95.583,75.033
+Eastern Asia: Upper-middle income,2018,95.738,74.629
+Eastern Asia: Upper-middle income,2017,96.121,74.485
+Eastern Asia: Upper-middle income,2016,96.662,74.698
+Eastern Asia: Upper-middle income,2015,97.453,75.245
+Eastern Asia: Upper-middle income,2014,98.108,75.401
+Eastern Asia: Upper-middle income,2013,98.75,75.316
+Eastern Asia: Upper-middle income,2012,99.218,75.626
+Eastern Asia: Upper-middle income,2011,99.868,75.573
+Eastern Asia: Upper-middle income,2010,99.887,74.958
+Eastern Asia: Upper-middle income,2009,99.9,75.297
+Eastern Asia: Upper-middle income,2008,99.9,75.695
+Eastern Asia: Upper-middle income,2007,99.9,76.043
+Eastern Asia: Upper-middle income,2006,99.9,76.45
+Eastern Asia: Upper-middle income,2005,99.9,76.826
+Eastern Asia: Upper-middle income,2004,99.9,77.247
+Eastern Asia: High income,2022,98.279,68.398
+Eastern Asia: High income,2021,98.684,68.722
+Eastern Asia: High income,2020,98.551,68.207
+Eastern Asia: High income,2019,98.828,68.087
+Eastern Asia: High income,2018,98.908,67.282
+Eastern Asia: High income,2017,98.831,65.782
+Eastern Asia: High income,2016,98.869,64.897
+Eastern Asia: High income,2015,98.919,64.008
+Eastern Asia: High income,2014,98.905,63.301
+Eastern Asia: High income,2013,98.834,62.083
+Eastern Asia: High income,2012,98.829,61.086
+Eastern Asia: High income,2011,98.813,60.012
+Eastern Asia: High income,2010,98.749,59.03
+Eastern Asia: High income,2009,98.743,57.982
+Eastern Asia: High income,2008,98.921,56.199
+Eastern Asia: High income,2007,98.99,55.476
+Eastern Asia: High income,2006,99.122,54.02
+Eastern Asia: High income,2005,99.264,52.77
+Eastern Asia: High income,2004,99.337,51.849
+South-Eastern Asia and the Pacific,2022,96.152,58.799
+South-Eastern Asia and the Pacific,2021,95.685,58.101
+South-Eastern Asia and the Pacific,2020,95.754,57.841
+South-Eastern Asia and the Pacific,2019,97.536,58.712
+South-Eastern Asia and the Pacific,2018,97.213,58.485
+South-Eastern Asia and the Pacific,2017,96.888,57.366
+South-Eastern Asia and the Pacific,2016,97.224,57.923
+South-Eastern Asia and the Pacific,2015,97.49,58.857
+South-Eastern Asia and the Pacific,2014,97.542,58.989
+South-Eastern Asia and the Pacific,2013,97.49,58.8
+South-Eastern Asia and the Pacific,2012,97.599,59.208
+South-Eastern Asia and the Pacific,2011,97.678,59.021
+South-Eastern Asia and the Pacific,2010,97.64,58.323
+South-Eastern Asia and the Pacific,2009,97.255,57.794
+South-Eastern Asia and the Pacific,2008,97.346,57.842
+South-Eastern Asia and the Pacific,2007,97.341,57.497
+South-Eastern Asia and the Pacific,2006,97.491,55.461
+South-Eastern Asia and the Pacific,2005,97.376,55.775
+South-Eastern Asia and the Pacific,2004,97.229,55.746
+South-Eastern Asia and the Pacific: Lower-middle income,2022,96.042,57.945
+South-Eastern Asia and the Pacific: Lower-middle income,2021,95.351,56.931
+South-Eastern Asia and the Pacific: Lower-middle income,2020,95.47,56.794
+South-Eastern Asia and the Pacific: Lower-middle income,2019,97.5,57.904
+South-Eastern Asia and the Pacific: Lower-middle income,2018,97.126,57.693
+South-Eastern Asia and the Pacific: Lower-middle income,2017,96.736,56.296
+South-Eastern Asia and the Pacific: Lower-middle income,2016,97.133,56.97
+South-Eastern Asia and the Pacific: Lower-middle income,2015,97.408,58.018
+South-Eastern Asia and the Pacific: Lower-middle income,2014,97.469,58.238
+South-Eastern Asia and the Pacific: Lower-middle income,2013,97.435,58.106
+South-Eastern Asia and the Pacific: Lower-middle income,2012,97.493,58.573
+South-Eastern Asia and the Pacific: Lower-middle income,2011,97.567,58.526
+South-Eastern Asia and the Pacific: Lower-middle income,2010,97.622,58.155
+South-Eastern Asia and the Pacific: Lower-middle income,2009,97.11,57.539
+South-Eastern Asia and the Pacific: Lower-middle income,2008,97.199,57.667
+South-Eastern Asia and the Pacific: Lower-middle income,2007,97.151,57.289
+South-Eastern Asia and the Pacific: Lower-middle income,2006,97.409,55.074
+South-Eastern Asia and the Pacific: Lower-middle income,2005,97.257,55.482
+South-Eastern Asia and the Pacific: Lower-middle income,2004,97.089,55.657
+South-Eastern Asia and the Pacific: Upper-middle income,2022,98.081,57.527
+South-Eastern Asia and the Pacific: Upper-middle income,2021,98.645,58.601
+South-Eastern Asia and the Pacific: Upper-middle income,2020,98.577,58.178
+South-Eastern Asia and the Pacific: Upper-middle income,2019,98.971,57.579
+South-Eastern Asia and the Pacific: Upper-middle income,2018,99.054,57.739
+South-Eastern Asia and the Pacific: Upper-middle income,2017,99.07,58.825
+South-Eastern Asia and the Pacific: Upper-middle income,2016,99.045,59.146
+South-Eastern Asia and the Pacific: Upper-middle income,2015,99.333,60.252
+South-Eastern Asia and the Pacific: Upper-middle income,2014,99.444,59.991
+South-Eastern Asia and the Pacific: Upper-middle income,2013,99.108,59.721
+South-Eastern Asia and the Pacific: Upper-middle income,2012,99.792,59.882
+South-Eastern Asia and the Pacific: Upper-middle income,2011,99.646,59.042
+South-Eastern Asia and the Pacific: Upper-middle income,2010,98.834,56.416
+South-Eastern Asia and the Pacific: Upper-middle income,2009,99.249,56.5
+South-Eastern Asia and the Pacific: Upper-middle income,2008,99.258,56.569
+South-Eastern Asia and the Pacific: Upper-middle income,2007,99.499,56.658
+South-Eastern Asia and the Pacific: Upper-middle income,2006,99.029,55.67
+South-Eastern Asia and the Pacific: Upper-middle income,2005,99.073,55.904
+South-Eastern Asia and the Pacific: Upper-middle income,2004,99.134,55.153
+South-Eastern Asia and the Pacific: High income,2022,94.428,73.299
+South-Eastern Asia and the Pacific: High income,2021,95.136,73.873
+South-Eastern Asia and the Pacific: High income,2020,95.056,72.55
+South-Eastern Asia and the Pacific: High income,2019,95.638,72.731
+South-Eastern Asia and the Pacific: High income,2018,95.307,71.785
+South-Eastern Asia and the Pacific: High income,2017,95.304,71.082
+South-Eastern Asia and the Pacific: High income,2016,95.334,70.74
+South-Eastern Asia and the Pacific: High income,2015,95.418,69.631
+South-Eastern Asia and the Pacific: High income,2014,95.161,69.135
+South-Eastern Asia and the Pacific: High income,2013,95.317,68.168
+South-Eastern Asia and the Pacific: High income,2012,95.089,68.146
+South-Eastern Asia and the Pacific: High income,2011,95.583,67.12
+South-Eastern Asia and the Pacific: High income,2010,95.522,65.296
+South-Eastern Asia and the Pacific: High income,2009,95.463,65.071
+South-Eastern Asia and the Pacific: High income,2008,95.72,63.889
+South-Eastern Asia and the Pacific: High income,2007,95.851,63.25
+South-Eastern Asia and the Pacific: High income,2006,95.458,62.087
+South-Eastern Asia and the Pacific: High income,2005,95.526,60.904
+South-Eastern Asia and the Pacific: High income,2004,95.181,58.948
+South-Eastern Asia,2022,97.143,58.217
+South-Eastern Asia,2021,96.617,57.475
+South-Eastern Asia,2020,96.688,57.269
+South-Eastern Asia,2019,98.536,58.176
+South-Eastern Asia,2018,98.184,57.989
+South-Eastern Asia,2017,97.796,56.845
+South-Eastern Asia,2016,98.111,57.474
+South-Eastern Asia,2015,98.37,58.513
+South-Eastern Asia,2014,98.424,58.668
+South-Eastern Asia,2013,98.342,58.48
+South-Eastern Asia,2012,98.455,58.909
+South-Eastern Asia,2011,98.494,58.742
+South-Eastern Asia,2010,98.436,58.073
+South-Eastern Asia,2009,97.961,57.475
+South-Eastern Asia,2008,97.977,57.546
+South-Eastern Asia,2007,97.904,57.177
+South-Eastern Asia,2006,98.029,55.05
+South-Eastern Asia,2005,97.856,55.393
+South-Eastern Asia,2004,97.673,55.406
+Pacific Islands,2022,83.479,66.525
+Pacific Islands,2021,83.588,66.532
+Pacific Islands,2020,83.388,65.672
+Pacific Islands,2019,84.032,66.17
+Pacific Islands,2018,83.755,65.547
+Pacific Islands,2017,83.789,65.059
+Pacific Islands,2016,83.866,64.827
+Pacific Islands,2015,84.022,64.241
+Pacific Islands,2014,83.902,64.066
+Pacific Islands,2013,84.198,63.914
+Pacific Islands,2012,84.116,64.041
+Pacific Islands,2011,84.692,63.621
+Pacific Islands,2010,84.806,62.54
+Pacific Islands,2009,85.668,63.327
+Pacific Islands,2008,86.768,63.115
+Pacific Islands,2007,87.715,63.349
+Pacific Islands,2006,88.172,63.16
+Pacific Islands,2005,88.999,63.026
+Pacific Islands,2004,89.426,62.25
+Southern Asia,2022,97.043,27.536
+Southern Asia,2021,96.67,27.423
+Southern Asia,2020,96.702,25.908
+Southern Asia,2019,97.648,24.974
+Southern Asia,2018,97.431,22.656
+Southern Asia,2017,97.669,24.089
+Southern Asia,2016,97.485,24.212
+Southern Asia,2015,97.571,24.693
+Southern Asia,2014,97.567,25.225
+Southern Asia,2013,97.758,26.277
+Southern Asia,2012,97.665,27.161
+Southern Asia,2011,97.725,26.965
+Southern Asia,2010,97.77,26.723
+Southern Asia,2009,97.22,27.275
+Southern Asia,2008,96.469,27.586
+Southern Asia,2007,95.833,28.22
+Southern Asia,2006,94.932,28.846
+Southern Asia,2005,94.173,29.418
+Southern Asia,2004,95.005,29.203
+Southern Asia: Low income,2022,93.111,13.696
+Southern Asia: Low income,2021,86.589,17.097
+Southern Asia: Low income,2020,86.0,18.7
+Southern Asia: Low income,2019,93.481,25.42
+Southern Asia: Low income,2018,93.689,25.055
+Southern Asia: Low income,2017,93.9,24.7
+Southern Asia: Low income,2016,95.035,23.459
+Southern Asia: Low income,2015,96.126,22.243
+Southern Asia: Low income,2014,97.18,21.092
+Southern Asia: Low income,2013,98.19,20.008
+Southern Asia: Low income,2012,99.113,18.944
+Southern Asia: Low income,2011,99.503,18.629
+Southern Asia: Low income,2010,99.766,18.363
+Southern Asia: Low income,2009,99.65,18.311
+Southern Asia: Low income,2008,99.451,18.373
+Southern Asia: Low income,2007,99.097,18.384
+Southern Asia: Low income,2006,98.785,18.402
+Southern Asia: Low income,2005,98.678,18.566
+Southern Asia: Low income,2004,98.877,18.429
+Southern Asia: Lower-middle income,2022,97.176,28.093
+Southern Asia: Lower-middle income,2021,97.002,27.825
+Southern Asia: Lower-middle income,2020,97.049,26.18
+Southern Asia: Lower-middle income,2019,97.768,24.957
+Southern Asia: Lower-middle income,2018,97.529,22.58
+Southern Asia: Lower-middle income,2017,97.759,24.07
+Southern Asia: Lower-middle income,2016,97.541,24.231
+Southern Asia: Lower-middle income,2015,97.603,24.756
+Southern Asia: Lower-middle income,2014,97.576,25.328
+Southern Asia: Lower-middle income,2013,97.749,26.429
+Southern Asia: Lower-middle income,2012,97.637,27.354
+Southern Asia: Lower-middle income,2011,97.691,27.153
+Southern Asia: Lower-middle income,2010,97.733,26.907
+Southern Asia: Lower-middle income,2009,97.175,27.469
+Southern Asia: Lower-middle income,2008,96.416,27.78
+Southern Asia: Lower-middle income,2007,95.775,28.426
+Southern Asia: Lower-middle income,2006,94.864,29.066
+Southern Asia: Lower-middle income,2005,94.097,29.639
+Southern Asia: Lower-middle income,2004,94.941,29.417
+Southern Asia: Upper-middle income,2022,98.79,36.77
+Southern Asia: Upper-middle income,2021,98.803,35.86
+Southern Asia: Upper-middle income,2020,95.623,33.802
+Southern Asia: Upper-middle income,2019,99.9,35.899
+Southern Asia: Upper-middle income,2018,99.9,35.637
+Southern Asia: Upper-middle income,2017,97.712,35.014
+Southern Asia: Upper-middle income,2016,95.57,33.843
+Southern Asia: Upper-middle income,2015,95.159,32.97
+Southern Asia: Upper-middle income,2014,94.872,32.155
+Southern Asia: Upper-middle income,2013,94.982,31.469
+Southern Asia: Upper-middle income,2012,95.474,30.92
+Southern Asia: Upper-middle income,2011,95.969,30.432
+Southern Asia: Upper-middle income,2010,96.377,29.997
+Southern Asia: Upper-middle income,2009,96.6,29.6
+Southern Asia: Upper-middle income,2008,98.503,30.603
+Southern Asia: Upper-middle income,2007,99.9,31.639
+Southern Asia: Upper-middle income,2006,99.9,32.622
+Southern Asia: Upper-middle income,2005,99.9,33.295
+Southern Asia: Upper-middle income,2004,99.9,33.731
+Europe and Central Asia,2022,94.973,63.317
+Europe and Central Asia,2021,94.974,63.225
+Europe and Central Asia,2020,94.564,62.614
+Europe and Central Asia,2019,95.327,62.651
+Europe and Central Asia,2018,95.422,62.679
+Europe and Central Asia,2017,95.462,62.735
+Europe and Central Asia,2016,95.55,62.934
+Europe and Central Asia,2015,95.488,62.43
+Europe and Central Asia,2014,95.339,62.637
+Europe and Central Asia,2013,95.481,62.13
+Europe and Central Asia,2012,95.614,62.439
+Europe and Central Asia,2011,95.708,61.681
+Europe and Central Asia,2010,95.741,60.525
+Europe and Central Asia,2009,95.752,60.147
+Europe and Central Asia,2008,95.898,59.29
+Europe and Central Asia,2007,95.98,58.698
+Europe and Central Asia,2006,95.601,58.325
+Europe and Central Asia,2005,95.641,57.679
+Europe and Central Asia,2004,95.471,57.613
+Europe and Central Asia: Lower-middle income,2022,86.754,43.097
+Europe and Central Asia: Lower-middle income,2021,87.693,43.439
+Europe and Central Asia: Lower-middle income,2020,87.171,43.645
+Europe and Central Asia: Lower-middle income,2019,88.308,44.594
+Europe and Central Asia: Lower-middle income,2018,87.746,44.711
+Europe and Central Asia: Lower-middle income,2017,87.974,46.29
+Europe and Central Asia: Lower-middle income,2016,88.325,47.928
+Europe and Central Asia: Lower-middle income,2015,88.514,48.153
+Europe and Central Asia: Lower-middle income,2014,88.524,48.553
+Europe and Central Asia: Lower-middle income,2013,88.981,48.51
+Europe and Central Asia: Lower-middle income,2012,89.843,50.227
+Europe and Central Asia: Lower-middle income,2011,90.262,51.216
+Europe and Central Asia: Lower-middle income,2010,90.4,50.953
+Europe and Central Asia: Lower-middle income,2009,90.733,51.514
+Europe and Central Asia: Lower-middle income,2008,91.409,52.252
+Europe and Central Asia: Lower-middle income,2007,91.85,53.047
+Europe and Central Asia: Lower-middle income,2006,91.758,54.041
+Europe and Central Asia: Lower-middle income,2005,91.963,54.781
+Europe and Central Asia: Lower-middle income,2004,92.01,56.136
+Europe and Central Asia: Upper-middle income,2022,96.236,53.592
+Europe and Central Asia: Upper-middle income,2021,96.384,53.675
+Europe and Central Asia: Upper-middle income,2020,95.213,52.065
+Europe and Central Asia: Upper-middle income,2019,96.538,53.533
+Europe and Central Asia: Upper-middle income,2018,96.856,53.578
+Europe and Central Asia: Upper-middle income,2017,96.868,53.394
+Europe and Central Asia: Upper-middle income,2016,96.827,52.834
+Europe and Central Asia: Upper-middle income,2015,96.415,51.419
+Europe and Central Asia: Upper-middle income,2014,96.07,50.674
+Europe and Central Asia: Upper-middle income,2013,96.215,50.033
+Europe and Central Asia: Upper-middle income,2012,96.188,50.081
+Europe and Central Asia: Upper-middle income,2011,96.375,49.201
+Europe and Central Asia: Upper-middle income,2010,96.032,47.783
+Europe and Central Asia: Upper-middle income,2009,95.83,47.273
+Europe and Central Asia: Upper-middle income,2008,95.486,46.843
+Europe and Central Asia: Upper-middle income,2007,95.466,46.358
+Europe and Central Asia: Upper-middle income,2006,94.996,46.387
+Europe and Central Asia: Upper-middle income,2005,95.311,46.292
+Europe and Central Asia: Upper-middle income,2004,95.264,47.36
+Europe and Central Asia: High income,2022,95.635,72.815
+Europe and Central Asia: High income,2021,95.38,72.443
+Europe and Central Asia: High income,2020,95.429,72.208
+Europe and Central Asia: High income,2019,95.767,71.078
+Europe and Central Asia: High income,2018,95.813,70.869
+Europe and Central Asia: High income,2017,95.818,70.598
+Europe and Central Asia: High income,2016,95.92,70.807
+Europe and Central Asia: High income,2015,95.996,70.405
+Europe and Central Asia: High income,2014,95.91,70.808
+Europe and Central Asia: High income,2013,95.993,69.992
+Europe and Central Asia: High income,2012,96.097,69.919
+Europe and Central Asia: High income,2011,96.104,68.877
+Europe and Central Asia: High income,2010,96.302,67.687
+Europe and Central Asia: High income,2009,96.369,67.184
+Europe and Central Asia: High income,2008,96.686,65.988
+Europe and Central Asia: High income,2007,96.778,65.236
+Europe and Central Asia: High income,2006,96.417,64.655
+Europe and Central Asia: High income,2005,96.317,63.62
+Europe and Central Asia: High income,2004,96.068,62.795
+"Northern, Southern and Western Europe",2022,95.295,74.844
+"Northern, Southern and Western Europe",2021,95.104,74.462
+"Northern, Southern and Western Europe",2020,95.125,74.45
+"Northern, Southern and Western Europe",2019,95.519,72.972
+"Northern, Southern and Western Europe",2018,95.644,72.727
+"Northern, Southern and Western Europe",2017,95.61,72.207
+"Northern, Southern and Western Europe",2016,95.772,72.27
+"Northern, Southern and Western Europe",2015,95.818,71.686
+"Northern, Southern and Western Europe",2014,95.834,71.947
+"Northern, Southern and Western Europe",2013,96.0,71.359
+"Northern, Southern and Western Europe",2012,96.071,71.223
+"Northern, Southern and Western Europe",2011,96.104,70.161
+"Northern, Southern and Western Europe",2010,96.304,68.933
+"Northern, Southern and Western Europe",2009,96.308,68.451
+"Northern, Southern and Western Europe",2008,96.655,67.198
+"Northern, Southern and Western Europe",2007,96.835,66.38
+"Northern, Southern and Western Europe",2006,96.433,65.74
+"Northern, Southern and Western Europe",2005,96.414,64.629
+"Northern, Southern and Western Europe",2004,96.229,63.695
+"Northern, Southern and Western Europe: Upper-middle income",2022,95.999,70.823
+"Northern, Southern and Western Europe: Upper-middle income",2021,95.402,70.221
+"Northern, Southern and Western Europe: Upper-middle income",2020,93.708,67.188
+"Northern, Southern and Western Europe: Upper-middle income",2019,94.141,68.273
+"Northern, Southern and Western Europe: Upper-middle income",2018,95.291,69.351
+"Northern, Southern and Western Europe: Upper-middle income",2017,94.151,68.916
+"Northern, Southern and Western Europe: Upper-middle income",2016,93.799,69.679
+"Northern, Southern and Western Europe: Upper-middle income",2015,93.572,66.887
+"Northern, Southern and Western Europe: Upper-middle income",2014,93.803,64.987
+"Northern, Southern and Western Europe: Upper-middle income",2013,94.032,62.61
+"Northern, Southern and Western Europe: Upper-middle income",2012,94.251,62.026
+"Northern, Southern and Western Europe: Upper-middle income",2011,94.102,61.947
+"Northern, Southern and Western Europe: Upper-middle income",2010,93.9,59.787
+"Northern, Southern and Western Europe: Upper-middle income",2009,92.857,61.004
+"Northern, Southern and Western Europe: Upper-middle income",2008,92.647,60.534
+"Northern, Southern and Western Europe: Upper-middle income",2007,93.258,59.023
+"Northern, Southern and Western Europe: Upper-middle income",2006,92.539,58.473
+"Northern, Southern and Western Europe: Upper-middle income",2005,92.6,58.818
+"Northern, Southern and Western Europe: Upper-middle income",2004,92.8,58.731
+"Northern, Southern and Western Europe: High income",2022,95.276,74.942
+"Northern, Southern and Western Europe: High income",2021,95.096,74.566
+"Northern, Southern and Western Europe: High income",2020,95.162,74.629
+"Northern, Southern and Western Europe: High income",2019,95.555,73.088
+"Northern, Southern and Western Europe: High income",2018,95.653,72.811
+"Northern, Southern and Western Europe: High income",2017,95.647,72.286
+"Northern, Southern and Western Europe: High income",2016,95.821,72.331
+"Northern, Southern and Western Europe: High income",2015,95.869,71.791
+"Northern, Southern and Western Europe: High income",2014,95.878,72.088
+"Northern, Southern and Western Europe: High income",2013,96.041,71.533
+"Northern, Southern and Western Europe: High income",2012,96.107,71.396
+"Northern, Southern and Western Europe: High income",2011,96.142,70.307
+"Northern, Southern and Western Europe: High income",2010,96.349,69.094
+"Northern, Southern and Western Europe: High income",2009,96.375,68.588
+"Northern, Southern and Western Europe: High income",2008,96.731,67.32
+"Northern, Southern and Western Europe: High income",2007,96.906,66.519
+"Northern, Southern and Western Europe: High income",2006,96.51,65.877
+"Northern, Southern and Western Europe: High income",2005,96.486,64.735
+"Northern, Southern and Western Europe: High income",2004,96.292,63.783
+Northern Europe,2022,94.447,76.924
+Northern Europe,2021,94.681,76.771
+Northern Europe,2020,94.748,76.317
+Northern Europe,2019,95.401,75.647
+Northern Europe,2018,94.912,74.829
+Northern Europe,2017,94.611,73.94
+Northern Europe,2016,94.771,72.905
+Northern Europe,2015,94.809,71.641
+Northern Europe,2014,94.788,70.842
+Northern Europe,2013,95.032,71.588
+Northern Europe,2012,94.469,70.978
+Northern Europe,2011,94.389,70.643
+Northern Europe,2010,94.766,69.692
+Northern Europe,2009,94.458,69.16
+Northern Europe,2008,94.615,68.351
+Northern Europe,2007,94.663,68.223
+Northern Europe,2006,94.156,68.401
+Northern Europe,2005,93.878,67.384
+Northern Europe,2004,93.412,65.723
+Southern Europe,2022,95.676,72.276
+Southern Europe,2021,95.27,71.706
+Southern Europe,2020,95.162,69.397
+Southern Europe,2019,96.308,71.092
+Southern Europe,2018,96.266,71.29
+Southern Europe,2017,96.139,71.341
+Southern Europe,2016,96.351,72.307
+Southern Europe,2015,96.192,71.388
+Southern Europe,2014,96.004,71.858
+Southern Europe,2013,96.232,70.935
+Southern Europe,2012,96.624,70.855
+Southern Europe,2011,96.427,69.081
+Southern Europe,2010,96.682,67.748
+Southern Europe,2009,97.023,66.989
+Southern Europe,2008,97.412,65.854
+Southern Europe,2007,97.601,64.363
+Southern Europe,2006,97.275,63.972
+Southern Europe,2005,97.398,63.318
+Southern Europe,2004,97.874,62.447
+Western Europe,2022,95.503,75.571
+Western Europe,2021,95.225,75.218
+Western Europe,2020,95.321,77.258
+Western Europe,2019,94.956,72.904
+Western Europe,2018,95.556,72.693
+Western Europe,2017,95.772,71.904
+Western Europe,2016,95.893,71.859
+Western Europe,2015,96.129,71.969
+Western Europe,2014,96.361,72.704
+Western Europe,2013,96.413,71.606
+Western Europe,2012,96.566,71.706
+Western Europe,2011,96.862,70.878
+Western Europe,2010,96.874,69.599
+Western Europe,2009,96.716,69.421
+Western Europe,2008,97.142,67.787
+Western Europe,2007,97.355,67.229
+Western Europe,2006,96.921,65.944
+Western Europe,2005,96.891,64.363
+Western Europe,2004,96.302,63.713
+Eastern Europe,2022,96.115,62.544
+Eastern Europe,2021,96.483,62.886
+Eastern Europe,2020,96.024,61.863
+Eastern Europe,2019,96.317,62.222
+Eastern Europe,2018,96.398,62.3
+Eastern Europe,2017,96.291,62.995
+Eastern Europe,2016,96.232,63.77
+Eastern Europe,2015,95.981,63.406
+Eastern Europe,2014,95.512,63.769
+Eastern Europe,2013,95.328,62.595
+Eastern Europe,2012,95.636,63.64
+Eastern Europe,2011,95.664,63.72
+Eastern Europe,2010,95.563,62.515
+Eastern Europe,2009,95.756,62.625
+Eastern Europe,2008,95.74,62.45
+Eastern Europe,2007,95.563,62.092
+Eastern Europe,2006,94.818,62.059
+Eastern Europe,2005,94.679,61.743
+Eastern Europe,2004,94.265,62.066
+Eastern Europe: Lower-middle income,2022,83.492,51.304
+Eastern Europe: Lower-middle income,2021,85.987,52.358
+Eastern Europe: Lower-middle income,2020,86.116,53.211
+Eastern Europe: Lower-middle income,2019,87.203,54.402
+Eastern Europe: Lower-middle income,2018,86.551,54.221
+Eastern Europe: Lower-middle income,2017,86.333,55.829
+Eastern Europe: Lower-middle income,2016,86.496,57.487
+Eastern Europe: Lower-middle income,2015,86.187,57.919
+Eastern Europe: Lower-middle income,2014,85.729,58.1
+Eastern Europe: Lower-middle income,2013,85.926,59.096
+Eastern Europe: Lower-middle income,2012,86.219,60.644
+Eastern Europe: Lower-middle income,2011,86.681,62.156
+Eastern Europe: Lower-middle income,2010,86.978,61.857
+Eastern Europe: Lower-middle income,2009,87.645,62.606
+Eastern Europe: Lower-middle income,2008,88.189,63.164
+Eastern Europe: Lower-middle income,2007,88.61,63.525
+Eastern Europe: Lower-middle income,2006,87.742,63.547
+Eastern Europe: Lower-middle income,2005,88.528,64.081
+Eastern Europe: Lower-middle income,2004,89.047,65.119
+Eastern Europe: Upper-middle income,2022,97.844,66.029
+Eastern Europe: Upper-middle income,2021,98.397,66.88
+Eastern Europe: Upper-middle income,2020,97.543,65.936
+Eastern Europe: Upper-middle income,2019,97.87,65.801
+Eastern Europe: Upper-middle income,2018,98.347,66.215
+Eastern Europe: Upper-middle income,2017,98.234,66.587
+Eastern Europe: Upper-middle income,2016,98.278,67.123
+Eastern Europe: Upper-middle income,2015,97.721,65.979
+Eastern Europe: Upper-middle income,2014,97.366,66.154
+Eastern Europe: Upper-middle income,2013,97.201,65.363
+Eastern Europe: Upper-middle income,2012,97.488,66.931
+Eastern Europe: Upper-middle income,2011,97.508,67.249
+Eastern Europe: Upper-middle income,2010,97.156,65.766
+Eastern Europe: Upper-middle income,2009,97.001,66.049
+Eastern Europe: Upper-middle income,2008,96.898,65.74
+Eastern Europe: Upper-middle income,2007,96.802,65.457
+Eastern Europe: Upper-middle income,2006,95.626,65.238
+Eastern Europe: Upper-middle income,2005,95.556,64.516
+Eastern Europe: Upper-middle income,2004,95.169,64.782
+Eastern Europe: High income,2022,98.173,61.12
+Eastern Europe: High income,2021,97.629,60.386
+Eastern Europe: High income,2020,97.616,58.598
+Eastern Europe: High income,2019,97.547,59.502
+Eastern Europe: High income,2018,97.344,59.201
+Eastern Europe: High income,2017,97.286,60.033
+Eastern Europe: High income,2016,96.989,60.929
+Eastern Europe: High income,2015,97.191,61.652
+Eastern Europe: High income,2014,96.564,62.445
+Eastern Europe: High income,2013,96.214,59.936
+Eastern Europe: High income,2012,96.557,60.207
+Eastern Europe: High income,2011,96.468,59.503
+Eastern Europe: High income,2010,96.584,58.318
+Eastern Europe: High income,2009,97.067,57.815
+Eastern Europe: High income,2008,97.016,57.328
+Eastern Europe: High income,2007,96.564,56.262
+Eastern Europe: High income,2006,96.502,56.264
+Eastern Europe: High income,2005,95.925,56.094
+Eastern Europe: High income,2004,95.141,55.882
+Central Asia,2022,88.981,50.824
+Central Asia,2021,89.157,50.761
+Central Asia,2020,88.621,50.152
+Central Asia,2019,89.478,51.399
+Central Asia,2018,89.173,51.614
+Central Asia,2017,89.531,52.918
+Central Asia,2016,89.883,54.056
+Central Asia,2015,90.073,53.722
+Central Asia,2014,90.34,54.161
+Central Asia,2013,90.779,53.758
+Central Asia,2012,91.592,55.158
+Central Asia,2011,91.884,55.473
+Central Asia,2010,91.951,54.952
+Central Asia,2009,92.106,55.256
+Central Asia,2008,92.627,55.512
+Central Asia,2007,93.012,55.819
+Central Asia,2006,93.285,56.532
+Central Asia,2005,93.264,57.095
+Central Asia,2004,93.187,58.486
+Central and Western Asia: Lower-middle income,2022,88.347,39.129
+Central and Western Asia: Lower-middle income,2021,88.572,38.935
+Central and Western Asia: Lower-middle income,2020,87.738,38.606
+Central and Western Asia: Lower-middle income,2019,88.919,39.22
+Central and Western Asia: Lower-middle income,2018,88.425,39.31
+Central and Western Asia: Lower-middle income,2017,88.922,40.726
+Central and Western Asia: Lower-middle income,2016,89.386,42.284
+Central and Western Asia: Lower-middle income,2015,89.862,42.345
+Central and Western Asia: Lower-middle income,2014,90.13,42.878
+Central and Western Asia: Lower-middle income,2013,90.707,42.266
+Central and Western Asia: Lower-middle income,2012,91.856,44.127
+Central and Western Asia: Lower-middle income,2011,92.219,44.85
+Central and Western Asia: Lower-middle income,2010,92.264,44.59
+Central and Western Asia: Lower-middle income,2009,92.421,44.989
+Central and Western Asia: Lower-middle income,2008,93.175,45.79
+Central and Western Asia: Lower-middle income,2007,93.639,46.778
+Central and Western Asia: Lower-middle income,2006,93.993,48.298
+Central and Western Asia: Lower-middle income,2005,93.9,49.099
+Central and Western Asia: Lower-middle income,2004,93.716,50.543
+Central and Western Asia: Upper-middle income,2022,95.184,43.673
+Central and Western Asia: Upper-middle income,2021,95.103,43.215
+Central and Western Asia: Upper-middle income,2020,93.767,41.202
+Central and Western Asia: Upper-middle income,2019,95.811,43.804
+Central and Western Asia: Upper-middle income,2018,95.985,43.516
+Central and Western Asia: Upper-middle income,2017,96.151,42.917
+Central and Western Asia: Upper-middle income,2016,96.09,41.585
+Central and Western Asia: Upper-middle income,2015,95.765,40.281
+Central and Western Asia: Upper-middle income,2014,95.404,39.214
+Central and Western Asia: Upper-middle income,2013,95.753,39.022
+Central and Western Asia: Upper-middle income,2012,95.529,38.222
+Central and Western Asia: Upper-middle income,2011,95.847,36.896
+Central and Western Asia: Upper-middle income,2010,95.51,35.46
+Central and Western Asia: Upper-middle income,2009,95.329,33.751
+Central and Western Asia: Upper-middle income,2008,94.822,32.875
+Central and Western Asia: Upper-middle income,2007,94.799,31.862
+Central and Western Asia: Upper-middle income,2006,94.766,32.011
+Central and Western Asia: Upper-middle income,2005,95.316,32.107
+Central and Western Asia: Upper-middle income,2004,95.466,33.162
+Central and Western Asia: High income,2022,90.917,72.367
+Central and Western Asia: High income,2021,90.222,71.68
+Central and Western Asia: High income,2020,89.921,70.744
+Central and Western Asia: High income,2019,90.891,71.129
+Central and Western Asia: High income,2018,90.819,71.995
+Central and Western Asia: High income,2017,92.065,71.602
+Central and Western Asia: High income,2016,92.066,73.036
+Central and Western Asia: High income,2015,92.478,71.168
+Central and Western Asia: High income,2014,92.247,70.916
+Central and Western Asia: High income,2013,91.678,68.622
+Central and Western Asia: High income,2012,91.824,68.805
+Central and Western Asia: High income,2011,91.001,66.762
+Central and Western Asia: High income,2010,91.386,66.486
+Central and Western Asia: High income,2009,90.189,65.192
+Central and Western Asia: High income,2008,91.429,61.359
+Central and Western Asia: High income,2007,91.525,64.014
+Central and Western Asia: High income,2006,90.599,61.89
+Central and Western Asia: High income,2005,90.202,60.765
+Central and Western Asia: High income,2004,91.117,61.111
+Central and Western Asia,2022,93.376,43.733
+Central and Western Asia,2021,93.367,43.345
+Central and Western Asia,2020,92.219,41.8
+Central and Western Asia,2019,94.056,43.82
+Central and Western Asia,2018,94.1,43.707
+Central and Western Asia,2017,94.407,43.605
+Central and Western Asia,2016,94.48,43.048
+Central and Western Asia,2015,94.367,42.077
+Central and Western Asia,2014,94.15,41.418
+Central and Western Asia,2013,94.509,41.051
+Central and Western Asia,2012,94.577,40.964
+Central and Western Asia,2011,94.858,40.062
+Central and Western Asia,2010,94.633,38.968
+Central and Western Asia,2009,94.469,37.895
+Central and Western Asia,2008,94.31,37.304
+Central and Western Asia,2007,94.398,37.032
+Central and Western Asia,2006,94.423,37.377
+Central and Western Asia,2005,94.786,37.621
+Central and Western Asia,2004,94.879,38.845
+Western Asia,2022,95.875,39.424
+Western Asia,2021,95.724,38.905
+Western Asia,2020,94.183,36.892
+Western Asia,2019,96.49,39.452
+Western Asia,2018,96.645,39.253
+Western Asia,2017,96.852,38.466
+Western Asia,2016,96.73,37.066
+Western Asia,2015,96.42,35.842
+Western Asia,2014,95.94,34.656
+Western Asia,2013,96.241,34.342
+Western Asia,2012,95.969,33.408
+Western Asia,2011,96.233,31.966
+Western Asia,2010,95.866,30.511
+Western Asia,2009,95.572,28.464
+Western Asia,2008,95.114,27.152
+Western Asia,2007,95.072,26.369
+Western Asia,2006,94.973,26.508
+Western Asia,2005,95.533,26.412
+Western Asia,2004,95.75,26.993
+Northern Africa: Low income,2022,95.963,33.856
+Northern Africa: Low income,2021,95.915,33.774
+Northern Africa: Low income,2020,95.72,33.187
+Northern Africa: Low income,2019,96.529,33.534
+Northern Africa: Low income,2018,96.538,33.03
+Northern Africa: Low income,2017,96.652,32.65
+Northern Africa: Low income,2016,96.807,32.335
+Northern Africa: Low income,2015,96.927,32.014
+Northern Africa: Low income,2014,97.065,31.677
+Northern Africa: Low income,2013,97.285,31.416
+Northern Africa: Low income,2012,97.502,31.163
+Northern Africa: Low income,2011,97.9,31.1
+Northern Africa: Low income,2010,98.128,30.914
+Northern Africa: Low income,2009,98.336,30.748
+Northern Africa: Low income,2008,98.518,30.606
+Northern Africa: Low income,2007,98.686,30.479
+Northern Africa: Low income,2006,98.836,30.365
+Northern Africa: Low income,2005,98.973,30.262
+Northern Africa: Low income,2004,99.102,30.161
+European Union 28,2022,95.936,72.734
+European Union 28,2021,95.629,72.373
+European Union 28,2020,95.674,72.089
+European Union 28,2019,95.999,70.925
+European Union 28,2018,96.038,70.7
+European Union 28,2017,96.033,70.471
+European Union 28,2016,96.113,70.644
+European Union 28,2015,96.149,70.231
+European Union 28,2014,96.089,70.697
+European Union 28,2013,96.189,69.895
+European Union 28,2012,96.286,69.838
+European Union 28,2011,96.307,68.8
+European Union 28,2010,96.513,67.579
+European Union 28,2009,96.57,67.069
+European Union 28,2008,96.87,65.879
+European Union 28,2007,96.975,65.125
+European Union 28,2006,96.613,64.545
+European Union 28,2005,96.495,63.476
+European Union 28,2004,96.224,62.66
+G20,2022,96.519,54.841
+G20,2021,96.455,55.135
+G20,2020,95.62,53.83
+G20,2019,96.946,54.41
+G20,2018,96.782,53.57
+G20,2017,96.983,54.408
+G20,2016,97.227,54.817
+G20,2015,97.509,55.256
+G20,2014,97.664,55.629
+G20,2013,97.912,56.003
+G20,2012,98.097,56.58
+G20,2011,98.342,56.482
+G20,2010,98.392,56.127
+G20,2009,98.126,56.384
+G20,2008,97.927,56.425
+G20,2007,97.648,56.606
+G20,2006,97.342,56.618
+G20,2005,97.059,56.835
+G20,2004,97.302,56.956
+ASEAN,2022,97.138,58.167
+ASEAN,2021,96.613,57.426
+ASEAN,2020,96.684,57.22
+ASEAN,2019,98.534,58.128
+ASEAN,2018,98.181,57.939
+ASEAN,2017,97.793,56.795
+ASEAN,2016,98.109,57.427
+ASEAN,2015,98.37,58.469
+ASEAN,2014,98.424,58.625
+ASEAN,2013,98.342,58.437
+ASEAN,2012,98.455,58.868
+ASEAN,2011,98.495,58.701
+ASEAN,2010,98.437,58.032
+ASEAN,2009,97.962,57.433
+ASEAN,2008,97.978,57.505
+ASEAN,2007,97.905,57.134
+ASEAN,2006,98.031,55.003
+ASEAN,2005,97.858,55.348
+ASEAN,2004,97.675,55.362
+BRICS,2022,96.629,49.148
+BRICS,2021,96.643,50.069
+BRICS,2020,95.474,48.601
+BRICS,2019,96.845,49.527
+BRICS,2018,96.733,48.724
+BRICS,2017,97.134,50.857
+BRICS,2016,97.478,51.78
+BRICS,2015,97.812,52.868
+BRICS,2014,98.104,53.548
+BRICS,2013,98.445,54.208
+BRICS,2012,98.745,55.063
+BRICS,2011,99.172,55.332
+BRICS,2010,99.2,55.149
+BRICS,2009,98.809,55.952
+BRICS,2008,98.352,56.502
+BRICS,2007,97.878,57.189
+BRICS,2006,97.383,57.94
+BRICS,2005,96.902,58.671
+BRICS,2004,97.378,59.13
+Eastern Asia: Lower-middle income,2022,91.837,66.799
+Eastern Asia: Lower-middle income,2021,92.281,66.563
+Eastern Asia: Lower-middle income,2020,93.361,67.89
+Eastern Asia: Lower-middle income,2019,95.011,69.822
+Eastern Asia: Lower-middle income,2018,93.4,66.8
+Eastern Asia: Lower-middle income,2017,90.9,69.0
+Eastern Asia: Lower-middle income,2016,88.3,67.7
+Eastern Asia: Lower-middle income,2015,90.701,69.422
+Eastern Asia: Lower-middle income,2014,91.0,71.0
+Eastern Asia: Lower-middle income,2013,90.3,68.8
+Eastern Asia: Lower-middle income,2012,89.2,71.4
+Eastern Asia: Lower-middle income,2011,91.0,70.2
+Eastern Asia: Lower-middle income,2010,90.2,68.8
+Eastern Asia: Lower-middle income,2009,89.287,67.925
+Eastern Asia: Lower-middle income,2008,87.604,67.919
+Eastern Asia: Lower-middle income,2007,89.284,69.125
+Eastern Asia: Lower-middle income,2006,89.105,69.199
+Eastern Asia: Lower-middle income,2005,88.787,69.243
+Eastern Asia: Lower-middle income,2004,88.397,69.274
+World excluding BRICS,2022,95.351,54.458
+World excluding BRICS,2021,95.345,54.258
+World excluding BRICS,2020,94.878,53.718
+World excluding BRICS,2019,96.226,54.866
+World excluding BRICS,2018,96.085,54.483
+World excluding BRICS,2017,95.904,54.288
+World excluding BRICS,2016,95.93,54.171
+World excluding BRICS,2015,96.034,53.989
+World excluding BRICS,2014,96.026,54.058
+World excluding BRICS,2013,96.227,54.18
+World excluding BRICS,2012,96.053,54.225
+World excluding BRICS,2011,95.982,53.834
+World excluding BRICS,2010,96.022,53.555
+World excluding BRICS,2009,95.967,53.377
+World excluding BRICS,2008,96.092,52.98
+World excluding BRICS,2007,96.347,52.98
+World excluding BRICS,2006,96.364,52.51
+World excluding BRICS,2005,96.425,52.264
+World excluding BRICS,2004,96.418,51.998
+G7,2022,95.486,69.434
+G7,2021,95.589,69.381
+G7,2020,95.491,69.325
+G7,2019,96.204,68.518
+G7,2018,96.092,67.691
+G7,2017,95.997,67.03
+G7,2016,95.889,66.509
+G7,2015,95.99,65.94
+G7,2014,95.958,65.798
+G7,2013,96.159,65.578
+G7,2012,96.298,65.417
+G7,2011,96.284,64.873
+G7,2010,96.508,64.461
+G7,2009,96.562,63.875
+G7,2008,96.947,62.953
+G7,2007,97.053,62.399
+G7,2006,96.979,62.112
+G7,2005,97.024,60.958
+G7,2004,96.815,59.777
+MENA,2022,94.999,19.27
+MENA,2021,95.255,18.514
+MENA,2020,94.73,18.687
+MENA,2019,96.212,19.58
+MENA,2018,95.738,19.929
+MENA,2017,95.268,20.306
+MENA,2016,95.386,21.045
+MENA,2015,95.46,20.5
+MENA,2014,95.3,20.05
+MENA,2013,95.776,20.381
+MENA,2012,94.943,20.258
+MENA,2011,94.996,19.344
+MENA,2010,95.179,19.38
+MENA,2009,94.716,19.349
+MENA,2008,94.626,18.986
+MENA,2007,95.744,20.482
+MENA,2006,96.019,20.079
+MENA,2005,96.241,19.912
+MENA,2004,96.448,19.363
+Arab League,2022,94.822,21.366
+Arab League,2021,94.994,20.723
+Arab League,2020,94.595,21.262
+Arab League,2019,96.065,21.508
+Arab League,2018,95.541,21.78
+Arab League,2017,95.2,22.264
+Arab League,2016,95.584,23.386
+Arab League,2015,95.788,23.316
+Arab League,2014,95.834,23.278
+Arab League,2013,96.422,23.485
+Arab League,2012,95.999,22.831
+Arab League,2011,96.002,22.011
+Arab League,2010,95.884,21.53
+Arab League,2009,94.989,21.168
+Arab League,2008,95.008,20.986
+Arab League,2007,95.919,21.938
+Arab League,2006,96.176,21.083
+Arab League,2005,96.352,20.68
+Arab League,2004,96.395,20.339
+CARICOM,2022,91.041,63.078
+CARICOM,2021,90.894,62.89
+CARICOM,2020,91.017,62.423
+CARICOM,2019,92.137,63.646
+CARICOM,2018,93.014,63.713
+CARICOM,2017,93.324,63.783
+CARICOM,2016,93.542,63.974
+CARICOM,2015,93.933,64.044
+CARICOM,2014,94.177,64.336
+CARICOM,2013,94.479,64.328
+CARICOM,2012,94.953,64.086
+CARICOM,2011,95.294,63.549
+CARICOM,2010,95.323,63.036
+CARICOM,2009,95.772,62.675
+CARICOM,2008,95.723,62.631
+CARICOM,2007,95.643,62.093
+CARICOM,2006,95.265,61.857
+CARICOM,2005,95.12,61.427
+CARICOM,2004,95.233,61.135
+European Union 27,2022,96.056,72.202
+European Union 27,2021,95.636,71.693
+European Union 27,2020,95.636,71.43
+European Union 27,2019,95.897,70.256
+European Union 27,2018,96.028,70.215
+European Union 27,2017,96.106,70.096
+European Union 27,2016,96.185,70.548
+European Union 27,2015,96.245,70.405
+European Union 27,2014,96.175,71.122
+European Union 27,2013,96.205,69.997
+European Union 27,2012,96.455,70.076
+European Union 27,2011,96.507,68.895
+European Union 27,2010,96.643,67.653
+European Union 27,2009,96.782,67.169
+European Union 27,2008,97.131,65.891
+European Union 27,2007,97.213,65.056
+European Union 27,2006,96.882,64.28
+European Union 27,2005,96.768,63.221
+European Union 27,2004,96.548,62.668
+Arab States: Low income,2022,96.788,9.617
+Arab States: Low income,2021,96.091,9.514
+Arab States: Low income,2020,95.383,9.315
+Arab States: Low income,2019,96.272,9.466
+Arab States: Low income,2018,96.183,9.34
+Arab States: Low income,2017,96.157,9.088
+Arab States: Low income,2016,96.169,9.19
+Arab States: Low income,2015,96.214,9.17
+Arab States: Low income,2014,96.106,9.19
+Arab States: Low income,2013,95.856,9.46
+Arab States: Low income,2012,95.615,9.807
+Arab States: Low income,2011,95.478,10.174
+Arab States: Low income,2010,95.795,10.548
+Arab States: Low income,2009,96.263,10.674
+Arab States: Low income,2008,96.174,11.811
+Arab States: Low income,2007,96.094,12.987
+Arab States: Low income,2006,98.101,14.296
+Arab States: Low income,2005,97.962,15.926
+Arab States: Low income,2004,97.647,17.477
+APEC,2022,95.936,65.393
+APEC,2021,96.335,66.078
+APEC,2020,94.936,64.576
+APEC,2019,96.72,66.363
+APEC,2018,96.636,66.099
+APEC,2017,96.638,65.981
+APEC,2016,96.942,66.359
+APEC,2015,97.365,66.868
+APEC,2014,97.646,67.118
+APEC,2013,97.958,67.202
+APEC,2012,98.257,67.481
+APEC,2011,98.577,67.277
+APEC,2010,98.594,66.732
+APEC,2009,98.56,66.595
+APEC,2008,98.677,66.524
+APEC,2007,98.716,66.476
+APEC,2006,98.721,66.022
+APEC,2005,98.696,65.983
+APEC,2004,98.602,65.961
+Yemen,2022,94.56,6.848
+Yemen,2021,93.511,6.668
+Yemen,2020,93.062,6.522
+Yemen,2019,93.856,6.59
+Yemen,2018,93.773,6.538
+Yemen,2017,93.689,6.487
+Yemen,2016,93.576,6.472
+Yemen,2015,93.439,6.487
+Yemen,2014,93.2,6.6
+Yemen,2013,93.635,7.358
+Yemen,2012,94.053,8.198
+Yemen,2011,94.451,9.126
+Yemen,2010,94.826,10.155
+Yemen,2009,95.039,11.073
+Yemen,2008,95.24,12.064
+Yemen,2007,95.433,13.127
+Yemen,2006,95.618,14.262
+Yemen,2005,95.799,15.47
+Yemen,2004,95.982,16.748
+South Africa,2022,86.857,64.326
+South Africa,2021,86.934,63.311
+South Africa,2020,84.794,61.638
+South Africa,2019,89.963,66.705
+South Africa,2018,89.979,65.891
+South Africa,2017,90.27,65.919
+South Africa,2016,90.463,64.939
+South Africa,2015,90.59,64.815
+South Africa,2014,90.166,63.102
+South Africa,2013,90.732,64.141
+South Africa,2012,91.818,65.273
+South Africa,2011,92.16,66.469
+South Africa,2010,92.372,64.629
+South Africa,2009,94.955,69.119
+South Africa,2008,96.527,69.944
+South Africa,2007,96.654,69.858
+South Africa,2006,96.969,69.957
+South Africa,2005,97.103,69.483
+South Africa,2004,97.146,68.65
+Zambia,2022,90.263,58.976
+Zambia,2021,90.158,59.145
+Zambia,2020,89.6,62.2
+Zambia,2019,89.8,57.5
+Zambia,2018,89.5,57.6
+Zambia,2017,89.802,57.113
+Zambia,2016,90.107,56.684
+Zambia,2015,90.398,56.349
+Zambia,2014,90.712,56.047
+Zambia,2013,91.036,55.831
+Zambia,2012,91.37,55.683
+Zambia,2011,91.713,55.559
+Zambia,2010,92.088,55.454
+Zambia,2009,92.435,55.546
+Zambia,2008,92.805,55.666
+Zambia,2007,93.19,55.817
+Zambia,2006,93.558,56.005
+Zambia,2005,93.896,56.251
+Zambia,2004,94.221,56.413
+Zimbabwe,2022,88.338,72.478
+Zimbabwe,2021,87.909,71.959
+Zimbabwe,2020,87.159,71.135
+Zimbabwe,2019,87.948,71.827
+Zimbabwe,2018,88.409,71.55
+Zimbabwe,2017,88.236,70.948
+Zimbabwe,2016,88.227,70.353
+Zimbabwe,2015,88.318,70.168
+Zimbabwe,2014,88.355,69.969
+Zimbabwe,2013,88.29,70.1
+Zimbabwe,2012,88.113,69.244
+Zimbabwe,2011,87.797,69.134
+Zimbabwe,2010,87.743,69.004
+Zimbabwe,2009,87.619,68.738
+Zimbabwe,2008,87.679,68.802
+Zimbabwe,2007,88.257,71.098
+Zimbabwe,2006,88.79,72.102
+Zimbabwe,2005,89.375,72.423
+Zimbabwe,2004,89.837,72.434
